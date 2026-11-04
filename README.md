@@ -2,7 +2,7 @@
 O projeto foi criado para ajudar meu irmão na reta final de estudos para o ENEM (Exame Nacional do Ensino Médio). A ideia é conseguir elencar os cinco temas de cada matéria que caíram com maior frequência nos últimos 6 anos e permitir concentrar as últimas horas de estudo nos conteúdos com maior probabilidade de aparecer.
 Indo um pouco além dessa ideia inicial, o projeto ainda fez o link entre o material do cursinho, os temas que mais caem e as questões do ENEM relacionadas para que o tempo seja gasto estudando, e não organizando o estudo.
 
-Confira o resultado [aqui](Resultados/Humanas/Guia de Estudo.md).
+Confira o resultado [aqui](Resultados/Humanas/GuiadeEstudo.md).
 
 ## Tech
 ___
