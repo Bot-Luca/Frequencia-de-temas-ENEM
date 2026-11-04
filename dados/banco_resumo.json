@@ -1,0 +1,19 @@
+{
+  "total": 270,
+  "top5": 254,
+  "rotulo": 16,
+  "por_materia": {
+    "geografia": 90,
+    "sociologia": 57,
+    "historia": 75,
+    "filosofia": 48
+  },
+  "por_ano": {
+    "2020": 45,
+    "2021": 45,
+    "2022": 45,
+    "2023": 45,
+    "2024": 45,
+    "2025": 45
+  }
+}

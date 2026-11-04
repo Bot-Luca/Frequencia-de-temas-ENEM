@@ -1,0 +1,45 @@
+46|geografia|socioambiental|imagem|sertão;bordado;regional
+47|historia|transformacao-permanencia|texto|costumes;século XIX;tradições
+48|geografia|producao-espaco|texto|Cerrado;territorialização;produção
+49|geografia|populacao|texto|China;política demográfica
+50|sociologia|identidade-cultura|texto|escravidão;formação cultural;memória
+51|historia|interpretar-fonte|texto|Balfour;Palestina;Inglaterra
+52|filosofia|aplicar-conceito|texto|Paulo Freire;ética pedagógica
+53|geografia|socioambiental|texto|Himalaia;tectônica
+54|filosofia|comparar-autores|texto|Descartes;corpo;raiva
+55|sociologia|conceito|texto|Adorno;tempo livre;indústria cultural
+56|sociologia|cotidiano|charge|charge;superpoderes;sociedade contemporânea
+57|filosofia|questao-eticamente-julgada|texto|Ricoeur;perdão
+58|sociologia|identidade-cultura|texto|Cavalgada;devoção;cultura
+59|sociologia|conceito|texto|Elias;etiqueta;processo civilizador
+60|sociologia|desigualdade|texto|Maria da Penha;violência de gênero
+61|sociologia|cotidiano|texto|Google Assistant;privacidade
+62|geografia|redes-globalizacao|texto|Coreias;fronteira;geopolítica
+63|historia|interpretar-fonte|texto|seda;rotas comerciais;arte
+64|geografia|socioambiental|texto|Txai Suruí;COP-26;indígenas
+65|sociologia|movimentos-sociais|texto|museu;mobilizações sociais
+66|sociologia|desigualdade|texto|fome;crianças;Brasil
+67|geografia|socioambiental|texto|agrofloresta;Bahia;conservação
+68|geografia|populacao|texto|mocambos;Recife;urbanização
+69|sociologia|desigualdade|texto|Afeganistão;direitos das mulheres
+70|historia|processo-politico|texto|cemitério;regime militar;1970
+71|geografia|producao-espaco|texto|logística;soja;produção
+72|geografia|redes-globalizacao|charge|corrida espacial;geopolítica
+73|historia|processo-politico|texto|expansão marítima;século XV
+74|historia|comparar-processos|texto|incas;dominação;cultura
+75|sociologia|movimentos-sociais|texto|Fluminense;torcida;comportamento
+76|geografia|populacao|grafico|fecundidade;demografia
+77|historia|interpretar-fonte|texto|Iluminismo;1828;ideia
+78|geografia|socioambiental|texto|agricultura urbana;favela
+79|filosofia|comparar-autores|texto|Sartre;determinismo;existencialismo
+80|historia|processo-politico|texto|golpe militar;sindicatos rurais
+81|filosofia|interpretar-fragmento|texto|Foucault;poder punitivo
+82|historia|interpretar-fonte|texto|imigrantes;cartas;vapor
+83|geografia|socioambiental|texto|solos;degradação
+84|historia|transformacao-permanencia|texto|cozinha;mulheres;1930
+85|geografia|redes-globalizacao|texto|Mercosul;produtores rurais
+86|historia|interpretar-fonte|texto|Balzac;Revolução Francesa;postura
+87|historia|interpretar-fonte|texto|judeus;imigração;tratamento
+88|filosofia|questao-eticamente-julgada|texto|competição;moral
+89|geografia|socioambiental|mapa|clima;simulações;mitigação
+90|filosofia|comparar-autores|texto|Machado de Assis;sofistas

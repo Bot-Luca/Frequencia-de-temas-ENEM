@@ -1,0 +1,3817 @@
+{
+  "geografia|Globalização, Geopolítica e Integração Regional": [
+    {
+      "ano": 2020,
+      "q": 46,
+      "temas": [
+        "Brasil-China",
+        "balança comercial",
+        "assimetria"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - Comércio internacional",
+        "Capítulo 14 - Geopolítica global II: Ascensão chinesa e multipolaridade"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 62,
+      "temas": [
+        "Mercosul",
+        "tarifas"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 18 - América Latina: Regionalização e evolução político-econômica"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 68,
+      "temas": [
+        "EUA",
+        "mapa",
+        "estratégia"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 15 - Conflitos internacionals: Expansão da OTAN e a geopolítica Russa"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 69,
+      "temas": [
+        "Crimeia",
+        "geopolítica"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 13 - Geopolítica global : Crise da bipolaridade e Nova Ordem Mundial",
+        "Capítulo 14 - Geopolítica global II: Ascensão chinesa e multipolaridade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 49,
+      "temas": [
+        "China",
+        "política demográfica"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 14 - Geopolítica global II: Ascensão chinesa e multipolaridade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 62,
+      "temas": [
+        "Coreias",
+        "fronteira",
+        "geopolítica"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 13 - Geopolítica global : Crise da bipolaridade e Nova Ordem Mundial",
+        "Capítulo 14 - Geopolítica global II: Ascensão chinesa e multipolaridade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 72,
+      "temas": [
+        "corrida espacial",
+        "geopolítica"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 13 - Geopolítica global : Crise da bipolaridade e Nova Ordem Mundial",
+        "Capítulo 14 - Geopolítica global II: Ascensão chinesa e multipolaridade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 85,
+      "temas": [
+        "Mercosul",
+        "produtores rurais"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 18 - América Latina: Regionalização e evolução político-econômica"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 89,
+      "temas": [
+        "Conselho de Segurança",
+        "ONU",
+        "relações internacionais"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 13 - Geopolítica global : Crise da bipolaridade e Nova Ordem Mundial"
+      ]
+    }
+  ],
+  "geografia|Espaço Urbano e População": [
+    {
+      "ano": 2020,
+      "q": 47,
+      "temas": [
+        "rural",
+        "emprego agrícola",
+        "população"
+      ],
+      "tipo": "populacao",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 08 - Demografia I: Conceitos e teorias demográficos",
+        "Capítulo 09 - Demografia II: Fases demográficas e transição etária"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 50,
+      "temas": [
+        "urbanização",
+        "aglomerações urbanas"
+      ],
+      "tipo": "populacao",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 55,
+      "temas": [
+        "refugiados",
+        "fronteiras",
+        "migração"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 10 - Migrações internacionais",
+        "Capítulo 11 - Migrações brasileiras"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 58,
+      "temas": [
+        "cidade",
+        "paisagem",
+        "transformação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 52,
+      "temas": [
+        "sertão",
+        "rural",
+        "cidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira",
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 72,
+      "temas": [
+        "deslocamento",
+        "trabalho",
+        "cidade"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos",
+        "Capítulo 11 - Migrações brasileiras"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 68,
+      "temas": [
+        "mocambos",
+        "Recife",
+        "urbanização"
+      ],
+      "tipo": "populacao",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 76,
+      "temas": [
+        "fecundidade",
+        "demografia"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 08 - Demografia I: Conceitos e teorias demográficos",
+        "Capítulo 09 - Demografia II: Fases demográficas e transição etária"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 53,
+      "temas": [
+        "inundação",
+        "desastre natural",
+        "velocidade"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 57,
+      "temas": [
+        "espaço público",
+        "cidade",
+        "visibilidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 79,
+      "temas": [
+        "refugiados",
+        "fronteiras",
+        "políticas públicas"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 10 - Migrações internacionais"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 88,
+      "temas": [
+        "mudança climática",
+        "cidades",
+        "adaptação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 54,
+      "temas": [
+        "Êxodo urbano",
+        "Deslocamento populacional",
+        "Elite",
+        "Metrópole"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 11 - Migrações brasileiras",
+        "Capítulo 12 - Regiões metropolitanas e megalópoles"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 57,
+      "temas": [
+        "Itinerários afetivos",
+        "Socioespaço",
+        "Memória do lugar",
+        "Migração Nordeste-Sudeste"
+      ],
+      "tipo": "populacao",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 10 - Migrações internacionais",
+        "Capítulo 11 - Migrações brasileiras"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 80,
+      "temas": [
+        "Cidade sustentável",
+        "Equidade socioespacial",
+        "Ecologia urbana",
+        "Planejamento urbano"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    }
+  ],
+  "sociologia|Trabalho e Organização Social": [
+    {
+      "ano": 2020,
+      "q": 48,
+      "temas": [
+        "feminização",
+        "trabalho",
+        "igualdade"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 63,
+      "temas": [
+        "trabalho",
+        "modernidade",
+        "mentalidade"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 78,
+      "temas": [
+        "toyotismo",
+        "organização do trabalho"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 46,
+      "temas": [
+        "trabalho remoto",
+        "saúde",
+        "família"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 54,
+      "temas": [
+        "tecnologia",
+        "profissões",
+        "trabalho"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 61,
+      "temas": [
+        "dublagem",
+        "inteligência artificial",
+        "trabalho"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 90,
+      "temas": [
+        "capitalismo",
+        "trabalho",
+        "desumanização"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 67,
+      "temas": [
+        "Fazenda Cabaceiras",
+        "Função social da terra",
+        "Trabalho análogo à escravidão",
+        "Desapropriação"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 04 - O mundo do trabalho"
+      ]
+    }
+  ],
+  "historia|República Velha e Era Vargas": [
+    {
+      "ano": 2020,
+      "q": 49,
+      "temas": [
+        "reforma agrária",
+        "direito à propriedade"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 69,
+      "temas": [
+        "Vargas",
+        "Estado Novo",
+        "migração"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 73,
+      "temas": [
+        "Vargas",
+        "suicídio",
+        "1954"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 81,
+      "temas": [
+        "Manifesto dos Pioneiros",
+        "educação",
+        "1932"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 58,
+      "temas": [
+        "práticas religiosas",
+        "1889",
+        "dois textos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 73,
+      "temas": [
+        "Primeiro de Maio",
+        "comemoração"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 81,
+      "temas": [
+        "DIP",
+        "Estado Novo",
+        "decreto"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 80,
+      "temas": [
+        "golpe militar",
+        "sindicatos rurais"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 12 - Ditadura militar (1964-1985)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 87,
+      "temas": [
+        "judeus",
+        "imigração",
+        "tratamento"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 47,
+      "temas": [
+        "sanitarismo",
+        "saúde pública",
+        "décadas de 1920"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 03 - Crise de 1929",
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 77,
+      "temas": [
+        "DIP",
+        "Estado Novo",
+        "revista"
+      ],
+      "tipo": "fonte-visual",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 58,
+      "temas": [
+        "Reforma de 1881",
+        "Eleitorado",
+        "Voto",
+        "Alfabetização"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 11 - República democrática (1946-1964)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 64,
+      "temas": [
+        "Getúlio Vargas",
+        "Rua Tonelero",
+        "Carlos Lacerda",
+        "Anos 1950"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 11 - República democrática (1946-1964)"
+      ]
+    }
+  ],
+  "historia|Brasil Colônia e Império": [
+    {
+      "ano": 2020,
+      "q": 49,
+      "temas": [
+        "reforma agrária",
+        "direito à propriedade"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 66,
+      "temas": [
+        "dança",
+        "comandos franceses",
+        "sincretismo"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 71,
+      "temas": [
+        "terra",
+        "Cora Coralina",
+        "apropriação"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 79,
+      "temas": [
+        "coolies",
+        "escravidão",
+        "comparação"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 81,
+      "temas": [
+        "jesuítas",
+        "escravidão",
+        "expansão ultramarina"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 85,
+      "temas": [
+        "Pernambuco",
+        "independência",
+        "dissensões"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 12 - Emancipação da América espanhola",
+        "Capítulo 14 - Brasil Império: Primeiro Reinado (1822-1831)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 49,
+      "temas": [
+        "patrimônio",
+        "conservação",
+        "dois textos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 52,
+      "temas": [
+        "lei Aberdeen",
+        "tráfico",
+        "século XIX"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 67,
+      "temas": [
+        "incêndios",
+        "história",
+        "fonte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 74,
+      "temas": [
+        "Dom João",
+        "carta régia",
+        "revoltas"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 13 - Brasil Império: Período Joanino (1808-1822)",
+        "Capítulo 15 - América Portuguesa - Mineração e Revoltas separatistas"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 75,
+      "temas": [
+        "medicina",
+        "saberes",
+        "colonização"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 77,
+      "temas": [
+        "independência",
+        "Brasil",
+        "América espanhola"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 12 - Emancipação da América espanhola",
+        "Capítulo 14 - Brasil Império: Primeiro Reinado (1822-1831)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 85,
+      "temas": [
+        "escravo fugido",
+        "anúncio",
+        "escravidão"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 90,
+      "temas": [
+        "escravos",
+        "Rio de Janeiro",
+        "cotidiano"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 53,
+      "temas": [
+        "mulheres letradas",
+        "Segundo Reinado",
+        "leitura"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 54,
+      "temas": [
+        "caixeiros",
+        "Rio de Janeiro",
+        "trabalhadores"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 58,
+      "temas": [
+        "práticas religiosas",
+        "1889",
+        "dois textos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 66,
+      "temas": [
+        "lei educacional de 1827",
+        "discursos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 14 - Brasil Império: Primeiro Reinado (1822-1831)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 76,
+      "temas": [
+        "açude",
+        "construção",
+        "trabalhadores"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 77,
+      "temas": [
+        "medicina",
+        "impérios coloniais",
+        "doenças"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 79,
+      "temas": [
+        "objeto museológico",
+        "patrimônio",
+        "história"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 89,
+      "temas": [
+        "incas",
+        "legado",
+        "cirurgia"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 10 - América Castelhana"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 47,
+      "temas": [
+        "costumes",
+        "século XIX",
+        "tradições"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 51,
+      "temas": [
+        "Balfour",
+        "Palestina",
+        "Inglaterra"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Ideário político do século XIX",
+        "Capítulo 06 - Revoluções burguesas e unificações",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 63,
+      "temas": [
+        "seda",
+        "rotas comerciais",
+        "arte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 70,
+      "temas": [
+        "cemitério",
+        "regime militar",
+        "1970"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 73,
+      "temas": [
+        "expansão marítima",
+        "século XV"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 07 - Expansão marítima e comercial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 74,
+      "temas": [
+        "incas",
+        "dominação",
+        "cultura"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 10 - América Castelhana",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 82,
+      "temas": [
+        "imigrantes",
+        "cartas",
+        "vapor"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 09 - Estados Unidos no século XIX",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 84,
+      "temas": [
+        "cozinha",
+        "mulheres",
+        "1930"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 87,
+      "temas": [
+        "judeus",
+        "imigração",
+        "tratamento"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 49,
+      "temas": [
+        "Belle Époque",
+        "modernização",
+        "transportes"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 11 - Geografia das redes",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 50,
+      "temas": [
+        "Las Casas",
+        "colonização",
+        "pontos de vista"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 51,
+      "temas": [
+        "valsa",
+        "Idade Moderna",
+        "costumes"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 59,
+      "temas": [
+        "universidades medievais",
+        "patrimônio",
+        "legado"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média",
+        "Capítulo 10 - América Castelhana",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 64,
+      "temas": [
+        "abolicionismo",
+        "artistas",
+        "Chiquinha Gonzaga"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 73,
+      "temas": [
+        "cordel",
+        "xilogravura",
+        "século XX"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 84,
+      "temas": [
+        "regatão",
+        "Amazônia",
+        "século XIX"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 14 - América Portuguesa - Expansão territorial e bandeirantismo"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 49,
+      "temas": [
+        "Veneza",
+        "Idade Moderna",
+        "Cosmopolitismo",
+        "Comércio mediterrâneo"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 08 - Renascimento"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 58,
+      "temas": [
+        "Reforma de 1881",
+        "Eleitorado",
+        "Voto",
+        "Alfabetização"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 11 - República democrática (1946-1964)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 71,
+      "temas": [
+        "Muro de Berlim",
+        "Memória coletiva",
+        "Patrimônio",
+        "East Side Gallery"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 13 - Nova República",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 73,
+      "temas": [
+        "Canibalismo",
+        "Tupis",
+        "Europeus",
+        "Colonização"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 78,
+      "temas": [
+        "Roda dos Expósitos",
+        "Salvador",
+        "Brasil Colônia",
+        "Caridade e salvação"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 83,
+      "temas": [
+        "Impressão Régia",
+        "Império português",
+        "1808",
+        "Imprensa e poder"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma",
+        "Capítulo 13 - Brasil Império: Período Joanino (1808-1822)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 85,
+      "temas": [
+        "Cinema",
+        "Didática escolar",
+        "Século XX",
+        "Discursos contraditórios"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 13 - Nova República",
+        "Capítulo 14 - Brasil Império: Primeiro Reinado (1822-1831)"
+      ]
+    }
+  ],
+  "historia|Ditadura Militar e Contemporânea": [
+    {
+      "ano": 2020,
+      "q": 52,
+      "temas": [
+        "Reforma",
+        "imprensa",
+        "século XVI"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 70,
+      "temas": [
+        "cemitério",
+        "regime militar",
+        "1970"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 80,
+      "temas": [
+        "golpe militar",
+        "sindicatos rurais"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 12 - Ditadura militar (1964-1985)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 87,
+      "temas": [
+        "judeus",
+        "imigração",
+        "tratamento"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 10 - Era Vargas (1930-1945)",
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 66,
+      "temas": [
+        "pílula anticoncepcional",
+        "gênero",
+        "tecnologia"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 13 - Nova República"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 52,
+      "temas": [
+        "Gripe espanhola",
+        "Primeira Guerra Mundial",
+        "Censura de imprensa",
+        "Origem da pandemia"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 01 - Grande Guerra",
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma",
+        "Capítulo 12 - Ditadura militar (1964-1985)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 71,
+      "temas": [
+        "Muro de Berlim",
+        "Memória coletiva",
+        "Patrimônio",
+        "East Side Gallery"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 13 - Nova República",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 83,
+      "temas": [
+        "Impressão Régia",
+        "Império português",
+        "1808",
+        "Imprensa e poder"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma",
+        "Capítulo 13 - Brasil Império: Período Joanino (1808-1822)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 85,
+      "temas": [
+        "Cinema",
+        "Didática escolar",
+        "Século XX",
+        "Discursos contraditórios"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 12 - Ditadura militar (1964-1985)",
+        "Capítulo 13 - Nova República",
+        "Capítulo 14 - Brasil Império: Primeiro Reinado (1822-1831)"
+      ]
+    }
+  ],
+  "historia|Antiguidade, Idade Média e Idade Moderna": [
+    {
+      "ano": 2020,
+      "q": 52,
+      "temas": [
+        "Reforma",
+        "imprensa",
+        "século XVI"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 62,
+      "temas": [
+        "Código de Hamurabi",
+        "leis",
+        "Mesopotâmia"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 68,
+      "temas": [
+        "biografia histórica",
+        "historiografia"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 70,
+      "temas": [
+        "Roma",
+        "Cartago",
+        "Salústio"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 76,
+      "temas": [
+        "Tocqueville",
+        "leis de sucessão",
+        "democracia"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Mundo Antigo: Grécia",
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Ideário político do século XIX"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 83,
+      "temas": [
+        "cristianismo",
+        "Império Romano",
+        "Sennett"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 87,
+      "temas": [
+        "Grécia",
+        "democracia",
+        "povo"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Mundo Antigo: Grécia",
+        "Capítulo 07 - Ideário político do século XIX"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 67,
+      "temas": [
+        "incêndios",
+        "história",
+        "fonte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 76,
+      "temas": [
+        "heresias",
+        "cristandade",
+        "universidades"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 63,
+      "temas": [
+        "fome",
+        "Itália",
+        "jurisdição"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 06 - Revoluções burguesas e unificações"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 77,
+      "temas": [
+        "medicina",
+        "impérios coloniais",
+        "doenças"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 85,
+      "temas": [
+        "Inquisição",
+        "rito",
+        "Igreja"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 89,
+      "temas": [
+        "incas",
+        "legado",
+        "cirurgia"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 10 - América Castelhana"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 63,
+      "temas": [
+        "seda",
+        "rotas comerciais",
+        "arte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 77,
+      "temas": [
+        "Iluminismo",
+        "1828",
+        "ideia"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 03 - Iluminismo",
+        "Capítulo 06 - Teorias políticas da Idade Moderna"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 51,
+      "temas": [
+        "valsa",
+        "Idade Moderna",
+        "costumes"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 59,
+      "temas": [
+        "universidades medievais",
+        "patrimônio",
+        "legado"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média",
+        "Capítulo 10 - América Castelhana",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 75,
+      "temas": [
+        "Iluminismo",
+        "salões",
+        "esfera pública"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 03 - Iluminismo",
+        "Capítulo 06 - Teorias políticas da Idade Moderna"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 49,
+      "temas": [
+        "Veneza",
+        "Idade Moderna",
+        "Cosmopolitismo",
+        "Comércio mediterrâneo"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 08 - Renascimento"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 52,
+      "temas": [
+        "Gripe espanhola",
+        "Primeira Guerra Mundial",
+        "Censura de imprensa",
+        "Origem da pandemia"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 01 - Grande Guerra",
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma",
+        "Capítulo 12 - Ditadura militar (1964-1985)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 69,
+      "temas": [
+        "Idade Média",
+        "Igreja",
+        "Salvação",
+        "Cruzadas"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 83,
+      "temas": [
+        "Impressão Régia",
+        "Império português",
+        "1808",
+        "Imprensa e poder"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 09 - Reforma Protestante e Contrarreforma",
+        "Capítulo 13 - Brasil Império: Período Joanino (1808-1822)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 87,
+      "temas": [
+        "Roma Antiga",
+        "Patrícios",
+        "Plebeus",
+        "Participação política"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 89,
+      "temas": [
+        "Textos sagrados",
+        "Ciência",
+        "Antiguidade",
+        "Idade Média"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Mundo Antigo: Grécia",
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 90,
+      "temas": [
+        "Expedição russa",
+        "Antropologia",
+        "Nacionalismo",
+        "Império"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Grande Guerra",
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 06 - Ideário político do século XIX",
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 08 - Imperialismo e Neocolonialismo"
+      ]
+    }
+  ],
+  "sociologia|Cultura, Identidade e Diferença": [
+    {
+      "ano": 2020,
+      "q": 54,
+      "temas": [
+        "arte africana",
+        "cultura",
+        "identidade"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 53,
+      "temas": [
+        "sertão",
+        "cultura popular",
+        "patrimônio"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 56,
+      "temas": [
+        "mulheres naturalistas",
+        "gênero",
+        "ciência"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 80,
+      "temas": [
+        "sociedade em transição",
+        "instituições"
+      ],
+      "tipo": "instituicoes-participacao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 03 - Meios de comunicação e Sociedade"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 75,
+      "temas": [
+        "Kambeba",
+        "rio",
+        "cultura"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 50,
+      "temas": [
+        "escravidão",
+        "formação cultural",
+        "memória"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 55,
+      "temas": [
+        "Adorno",
+        "tempo livre",
+        "indústria cultural"
+      ],
+      "tipo": "conceito",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 56,
+      "temas": [
+        "charge",
+        "superpoderes",
+        "sociedade contemporânea"
+      ],
+      "tipo": "cotidiano",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 03 - Meios de comunicação e Sociedade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 58,
+      "temas": [
+        "Cavalgada",
+        "devoção",
+        "cultura"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 60,
+      "temas": [
+        "Maria da Penha",
+        "violência de gênero"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 52,
+      "temas": [
+        "Black Lives Matter",
+        "identidade",
+        "política"
+      ],
+      "tipo": "movimentos-sociais",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 63,
+      "temas": [
+        "indústria cultural",
+        "arte",
+        "reflexão"
+      ],
+      "tipo": "conceito",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 65,
+      "temas": [
+        "globalização",
+        "identidade",
+        "Hall"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 51,
+      "temas": [
+        "Canção de Paulinho da Viola",
+        "Vida cotidiana",
+        "Memória",
+        "Vínculos afetivos"
+      ],
+      "tipo": "cotidiano",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 53,
+      "temas": [
+        "Dança",
+        "Cultura corporal",
+        "Igreja medieval",
+        "Culto gospel"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 81,
+      "temas": [
+        "Discriminação positiva",
+        "Gênero",
+        "Políticas públicas",
+        "Mulheres"
+      ],
+      "tipo": "conceito",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 88,
+      "temas": [
+        "Povos indígenas",
+        "Saberes tradicionais",
+        "Direitos culturais",
+        "ONU"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas",
+        "Capítulo 07 - Cidadania e Direitos"
+      ]
+    }
+  ],
+  "geografia|Agricultura, Uso do Solo e Espaço Rural": [
+    {
+      "ano": 2020,
+      "q": 56,
+      "temas": [
+        "alimentos",
+        "recurso natural",
+        "agricultura"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 59,
+      "temas": [
+        "escudos cristalinos",
+        "mineração"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 67,
+      "temas": [
+        "vulcões",
+        "fenda tectônica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 82,
+      "temas": [
+        "vulcões",
+        "risco",
+        "Puebla"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 84,
+      "temas": [
+        "placas tectônicas",
+        "feição fisiográfica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 48,
+      "temas": [
+        "uvas",
+        "melhoramento genético",
+        "agricultura"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 59,
+      "temas": [
+        "semiárido",
+        "clima",
+        "saber tradicional"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 03 - Introdução à climatologia",
+        "Capítulo 04 - Climatologia I: Circulação atmosférica e marinha",
+        "Capítulo 05 - Climatologia II: Classificação climática e climogramas brasileiros",
+        "Capítulo 07 - Geografia agrária: Sistemas de produção"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 63,
+      "temas": [
+        "mineração",
+        "conflitos",
+        "extrativismo"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 52,
+      "temas": [
+        "sertão",
+        "rural",
+        "cidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira",
+        "Capítulo 09 - Introdução à geografia urbana",
+        "Capítulo 10 - Urbanização acelerada: problemas urbanos"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 55,
+      "temas": [
+        "solos salinos",
+        "agricultura"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 06 - Pedogénese e processos erosivos",
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 07 - Técnicas conservativas e degradativas do solo",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 46,
+      "temas": [
+        "sertão",
+        "bordado",
+        "regional"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 78,
+      "temas": [
+        "agricultura urbana",
+        "favela"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 83,
+      "temas": [
+        "solos",
+        "degradação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 03 - Degradação ambiental e politicas ambientais no Brasil",
+        "Capítulo 06 - Pedogénese e processos erosivos",
+        "Capítulo 07 - Técnicas conservativas e degradativas do solo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 46,
+      "temas": [
+        "terremoto",
+        "placas tectônicas",
+        "Chile"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - Dinámica interna da Terra e agentes endógenos"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 75,
+      "temas": [
+        "Inseticidas",
+        "Polinizadores",
+        "Agricultura",
+        "Biodiversidade"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 07 - Geografia agrária: Sistemas de produção",
+        "Capítulo 08 - Geografia agrária II: Agricultura brasileira"
+      ]
+    }
+  ],
+  "filosofia|Antropologia Filosófica e Existência": [
+    {
+      "ano": 2020,
+      "q": 60,
+      "temas": [
+        "Tolstoi",
+        "morte",
+        "filosofia"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 05 - Existencialismo e Fenomenologia"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 87,
+      "temas": [
+        "Nietzsche",
+        "amor fati"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 04 - Schopenhauer e Nietzsche",
+        "Capítulo 05 - Existencialismo e Fenomenologia"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 79,
+      "temas": [
+        "Sartre",
+        "determinismo",
+        "existencialismo"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 05 - Existencialismo e Fenomenologia"
+      ]
+    }
+  ],
+  "sociologia|Movimentos Sociais e Instituições": [
+    {
+      "ano": 2020,
+      "q": 64,
+      "temas": [
+        "anos 1990",
+        "governo",
+        "questão social"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 05 - Estado e Governo"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 71,
+      "temas": [
+        "Estado de direito",
+        "violação"
+      ],
+      "tipo": "instituicoes-participacao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 05 - Estado e Governo"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 69,
+      "temas": [
+        "Afeganistão",
+        "direitos das mulheres"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Cidadania e Direitos"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 81,
+      "temas": [
+        "quilombos",
+        "Constituição de 1988",
+        "Estado"
+      ],
+      "tipo": "instituicoes-participacao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 05 - Estado e Governo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 85,
+      "temas": [
+        "Madres de Plaza de Mayo",
+        "Argentina",
+        "violência de Estado"
+      ],
+      "tipo": "movimentos-sociais",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 05 - Estado e Governo"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 88,
+      "temas": [
+        "Povos indígenas",
+        "Saberes tradicionais",
+        "Direitos culturais",
+        "ONU"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 01 - Antropologia cultural",
+        "Capítulo 02 - Esferas da cultura de massas",
+        "Capítulo 07 - Cidadania e Direitos"
+      ]
+    }
+  ],
+  "historia|Sociedade, Cultura e Trabalho no Brasil": [
+    {
+      "ano": 2020,
+      "q": 66,
+      "temas": [
+        "dança",
+        "comandos franceses",
+        "sincretismo"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 71,
+      "temas": [
+        "terra",
+        "Cora Coralina",
+        "apropriação"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 76,
+      "temas": [
+        "Tocqueville",
+        "leis de sucessão",
+        "democracia"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Mundo Antigo: Grécia",
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Ideário político do século XIX"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 79,
+      "temas": [
+        "coolies",
+        "escravidão",
+        "comparação"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 81,
+      "temas": [
+        "jesuítas",
+        "escravidão",
+        "expansão ultramarina"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 87,
+      "temas": [
+        "Grécia",
+        "democracia",
+        "povo"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Mundo Antigo: Grécia",
+        "Capítulo 07 - Ideário político do século XIX"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 49,
+      "temas": [
+        "patrimônio",
+        "conservação",
+        "dois textos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 67,
+      "temas": [
+        "incêndios",
+        "história",
+        "fonte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 74,
+      "temas": [
+        "Dom João",
+        "carta régia",
+        "revoltas"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 13 - Brasil Império: Período Joanino (1808-1822)",
+        "Capítulo 15 - América Portuguesa - Mineração e Revoltas separatistas"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 78,
+      "temas": [
+        "Macaulay",
+        "interpretações",
+        "história"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 07 - Ideário político do século XIX"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 85,
+      "temas": [
+        "escravo fugido",
+        "anúncio",
+        "escravidão"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 90,
+      "temas": [
+        "escravos",
+        "Rio de Janeiro",
+        "cotidiano"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 53,
+      "temas": [
+        "mulheres letradas",
+        "Segundo Reinado",
+        "leitura"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 54,
+      "temas": [
+        "caixeiros",
+        "Rio de Janeiro",
+        "trabalhadores"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 58,
+      "temas": [
+        "práticas religiosas",
+        "1889",
+        "dois textos"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 09 - Primeira República (1889-1930)",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 76,
+      "temas": [
+        "açude",
+        "construção",
+        "trabalhadores"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 77,
+      "temas": [
+        "medicina",
+        "impérios coloniais",
+        "doenças"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 11 - América Portuguesa: aspectos políticos e econômicos",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 79,
+      "temas": [
+        "objeto museológico",
+        "patrimônio",
+        "história"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 47,
+      "temas": [
+        "costumes",
+        "século XIX",
+        "tradições"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 51,
+      "temas": [
+        "Balfour",
+        "Palestina",
+        "Inglaterra"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Ideário político do século XIX",
+        "Capítulo 06 - Revoluções burguesas e unificações",
+        "Capítulo 08 - Imperialismo e Neocolonialismo",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 63,
+      "temas": [
+        "seda",
+        "rotas comerciais",
+        "arte"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 07 - Expansão marítima e comercial",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 74,
+      "temas": [
+        "incas",
+        "dominação",
+        "cultura"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 10 - América Castelhana",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 82,
+      "temas": [
+        "imigrantes",
+        "cartas",
+        "vapor"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 02 - Revolução Industrial",
+        "Capítulo 09 - Estados Unidos no século XIX",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 84,
+      "temas": [
+        "cozinha",
+        "mulheres",
+        "1930"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 49,
+      "temas": [
+        "Belle Époque",
+        "modernização",
+        "transportes"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 11 - Geografia das redes",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 51,
+      "temas": [
+        "valsa",
+        "Idade Moderna",
+        "costumes"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 06 - Teorias políticas da Idade Moderna",
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 08 - Renascimento",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 59,
+      "temas": [
+        "universidades medievais",
+        "patrimônio",
+        "legado"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 03 - Alta Idade Média",
+        "Capítulo 04 - Baixa Idade Média",
+        "Capítulo 10 - América Castelhana",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 73,
+      "temas": [
+        "cordel",
+        "xilogravura",
+        "século XX"
+      ],
+      "tipo": "transformacao-permanencia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 71,
+      "temas": [
+        "Muro de Berlim",
+        "Memória coletiva",
+        "Patrimônio",
+        "East Side Gallery"
+      ],
+      "tipo": "memoria-versao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 08 - Guerra Fria",
+        "Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial",
+        "Capítulo 13 - Nova República",
+        "Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 90,
+      "temas": [
+        "Expedição russa",
+        "Antropologia",
+        "Nacionalismo",
+        "Império"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Grande Guerra",
+        "Capítulo 02 - Mundo Antigo: Roma",
+        "Capítulo 06 - Ideário político do século XIX",
+        "Capítulo 07 - Ideário político do século XIX",
+        "Capítulo 08 - Imperialismo e Neocolonialismo"
+      ]
+    }
+  ],
+  "filosofia|Ética e Filosofia Política": [
+    {
+      "ano": 2020,
+      "q": 69,
+      "temas": [
+        "Rawls",
+        "cooperação",
+        "justiça"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 82,
+      "temas": [
+        "Sócrates",
+        "Mênon",
+        "dialética"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 52,
+      "temas": [
+        "Paulo Freire",
+        "ética pedagógica"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 88,
+      "temas": [
+        "competição",
+        "moral"
+      ],
+      "tipo": "questao-eticamente-julgada",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 11 - Sexismo, racismo e especismo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 54,
+      "temas": [
+        "injustiça epistêmica",
+        "preconceito",
+        "identidade"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 72,
+      "temas": [
+        "deficiência",
+        "negligência",
+        "ética"
+      ],
+      "tipo": "questao-eticamente-julgada",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 06 - Filosofia da ciência",
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 78,
+      "temas": [
+        "regra de ouro",
+        "ética",
+        "Kant"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 05 - Kant: teoria do conhecimento",
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 60,
+      "temas": [
+        "Adam Smith",
+        "Capitalismo",
+        "Ética",
+        "Lucro"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 65,
+      "temas": [
+        "Clarice Lispector",
+        "Ética",
+        "Altruísmo",
+        "Justiça"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 76,
+      "temas": [
+        "Norio Bobbio",
+        "Direitos humanos",
+        "Convenções coletivas",
+        "Direitos sociais"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - Empirismo",
+        "Capítulo 11 - Sexismo, racismo e especismo"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 82,
+      "temas": [
+        "Platão",
+        "Cidade ideal",
+        "Ética",
+        "Exercício do poder"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    }
+  ],
+  "filosofia|Conhecimento e Epistemologia": [
+    {
+      "ano": 2020,
+      "q": 74,
+      "temas": [
+        "conhecimento",
+        "empirismo",
+        "percepção"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - Empirismo",
+        "Capítulo 05 - Kant: teoria do conhecimento"
+      ]
+    },
+    {
+      "ano": 2020,
+      "q": 89,
+      "temas": [
+        "Hume",
+        "conhecimento",
+        "experiência"
+      ],
+      "tipo": "ciencia-filosofia",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 04 - Empirismo",
+        "Capítulo 05 - Kant: teoria do conhecimento"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 86,
+      "temas": [
+        "Descartes",
+        "árvore",
+        "metafísica"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Renascença",
+        "Capítulo 03 - Racionalismo"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 54,
+      "temas": [
+        "Descartes",
+        "corpo",
+        "raiva"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Renascença",
+        "Capítulo 03 - Racionalismo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 62,
+      "temas": [
+        "empirismo",
+        "dogmas",
+        "Carnap"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 04 - Empirismo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 72,
+      "temas": [
+        "deficiência",
+        "negligência",
+        "ética"
+      ],
+      "tipo": "questao-eticamente-julgada",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 06 - Filosofia da ciência",
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 78,
+      "temas": [
+        "regra de ouro",
+        "ética",
+        "Kant"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 05 - Kant: teoria do conhecimento",
+        "Capítulo 06 - Ética kantiana e utilitarista",
+        "Capítulo 10 - Habermas e Rawls"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 82,
+      "temas": [
+        "Russell",
+        "indução",
+        "ciência"
+      ],
+      "tipo": "ciencia-filosofia",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 06 - Filosofia da ciência"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 48,
+      "temas": [
+        "Eloquência",
+        "Século XVIII",
+        "David Hume",
+        "Persuasão"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 04 - Empirismo"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 62,
+      "temas": [
+        "Zygmunt Bauman",
+        "Utopia",
+        "Transformação social",
+        "Potencial humano"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 04 - Empirismo"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 76,
+      "temas": [
+        "Norio Bobbio",
+        "Direitos humanos",
+        "Convenções coletivas",
+        "Direitos sociais"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 04 - Empirismo",
+        "Capítulo 11 - Sexismo, racismo e especismo"
+      ]
+    }
+  ],
+  "geografia|Análise Cartográfica e Espacial": [
+    {
+      "ano": 2020,
+      "q": 75,
+      "temas": [
+        "cartografia",
+        "América",
+        "representação"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 03 - Cartografia III: Representação cartográfica"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 71,
+      "temas": [
+        "crosta terrestre",
+        "geomorfologia"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Geomorfologia 1: Unidades de relevo",
+        "Capítulo 02 - Geomorfologia II: Classificação do relevo brasileiro"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 64,
+      "temas": [
+        "tectônica",
+        "relevo"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Geomorfologia 1: Unidades de relevo",
+        "Capítulo 02 - Geomorfologia II: Classificação do relevo brasileiro"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 68,
+      "temas": [
+        "EUA",
+        "mapa",
+        "estratégia"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 15 - Conflitos internacionals: Expansão da OTAN e a geopolítica Russa"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 78,
+      "temas": [
+        "escala",
+        "mapa",
+        "MH370"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 83,
+      "temas": [
+        "cartografia",
+        "mapas",
+        "poder"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 03 - Cartografia III: Representação cartográfica"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 86,
+      "temas": [
+        "imagens de satélite",
+        "processo",
+        "território"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 03 - Cartografia III: Representação cartográfica"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 84,
+      "temas": [
+        "Cerrado",
+        "Incêndios florestais",
+        "Sensoriamento remoto",
+        "Prevenção"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 03 - Cartografia III: Representação cartográfica"
+      ]
+    }
+  ],
+  "geografia|Meio Ambiente e Recursos Naturais": [
+    {
+      "ano": 2020,
+      "q": 90,
+      "temas": [
+        "febre amarela",
+        "Mariana",
+        "degradação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 03 - Degradação ambiental e politicas ambientais no Brasil"
+      ]
+    },
+    {
+      "ano": 2021,
+      "q": 70,
+      "temas": [
+        "Xavante",
+        "saber tradicional",
+        "conservação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 50,
+      "temas": [
+        "ferrovia",
+        "Amazônia",
+        "ocupação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 01 - Cartografia I: Introdução à Cartografia",
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 64,
+      "temas": [
+        "Txai Suruí",
+        "COP-26",
+        "indígenas"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 67,
+      "temas": [
+        "agrofloresta",
+        "Bahia",
+        "conservação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 83,
+      "temas": [
+        "solos",
+        "degradação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 03 - Degradação ambiental e politicas ambientais no Brasil",
+        "Capítulo 06 - Pedogénese e processos erosivos",
+        "Capítulo 07 - Técnicas conservativas e degradativas do solo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 60,
+      "temas": [
+        "racionalidade produtiva",
+        "território",
+        "sustentabilidade"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 67,
+      "temas": [
+        "internet",
+        "comunidades tradicionais",
+        "conservação"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 71,
+      "temas": [
+        "COP26",
+        "Brasil",
+        "clima"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 03 - Introdução à climatologia",
+        "Capítulo 04 - Climatologia I: Circulação atmosférica e marinha",
+        "Capítulo 05 - Climatologia II: Classificação climática e climogramas brasileiros",
+        "Capítulo 07 - Mudanças climáticas globais",
+        "Capítulo 08 - Desenvolvimento sustentável e acordos ambientais"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 47,
+      "temas": [
+        "Queimadas",
+        "CO₂",
+        "Dispersão espacial",
+        "Massas de ar"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 07 - Mudanças climáticas globais"
+      ]
+    }
+  ],
+  "sociologia|Cotidiano e Interações Sociais": [
+    {
+      "ano": 2021,
+      "q": 80,
+      "temas": [
+        "sociedade em transição",
+        "instituições"
+      ],
+      "tipo": "instituicoes-participacao",
+      "gabarito": "",
+      "capitulos": [
+        "Capítulo 03 - Meios de comunicação e Sociedade"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 56,
+      "temas": [
+        "charge",
+        "superpoderes",
+        "sociedade contemporânea"
+      ],
+      "tipo": "cotidiano",
+      "gabarito": "C",
+      "capitulos": [
+        "Capítulo 03 - Meios de comunicação e Sociedade"
+      ]
+    }
+  ],
+  "filosofia|Filosofia da Cultura e Arte": [
+    {
+      "ano": 2021,
+      "q": 86,
+      "temas": [
+        "Descartes",
+        "árvore",
+        "metafísica"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Renascença",
+        "Capítulo 03 - Racionalismo"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 54,
+      "temas": [
+        "Descartes",
+        "corpo",
+        "raiva"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 01 - Renascença",
+        "Capítulo 03 - Racionalismo"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 76,
+      "temas": [
+        "Deleuze",
+        "rizoma",
+        "cultura contemporânea"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 01 - Renascença"
+      ]
+    }
+  ],
+  "filosofia|Filosofia Política e Sociedade": [
+    {
+      "ano": 2022,
+      "q": 47,
+      "temas": [
+        "Arendt",
+        "linguagem",
+        "política"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "E",
+      "capitulos": [
+        "Capítulo 09 - Hannah Arendt"
+      ]
+    },
+    {
+      "ano": 2022,
+      "q": 57,
+      "temas": [
+        "Foucault",
+        "controle",
+        "exclusão"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 08 - Michel Foucault"
+      ]
+    },
+    {
+      "ano": 2023,
+      "q": 81,
+      "temas": [
+        "Foucault",
+        "poder punitivo"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 08 - Michel Foucault"
+      ]
+    },
+    {
+      "ano": 2024,
+      "q": 55,
+      "temas": [
+        "Foucault",
+        "corpo",
+        "metafísica"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "B",
+      "capitulos": [
+        "Capítulo 08 - Michel Foucault"
+      ]
+    },
+    {
+      "ano": 2025,
+      "q": 55,
+      "temas": [
+        "Foucault",
+        "Disciplina",
+        "Anatomia política",
+        "Controle"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "D",
+      "capitulos": [
+        "Capítulo 08 - Michel Foucault"
+      ]
+    }
+  ],
+  "sociologia|Desigualdade e Estratificação Social": [
+    {
+      "ano": 2022,
+      "q": 56,
+      "temas": [
+        "educação",
+        "pandemia",
+        "desigualdade digital"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "A",
+      "capitulos": [
+        "Capítulo 02 - Desigualdade, pobreza e exclusão social"
+      ]
+    }
+  ]
+}

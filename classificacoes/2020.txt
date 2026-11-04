@@ -1,0 +1,45 @@
+46|geografia|redes-globalizacao|texto|Brasil-China;balança comercial;assimetria
+47|geografia|populacao|texto|rural;emprego agrícola;população
+48|sociologia|mundo-trabalho|texto|feminização;trabalho;igualdade
+49|historia|agrario-trabalho|texto|reforma agrária;direito à propriedade
+50|geografia|populacao|texto|urbanização;aglomerações urbanas
+51|geografia|producao-espaco|mapa|agreste;algodão;pecuária
+52|historia|interpretar-fonte|texto|Reforma;imprensa;século XVI
+53|geografia|socioambiental|texto|Terra;camadas;geologia
+54|sociologia|identidade-cultura|texto|arte africana;cultura;identidade
+55|filosofia|interpretar-fragmento|texto|Nagel;sonho;ceticismo
+56|geografia|socioambiental|texto|alimentos;recurso natural;agricultura
+57|geografia|redes-globalizacao|texto|Estados Unidos;defesa;estratégia
+58|geografia|producao-espaco|texto|planejamento urbano;crescimento
+59|geografia|producao-espaco|texto|escudos cristalinos;mineração
+60|filosofia|interpretar-fragmento|texto|Tolstoi;morte;filosofia
+61|geografia|redes-globalizacao|texto|divisão internacional do trabalho;América Latina
+62|historia|interpretar-fonte|texto|Código de Hamurabi;leis;Mesopotâmia
+63|sociologia|mundo-trabalho|texto|trabalho;modernidade;mentalidade
+64|sociologia|desigualdade|texto|anos 1990;governo;questão social
+65|geografia|producao-espaco|mapa|agronegócio;rodovias;Mato Grosso
+66|historia|transformacao-permanencia|texto|dança;comandos franceses;sincretismo
+67|geografia|socioambiental|mapa|vulcões;fenda tectônica
+68|historia|interpretar-fonte|texto|biografia histórica;historiografia
+69|filosofia|aplicar-conceito|texto|Rawls;cooperação;justiça
+70|historia|processo-politico|texto|Roma;Cartago;Salústio
+71|historia|agrario-trabalho|texto|terra;Cora Coralina;apropriação
+72|filosofia|interpretar-fragmento|texto|Montaigne;ensaio;gênero
+73|sociologia|instituicoes-participacao|texto|Salamanca;educação inclusiva;políticas
+74|filosofia|comparar-autores|texto|conhecimento;empirismo;percepção
+75|geografia|leitura-cartografica|imagem|cartografia;América;representação
+76|historia|processo-politico|texto|Tocqueville;leis de sucessão;democracia
+77|filosofia|interpretar-fragmento|texto|Aristóteles;cidade;comunidade
+78|sociologia|mundo-trabalho|texto|toyotismo;organização do trabalho
+79|historia|comparar-processos|texto|coolies;escravidão;comparação
+80|sociologia|movimentos-sociais|texto|seringueiros;Amazônia;visibilidade
+81|historia|interpretar-fonte|texto|jesuítas;escravidão;expansão ultramarina
+82|geografia|socioambiental|texto|vulcões;risco;Puebla
+83|historia|interpretar-fonte|texto|cristianismo;Império Romano;Sennett
+84|geografia|socioambiental|texto|placas tectônicas;feição fisiográfica
+85|historia|processo-politico|texto|Pernambuco;independência;dissensões
+86|historia|interpretar-fonte|texto|Declaração de Direitos;Revolução Francesa
+87|historia|processo-politico|texto|Grécia;democracia;povo
+88|geografia|socioambiental|imagem|Tietê;poluição;rio
+89|filosofia|ciencia-filosofia|texto|Hume;conhecimento;experiência
+90|geografia|socioambiental|texto|febre amarela;Mariana;degradação

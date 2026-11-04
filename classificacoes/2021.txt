@@ -1,0 +1,45 @@
+46|sociologia|mundo-trabalho|texto|trabalho remoto;saúde;família
+47|sociologia|desigualdade|texto|Piketty;capital;herança
+48|geografia|producao-espaco|texto|uvas;melhoramento genético;agricultura
+49|historia|comparar-processos|imagem|patrimônio;conservação;dois textos
+50|geografia|socioambiental|texto|resíduos sólidos;cidadania
+51|geografia|socioambiental|texto|água;preços;abastecimento
+52|historia|interpretar-fonte|texto|lei Aberdeen;tráfico;século XIX
+53|sociologia|identidade-cultura|imagem|sertão;cultura popular;patrimônio
+54|sociologia|mundo-trabalho|texto|tecnologia;profissões;trabalho
+55|geografia|populacao|texto|refugiados;fronteiras;migração
+56|sociologia|identidade-cultura|texto|mulheres naturalistas;gênero;ciência
+57|filosofia|aplicar-conceito|texto|Marcuse;consumo;identificação
+58|geografia|producao-espaco|imagem|cidade;paisagem;transformação
+59|geografia|socioambiental|texto|semiárido;clima;saber tradicional
+60|sociologia|cotidiano|texto|massa;passividade;canção
+61|geografia|producao-espaco|texto|porto;Rio de Janeiro;especulação
+62|geografia|redes-globalizacao|texto|indústria;cadeias globais
+63|geografia|socioambiental|texto|mineração;conflitos;extrativismo
+64|filosofia|interpretar-fragmento|texto|Deleuze;minoria;dominação
+65|sociologia|conceito|texto|Engels;luta de classes
+66|sociologia|desigualdade|texto|população carcerária;segurança pública
+67|historia|interpretar-fonte|imagem|incêndios;história;fonte
+68|sociologia|identidade-cultura|texto|protagonismo indígena;mercado global
+69|historia|processo-politico|texto|Vargas;Estado Novo;migração
+70|geografia|socioambiental|texto|Xavante;saber tradicional;conservação
+71|geografia|socioambiental|texto|crosta terrestre;geomorfologia
+72|geografia|producao-espaco|texto|planejamento urbano;participação
+73|historia|processo-politico|texto|Vargas;suicídio;1954
+74|historia|interpretar-fonte|texto|Dom João;carta régia;revoltas
+75|historia|interpretar-fonte|texto|medicina;saberes;colonização
+76|historia|interpretar-fonte|texto|heresias;cristandade;universidades
+77|historia|processo-politico|texto|independência;Brasil;América espanhola
+78|historia|comparar-processos|texto|Macaulay;interpretações;história
+79|geografia|producao-espaco|texto|enclave industrial;território
+80|sociologia|instituicoes-participacao|texto|sociedade em transição;instituições
+81|historia|processo-politico|texto|Manifesto dos Pioneiros;educação;1932
+82|filosofia|interpretar-fragmento|texto|Sócrates;Mênon;dialética
+83|sociologia|identidade-cultura|texto|povos africanos;juventude;casamento
+84|sociologia|identidade-cultura|texto|torém;ritual;coesão social
+85|historia|interpretar-fonte|texto|escravo fugido;anúncio;escravidão
+86|filosofia|interpretar-fragmento|texto|Descartes;árvore;metafísica
+87|filosofia|interpretar-fragmento|texto|Nietzsche;amor fati
+88|filosofia|questao-eticamente-julgada|texto|ascetismo;corpo;materialidade
+89|geografia|leitura-cartografica|grafico|solstícios;sombra;orientação
+90|historia|agrario-trabalho|imagem|escravos;Rio de Janeiro;cotidiano

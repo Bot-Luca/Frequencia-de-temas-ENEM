@@ -1,0 +1,45 @@
+46|geografia|socioambiental|texto|sertanejo;caatinga;paisagem
+47|filosofia|interpretar-fragmento|texto|Arendt;linguagem;política
+48|sociologia|desigualdade|texto|Quarto de despejo;favela
+49|geografia|socioambiental|grafico|impermeabilização;urbano;drenagem
+50|geografia|producao-espaco|texto|ferrovia;Amazônia;ocupação
+51|geografia|redes-globalizacao|texto|economia global;redes
+52|geografia|producao-espaco|texto|sertão;rural;cidade
+53|historia|interpretar-fonte|texto|mulheres letradas;Segundo Reinado;leitura
+54|historia|processo-politico|texto|caixeiros;Rio de Janeiro;trabalhadores
+55|geografia|socioambiental|texto|solos salinos;agricultura
+56|sociologia|desigualdade|charge|educação;pandemia;desigualdade digital
+57|filosofia|aplicar-conceito|texto|Foucault;controle;exclusão
+58|historia|comparar-processos|texto|práticas religiosas;1889;dois textos
+59|geografia|producao-espaco|texto|PAA;pequenos produtores
+60|sociologia|cotidiano|texto|celular;relações humanas
+61|sociologia|mundo-trabalho|texto|dublagem;inteligência artificial;trabalho
+62|geografia|redes-globalizacao|texto|Mercosul;tarifas
+63|historia|interpretar-fonte|texto|fome;Itália;jurisdição
+64|geografia|socioambiental|texto|tectônica;relevo
+65|sociologia|cotidiano|imagem|violência;conduta social
+66|historia|comparar-processos|texto|lei educacional de 1827;discursos
+67|sociologia|movimentos-sociais|texto|ocupação;direito à moradia
+68|geografia|redes-globalizacao|mapa|EUA;mapa;estratégia
+69|geografia|redes-globalizacao|texto|Crimeia;geopolítica
+70|sociologia|desigualdade|grafico|interseccionalidade;discriminação
+71|sociologia|instituicoes-participacao|texto|Estado de direito;violação
+72|geografia|populacao|grafico|deslocamento;trabalho;cidade
+73|historia|memoria-versao|texto|Primeiro de Maio;comemoração
+74|geografia|socioambiental|mapa|radiação solar;clima
+75|sociologia|identidade-cultura|texto|Kambeba;rio;cultura
+76|historia|agrario-trabalho|imagem|açude;construção;trabalhadores
+77|historia|interpretar-fonte|texto|medicina;impérios coloniais;doenças
+78|geografia|leitura-cartografica|mapa|escala;mapa;MH370
+79|historia|memoria-versao|texto|objeto museológico;patrimônio;história
+80|filosofia|interpretar-fragmento|texto|pólis;filosofia;pensadores
+81|historia|processo-politico|texto|DIP;Estado Novo;decreto
+82|geografia|leitura-cartografica|mapa|rochas ígneas;mapa;Amazônia
+83|sociologia|instituicoes-participacao|texto|apatridia;registro civil
+84|filosofia|comparar-autores|texto|percepção;sensibilidade;Deleuze
+85|historia|interpretar-fonte|texto|Inquisição;rito;Igreja
+86|filosofia|ciencia-filosofia|texto|Empédocles;arché
+87|geografia|populacao|texto|macrocefalia urbana;concentração
+88|filosofia|questao-eticamente-julgada|texto|Sêneca;filosofia;bem
+89|historia|passado-presente|texto|incas;legado;cirurgia
+90|sociologia|identidade-cultura|texto|cerâmica;saberes tradicionais

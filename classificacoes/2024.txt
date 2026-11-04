@@ -1,0 +1,45 @@
+46|geografia|socioambiental|texto|terremoto;placas tectônicas;Chile
+47|historia|interpretar-fonte|texto|sanitarismo;saúde pública;décadas de 1920
+48|geografia|socioambiental|texto|barragem de Fundão;desastre;espaço vivido
+49|historia|processo-politico|texto|Belle Époque;modernização;transportes
+50|historia|comparar-processos|texto|Las Casas;colonização;pontos de vista
+51|historia|interpretar-fonte|texto|valsa;Idade Moderna;costumes
+52|sociologia|movimentos-sociais|texto|Black Lives Matter;identidade;política
+53|geografia|socioambiental|auto|inundação;desastre natural;velocidade
+54|filosofia|aplicar-conceito|texto|injustiça epistêmica;preconceito;identidade
+55|filosofia|interpretar-fragmento|texto|Foucault;corpo;metafísica
+56|sociologia|identidade-cultura|texto|axexe;rito;religião
+57|geografia|producao-espaco|texto|espaço público;cidade;visibilidade
+58|filosofia|comparar-autores|texto|Aristóteles;felicidade;virtude
+59|historia|passado-presente|texto|universidades medievais;patrimônio;legado
+60|geografia|socioambiental|texto|racionalidade produtiva;território;sustentabilidade
+61|filosofia|interpretar-fragmento|texto|filosofia contemporânea;finitude;tempo
+62|filosofia|comparar-autores|texto|empirismo;dogmas;Carnap
+63|sociologia|conceito|texto|indústria cultural;arte;reflexão
+64|historia|interpretar-fonte|texto|abolicionismo;artistas;Chiquinha Gonzaga
+65|sociologia|identidade-cultura|texto|globalização;identidade;Hall
+66|historia|transformacao-permanencia|texto|pílula anticoncepcional;gênero;tecnologia
+67|geografia|redes-globalizacao|texto|internet;comunidades tradicionais;conservação
+68|geografia|socioambiental|texto|Amazônia;desmatamento;ciclo da água
+69|filosofia|interpretar-fragmento|texto|Wollstonecraft;direitos das mulheres;século XVIII
+70|geografia|producao-espaco|texto|Milton Santos;território;objetos técnicos
+71|geografia|redes-globalizacao|texto|COP26;Brasil;clima
+72|filosofia|questao-eticamente-julgada|texto|deficiência;negligência;ética
+73|historia|transformacao-permanencia|texto|cordel;xilogravura;século XX
+74|sociologia|identidade-cultura|texto|Círio de Nazaré;patrimônio;festa
+75|historia|processo-politico|texto|Iluminismo;salões;esfera pública
+76|filosofia|aplicar-conceito|texto|Deleuze;rizoma;cultura contemporânea
+77|historia|fonte-visual|imagem|DIP;Estado Novo;revista
+78|filosofia|aplicar-conceito|texto|regra de ouro;ética;Kant
+79|geografia|populacao|texto|refugiados;fronteiras;políticas públicas
+80|sociologia|identidade-cultura|texto|telenovela;Rússia;Angola
+81|sociologia|instituicoes-participacao|texto|quilombos;Constituição de 1988;Estado
+82|filosofia|ciencia-filosofia|texto|Russell;indução;ciência
+83|geografia|leitura-cartografica|mapa|cartografia;mapas;poder
+84|historia|interpretar-fonte|texto|regatão;Amazônia;século XIX
+85|sociologia|movimentos-sociais|texto|Madres de Plaza de Mayo;Argentina;violência de Estado
+86|geografia|producao-espaco|imagem|imagens de satélite;processo;território
+87|filosofia|interpretar-fragmento|texto|democracia;poder;Vargas Llosa
+88|geografia|socioambiental|texto|mudança climática;cidades;adaptação
+89|geografia|redes-globalizacao|texto|Conselho de Segurança;ONU;relações internacionais
+90|sociologia|mundo-trabalho|texto|capitalismo;trabalho;desumanização

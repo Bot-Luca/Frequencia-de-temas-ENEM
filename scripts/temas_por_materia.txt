@@ -1,0 +1,710 @@
+Total: 270
+
+=== HISTORIA ===
+   3x  escravidão
+   3x  patrimônio
+   3x  século XIX
+   3x  história
+   3x  Estado Novo
+   2x  democracia
+   2x  independência
+   2x  Revolução Francesa
+   2x  dois textos
+   2x  Vargas
+   2x  medicina
+   2x  colonização
+   2x  Rio de Janeiro
+   2x  trabalhadores
+   2x  DIP
+   2x  Igreja
+   2x  incas
+   2x  legado
+   2x  costumes
+   2x  Iluminismo
+   2x  Idade Moderna
+   2x  Idade Média
+   1x  reforma agrária
+   1x  direito à propriedade
+   1x  Reforma
+   1x  imprensa
+   1x  século XVI
+   1x  Código de Hamurabi
+   1x  leis
+   1x  Mesopotâmia
+   1x  dança
+   1x  comandos franceses
+   1x  sincretismo
+   1x  biografia histórica
+   1x  historiografia
+   1x  Roma
+   1x  Cartago
+   1x  Salústio
+   1x  terra
+   1x  Cora Coralina
+   1x  apropriação
+   1x  Tocqueville
+   1x  leis de sucessão
+   1x  coolies
+   1x  comparação
+   1x  jesuítas
+   1x  expansão ultramarina
+   1x  cristianismo
+   1x  Império Romano
+   1x  Sennett
+   1x  Pernambuco
+   1x  dissensões
+   1x  Declaração de Direitos
+   1x  Grécia
+   1x  povo
+   1x  conservação
+   1x  lei Aberdeen
+   1x  tráfico
+   1x  incêndios
+   1x  fonte
+   1x  migração
+   1x  suicídio
+   1x  1954
+   1x  Dom João
+   1x  carta régia
+   1x  revoltas
+   1x  saberes
+   1x  heresias
+   1x  cristandade
+   1x  universidades
+   1x  Brasil
+   1x  América espanhola
+   1x  Macaulay
+   1x  interpretações
+   1x  Manifesto dos Pioneiros
+   1x  educação
+   1x  1932
+   1x  escravo fugido
+   1x  anúncio
+   1x  escravos
+   1x  cotidiano
+   1x  mulheres letradas
+   1x  Segundo Reinado
+   1x  leitura
+   1x  caixeiros
+   1x  práticas religiosas
+   1x  1889
+   1x  fome
+   1x  Itália
+   1x  jurisdição
+   1x  lei educacional de 1827
+   1x  discursos
+   1x  Primeiro de Maio
+   1x  comemoração
+   1x  açude
+   1x  construção
+   1x  impérios coloniais
+   1x  doenças
+   1x  objeto museológico
+   1x  decreto
+   1x  Inquisição
+   1x  rito
+   1x  cirurgia
+   1x  tradições
+   1x  Balfour
+   1x  Palestina
+   1x  Inglaterra
+   1x  seda
+   1x  rotas comerciais
+   1x  arte
+   1x  cemitério
+   1x  regime militar
+   1x  1970
+   1x  expansão marítima
+   1x  século XV
+   1x  dominação
+   1x  cultura
+   1x  1828
+   1x  ideia
+   1x  golpe militar
+   1x  sindicatos rurais
+   1x  imigrantes
+   1x  cartas
+   1x  vapor
+   1x  cozinha
+   1x  mulheres
+   1x  1930
+   1x  Balzac
+   1x  postura
+   1x  judeus
+   1x  imigração
+   1x  tratamento
+   1x  sanitarismo
+   1x  saúde pública
+   1x  décadas de 1920
+   1x  Belle Époque
+   1x  modernização
+   1x  transportes
+   1x  Las Casas
+   1x  pontos de vista
+   1x  valsa
+   1x  universidades medievais
+   1x  abolicionismo
+   1x  artistas
+   1x  Chiquinha Gonzaga
+   1x  pílula anticoncepcional
+   1x  gênero
+   1x  tecnologia
+   1x  cordel
+   1x  xilogravura
+   1x  século XX
+   1x  salões
+   1x  esfera pública
+   1x  revista
+   1x  regatão
+   1x  Amazônia
+   1x  Veneza
+   1x  Cosmopolitismo
+   1x  Comércio mediterrâneo
+   1x  Gripe espanhola
+   1x  Primeira Guerra Mundial
+   1x  Censura de imprensa
+   1x  Origem da pandemia
+   1x  Reforma de 1881
+   1x  Eleitorado
+   1x  Voto
+   1x  Alfabetização
+   1x  Getúlio Vargas
+   1x  Rua Tonelero
+   1x  Carlos Lacerda
+   1x  Anos 1950
+   1x  Salvação
+   1x  Cruzadas
+   1x  Muro de Berlim
+   1x  Memória coletiva
+   1x  Patrimônio
+   1x  East Side Gallery
+   1x  Canibalismo
+   1x  Tupis
+   1x  Europeus
+   1x  Colonização
+   1x  Roda dos Expósitos
+   1x  Salvador
+   1x  Brasil Colônia
+   1x  Caridade e salvação
+   1x  Impressão Régia
+   1x  Império português
+   1x  1808
+   1x  Imprensa e poder
+   1x  Cinema
+   1x  Didática escolar
+   1x  Século XX
+   1x  Discursos contraditórios
+   1x  Roma Antiga
+   1x  Patrícios
+   1x  Plebeus
+   1x  Participação política
+   1x  Textos sagrados
+   1x  Ciência
+   1x  Antiguidade
+   1x  Expedição russa
+   1x  Antropologia
+   1x  Nacionalismo
+   1x  Império
+
+=== GEOGRAFIA ===
+   4x  cidade
+   4x  clima
+   4x  território
+   3x  agricultura
+   3x  conservação
+   3x  Amazônia
+   3x  mapa
+   3x  geopolítica
+   2x  rural
+   2x  urbanização
+   2x  estratégia
+   2x  planejamento urbano
+   2x  mineração
+   2x  vulcões
+   2x  cartografia
+   2x  placas tectônicas
+   2x  degradação
+   2x  refugiados
+   2x  fronteiras
+   2x  paisagem
+   2x  saber tradicional
+   2x  sertão
+   2x  Mercosul
+   2x  tectônica
+   2x  Cerrado
+   2x  produção
+   1x  Brasil-China
+   1x  balança comercial
+   1x  assimetria
+   1x  emprego agrícola
+   1x  população
+   1x  aglomerações urbanas
+   1x  agreste
+   1x  algodão
+   1x  pecuária
+   1x  Terra
+   1x  camadas
+   1x  geologia
+   1x  alimentos
+   1x  recurso natural
+   1x  Estados Unidos
+   1x  defesa
+   1x  crescimento
+   1x  escudos cristalinos
+   1x  divisão internacional do trabalho
+   1x  América Latina
+   1x  agronegócio
+   1x  rodovias
+   1x  Mato Grosso
+   1x  fenda tectônica
+   1x  América
+   1x  representação
+   1x  risco
+   1x  Puebla
+   1x  feição fisiográfica
+   1x  Tietê
+   1x  poluição
+   1x  rio
+   1x  febre amarela
+   1x  Mariana
+   1x  uvas
+   1x  melhoramento genético
+   1x  resíduos sólidos
+   1x  cidadania
+   1x  água
+   1x  preços
+   1x  abastecimento
+   1x  migração
+   1x  transformação
+   1x  semiárido
+   1x  porto
+   1x  Rio de Janeiro
+   1x  especulação
+   1x  indústria
+   1x  cadeias globais
+   1x  conflitos
+   1x  extrativismo
+   1x  Xavante
+   1x  crosta terrestre
+   1x  geomorfologia
+   1x  participação
+   1x  enclave industrial
+   1x  solstícios
+   1x  sombra
+   1x  orientação
+   1x  sertanejo
+   1x  caatinga
+   1x  impermeabilização
+   1x  urbano
+   1x  drenagem
+   1x  ferrovia
+   1x  ocupação
+   1x  economia global
+   1x  redes
+   1x  solos salinos
+   1x  PAA
+   1x  pequenos produtores
+   1x  tarifas
+   1x  relevo
+   1x  EUA
+   1x  Crimeia
+   1x  deslocamento
+   1x  trabalho
+   1x  radiação solar
+   1x  escala
+   1x  MH370
+   1x  rochas ígneas
+   1x  macrocefalia urbana
+   1x  concentração
+   1x  bordado
+   1x  regional
+   1x  territorialização
+   1x  China
+   1x  política demográfica
+   1x  Himalaia
+   1x  Coreias
+   1x  fronteira
+   1x  Txai Suruí
+   1x  COP-26
+   1x  indígenas
+   1x  agrofloresta
+   1x  Bahia
+   1x  mocambos
+   1x  Recife
+   1x  logística
+   1x  soja
+   1x  corrida espacial
+   1x  fecundidade
+   1x  demografia
+   1x  agricultura urbana
+   1x  favela
+   1x  solos
+   1x  produtores rurais
+   1x  simulações
+   1x  mitigação
+   1x  terremoto
+   1x  Chile
+   1x  barragem de Fundão
+   1x  desastre
+   1x  espaço vivido
+   1x  inundação
+   1x  desastre natural
+   1x  velocidade
+   1x  espaço público
+   1x  visibilidade
+   1x  racionalidade produtiva
+   1x  sustentabilidade
+   1x  internet
+   1x  comunidades tradicionais
+   1x  desmatamento
+   1x  ciclo da água
+   1x  Milton Santos
+   1x  objetos técnicos
+   1x  COP26
+   1x  Brasil
+   1x  políticas públicas
+   1x  mapas
+   1x  poder
+   1x  imagens de satélite
+   1x  processo
+   1x  mudança climática
+   1x  cidades
+   1x  adaptação
+   1x  Conselho de Segurança
+   1x  ONU
+   1x  relações internacionais
+   1x  Macedônia do Norte
+   1x  Impasse com a Grécia
+   1x  União Europeia
+   1x  integração regional
+   1x  Queimadas
+   1x  CO₂
+   1x  Dispersão espacial
+   1x  Massas de ar
+   1x  Êxodo urbano
+   1x  Deslocamento populacional
+   1x  Elite
+   1x  Metrópole
+   1x  Crise climática
+   1x  Rio Reno
+   1x  Navegação fluvial
+   1x  Logística de transporte
+   1x  Itinerários afetivos
+   1x  Socioespaço
+   1x  Memória do lugar
+   1x  Migração Nordeste-Sudeste
+   1x  Energia hidrelétrica
+   1x  Floresta Amazônica
+   1x  Água
+   1x  Matriz energética
+   1x  Agronegócio
+   1x  Produção e exportações
+   1x  Ranking mundial
+   1x  Soja
+   1x  Salvador
+   1x  Foto aérea
+   1x  Verticalização urbana
+   1x  Flórida
+   1x  Desmoronamento de solo
+   1x  Calcário
+   1x  Intemperismo químico
+   1x  Inseticidas
+   1x  Polinizadores
+   1x  Agricultura
+   1x  Biodiversidade
+   1x  Eletromobilidade
+   1x  Metais raros
+   1x  Desenvolvimento sustentável
+   1x  Charge
+   1x  Cidade sustentável
+   1x  Equidade socioespacial
+   1x  Ecologia urbana
+   1x  Planejamento urbano
+   1x  Incêndios florestais
+   1x  Sensoriamento remoto
+   1x  Prevenção
+   1x  Energia geotérmica
+   1x  Usinas hidrelétricas
+   1x  Matriz elétrica
+   1x  Edifícios
+
+=== FILOSOFIA ===
+   4x  Foucault
+   3x  filosofia
+   3x  Aristóteles
+   3x  Deleuze
+   3x  corpo
+   3x  Ética
+   2x  conhecimento
+   2x  empirismo
+   2x  percepção
+   2x  Descartes
+   2x  metafísica
+   2x  ética
+   1x  Nagel
+   1x  sonho
+   1x  ceticismo
+   1x  Tolstoi
+   1x  morte
+   1x  Rawls
+   1x  cooperação
+   1x  justiça
+   1x  Montaigne
+   1x  ensaio
+   1x  gênero
+   1x  cidade
+   1x  comunidade
+   1x  Hume
+   1x  experiência
+   1x  Marcuse
+   1x  consumo
+   1x  identificação
+   1x  minoria
+   1x  dominação
+   1x  Sócrates
+   1x  Mênon
+   1x  dialética
+   1x  árvore
+   1x  Nietzsche
+   1x  amor fati
+   1x  ascetismo
+   1x  materialidade
+   1x  Arendt
+   1x  linguagem
+   1x  política
+   1x  controle
+   1x  exclusão
+   1x  pólis
+   1x  pensadores
+   1x  sensibilidade
+   1x  Empédocles
+   1x  arché
+   1x  Sêneca
+   1x  bem
+   1x  Paulo Freire
+   1x  ética pedagógica
+   1x  raiva
+   1x  Ricoeur
+   1x  perdão
+   1x  Sartre
+   1x  determinismo
+   1x  existencialismo
+   1x  poder punitivo
+   1x  competição
+   1x  moral
+   1x  Machado de Assis
+   1x  sofistas
+   1x  injustiça epistêmica
+   1x  preconceito
+   1x  identidade
+   1x  felicidade
+   1x  virtude
+   1x  filosofia contemporânea
+   1x  finitude
+   1x  tempo
+   1x  dogmas
+   1x  Carnap
+   1x  Wollstonecraft
+   1x  direitos das mulheres
+   1x  século XVIII
+   1x  deficiência
+   1x  negligência
+   1x  rizoma
+   1x  cultura contemporânea
+   1x  regra de ouro
+   1x  Kant
+   1x  Russell
+   1x  indução
+   1x  ciência
+   1x  democracia
+   1x  poder
+   1x  Vargas Llosa
+   1x  Eloquência
+   1x  Século XVIII
+   1x  David Hume
+   1x  Persuasão
+   1x  Disciplina
+   1x  Anatomia política
+   1x  Controle
+   1x  Adam Smith
+   1x  Capitalismo
+   1x  Lucro
+   1x  Política
+   1x  Formas de governo
+   1x  Bem comum
+   1x  Zygmunt Bauman
+   1x  Utopia
+   1x  Transformação social
+   1x  Potencial humano
+   1x  Clarice Lispector
+   1x  Altruísmo
+   1x  Justiça
+   1x  Herbert Marcuse
+   1x  Sociedade industrial
+   1x  Realidade unidimensional
+   1x  Conformismo
+   1x  Heráclito
+   1x  Pré-socráticos
+   1x  Opostos
+   1x  Fragmentos
+   1x  Norio Bobbio
+   1x  Direitos humanos
+   1x  Convenções coletivas
+   1x  Direitos sociais
+   1x  Jeremy Bentham
+   1x  Utilitarismo
+   1x  Punição
+   1x  Felicidade
+   1x  Platão
+   1x  Cidade ideal
+   1x  Exercício do poder
+
+=== SOCIOLOGIA ===
+   5x  trabalho
+   3x  cultura
+   3x  identidade
+   2x  patrimônio
+   2x  indústria cultural
+   2x  Vida cotidiana
+   2x  Vínculos afetivos
+   1x  feminização
+   1x  igualdade
+   1x  arte africana
+   1x  modernidade
+   1x  mentalidade
+   1x  anos 1990
+   1x  governo
+   1x  questão social
+   1x  Salamanca
+   1x  educação inclusiva
+   1x  políticas
+   1x  toyotismo
+   1x  organização do trabalho
+   1x  seringueiros
+   1x  Amazônia
+   1x  visibilidade
+   1x  trabalho remoto
+   1x  saúde
+   1x  família
+   1x  Piketty
+   1x  capital
+   1x  herança
+   1x  sertão
+   1x  cultura popular
+   1x  tecnologia
+   1x  profissões
+   1x  mulheres naturalistas
+   1x  gênero
+   1x  ciência
+   1x  massa
+   1x  passividade
+   1x  canção
+   1x  Engels
+   1x  luta de classes
+   1x  população carcerária
+   1x  segurança pública
+   1x  protagonismo indígena
+   1x  mercado global
+   1x  sociedade em transição
+   1x  instituições
+   1x  povos africanos
+   1x  juventude
+   1x  casamento
+   1x  torém
+   1x  ritual
+   1x  coesão social
+   1x  Quarto de despejo
+   1x  favela
+   1x  educação
+   1x  pandemia
+   1x  desigualdade digital
+   1x  celular
+   1x  relações humanas
+   1x  dublagem
+   1x  inteligência artificial
+   1x  violência
+   1x  conduta social
+   1x  ocupação
+   1x  direito à moradia
+   1x  interseccionalidade
+   1x  discriminação
+   1x  Estado de direito
+   1x  violação
+   1x  Kambeba
+   1x  rio
+   1x  apatridia
+   1x  registro civil
+   1x  cerâmica
+   1x  saberes tradicionais
+   1x  escravidão
+   1x  formação cultural
+   1x  memória
+   1x  Adorno
+   1x  tempo livre
+   1x  charge
+   1x  superpoderes
+   1x  sociedade contemporânea
+   1x  Cavalgada
+   1x  devoção
+   1x  Elias
+   1x  etiqueta
+   1x  processo civilizador
+   1x  Maria da Penha
+   1x  violência de gênero
+   1x  Google Assistant
+   1x  privacidade
+   1x  museu
+   1x  mobilizações sociais
+   1x  fome
+   1x  crianças
+   1x  Brasil
+   1x  Afeganistão
+   1x  direitos das mulheres
+   1x  Fluminense
+   1x  torcida
+   1x  comportamento
+   1x  Black Lives Matter
+   1x  política
+   1x  axexe
+   1x  rito
+   1x  religião
+   1x  arte
+   1x  reflexão
+   1x  globalização
+   1x  Hall
+   1x  Círio de Nazaré
+   1x  festa
+   1x  telenovela
+   1x  Rússia
+   1x  Angola
+   1x  quilombos
+   1x  Constituição de 1988
+   1x  Estado
+   1x  Madres de Plaza de Mayo
+   1x  Argentina
+   1x  violência de Estado
+   1x  capitalismo
+   1x  desumanização
+   1x  Letra da canção
+   1x  Canção de Paulinho da Viola
+   1x  Memória
+   1x  Dança
+   1x  Cultura corporal
+   1x  Igreja medieval
+   1x  Culto gospel
+   1x  Fazenda Cabaceiras
+   1x  Função social da terra
+   1x  Trabalho análogo à escravidão
+   1x  Desapropriação
+   1x  Religiões afro-brasileiras
+   1x  Invisibilidade
+   1x  Preconceito racial
+   1x  Alteridade
+   1x  Discriminação positiva
+   1x  Gênero
+   1x  Políticas públicas
+   1x  Mulheres
+   1x  Povos indígenas
+   1x  Saberes tradicionais
+   1x  Direitos culturais
+   1x  ONU

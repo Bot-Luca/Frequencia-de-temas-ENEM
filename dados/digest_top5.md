@@ -1,0 +1,829 @@
+# HISTORIA
+
+## interpretar-fonte — 31 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q52** [texto] gab=D | tema: Reforma; imprensa; século XVI
+  - cmd: s e dos príncipes, como queria. GINZBURG, C. O queijo e os vermes: o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Cia. das Letras, 2006. Os acontecimentos históricos citados ajudaram esse indivíduo, no século XVI, a repensar a visão católica do mundo ao possibilitarem a
+  - ini: Dois grandes eventos históricos tornaram possível um caso como o de Menocchio: a invenção da imprensa e a Reforma. A imprensa lhe permitiu confrontar os livros com a tradição oral 
+- **2020 Q62** [texto] gab=B | tema: Código de Hamurabi; leis; Mesopotâmia
+  - cmd: slador babilônico consolidou a tradição jurídica, harmonizou os costumes e estendeu o direito e a lei a todos os súditos. Disponível em: www.direitoshumanos.usp.br. Acesso em: 12 fev. 2013 (adaptado). Nesse contexto de organização da vida social, as leis contidas no Código citado tinham o sentido de
+  - ini: Sexto rei sumério (governante entre os séculos XVIII e XVII a.C.) e nascido em Babel, “Khammu-rabi” (pronúncia em babilônio) foi fundador do I Império Babilônico (correspondente ao
+- **2020 Q68** [texto] gab=D | tema: biografia histórica; historiografia
+  - cmd: ator) célebres ou não, como testemunhas, como refl exos, como reveladores de uma época. DEL PRIORE, M. Biografi a: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009. De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de
+  - ini: A reabilitação da biografi a histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, ind
+- **2020 Q81** [texto] gab=C | tema: jesuítas; escravidão; expansão ultramarina
+  - cmd: ustamente, por meios que as Constituições permitem, quando puder para nossos colégios e casas de meninos. LEITE, S. História da Companhia de Jesus no Brasil. Rio de Janeiro: Civilização Brasileira, 1938 (adaptado). O texto explicita premissas da expansão ultramarina portuguesa ao buscar justificar a
+  - ini: Porque todos confessamos não se poder viver sem alguns escravos, que busquem a lenha e a água, e façam cada dia o pão que se come, e outros serviços que não são possíveis poderem-s
+- **2020 Q83** [texto] gab=D | tema: cristianismo; Império Romano; Sennett
+  - cmd: is diferentes do Império Romano (século II da Era Cristã). Esse ambiente garantia peculiar apoio emocional às experiências intensamente individuais que abrigava. SENNET, R. Carne e pedra. Rio de Janeiro: Record, 2008. Um motivo que explica a ambientação da prática descrita no texto encontra-se no(a)
+  - ini: Ao abrigo do teto, sua jornada de fé começava na sala de jantar. Na pequena célula cristã, dividia-se a refeição e durante elas os crentes conversavam, rezavam e liam cartas de cor
+- **2020 Q86** [texto] gab=D | tema: Declaração de Direitos; Revolução Francesa
+  - cmd: em princípios simples e incontestáveis, se dirijam sempre à conservação da Constituição e à felicidade geral. Disponível em: www.direitoshumanosusp.br. Acesso em: 7 jun. 2018 (adaptado). Esse documento, elaborado no contexto da Revolução Francesa, reflete uma profunda mudança social ao estabelecer a
+  - ini: Declaração de Direitos do Homem e do Cidadão – 1789 Os representantes do povo francês, tendo em vista que a ignorância, o esquecimento ou o desprezo dos direitos do homem são as ún
+- **2021 Q52** [texto] gab=D | tema: lei Aberdeen; tráfico; século XIX
+  - cmd: essas no texto indicam o de ao ais Ido). os ier es tro e, Ido). as es ua de es ga dos 015. a es da us do). interesse britânico em O estabelecer jurisdição conciliadora. O compartilhar negócios marítimos. @ fomentar políticas higienistas. @ manter a proibição comercial. @ promover o negócio familiar.
+  - ini: enenucrz; Durante os anos de 1854-55, o governo brasileiro — por meio de sua representação diplomática em Londres — e os livre-cambistas ingleses — nas colunas do Daily News e na C
+- **2021 Q67** [imagem] gab=E | tema: incêndios; história; fonte
+  - cmd: s de ref O religiosas. @ remodelação dos sistemas administrações locais. @ reconfiguração dos espaços dinâmicas comunitárias. 26 políticos e das ocupados e das CH - 10 dia I Caderno 1 -X m2021 ional do Ensino Médio ira do os asil. 015. a 1177 rta do os os no tio do ais a as Ido). as as es as as as 1
+  - ini: enem202:' Nem guerras, nem revoltas. Os incêndios eram o mais frequente tormento da vida urbana no Regnum Italicum. Entre 880 e 1080, as cidades estiveram constantemente entregues 
+- **2021 Q74** [texto] gab=B | tema: Dom João; carta régia; revoltas
+  - cmd: upos infiéis à religião oficial. suprimir formas divergentes de interação social. evitar envolvimento estrangeiro na economia local. reprimir indivíduos engajados em revoltas nativistas. controlar manifestações artísticas de comunidades autóctones. :rno 1 - AZUL - 1a Aplicação 27 Exame Nacional do E
+  - ini: Eu, Dom João, pela graça de Deus, faço saber a V. Mercê que me aprouve banir para essa cidade vários ciganos — homens, mulheres e crianças — devido ao seu escandaloso procedimento 
+- **2021 Q75** [texto] gab=E | tema: medicina; saberes; colonização
+  - cmd: iros séculos. São Paulo: Contexto, 2010 (adaptado). Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a O adoção de rituais místicos. O rejeição dos dogmas cristãos. @ superação da tradição popular. @ imposição da farmacologia nativa. @ conjugação de saberes empíricos.
+  - ini: enem202/ De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exer
+- **2021 Q76** [texto] gab=B | tema: heresias; cristandade; universidades
+  - cmd: 995. O comportamento desse religioso demonstra uma preocupação com as características assumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo pelos(as) O senhores feudais. O movimentos heréticos. @ integrantes das Cruzadas. @ corporações de ofícios. @ universidades medievais.
+  - ini: Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela cultura profana — a dos romances de cavalaria, mas também a cultura folclórica dos camponeses e
+- **2021 Q85** [texto] gab=A | tema: escravo fugido; anúncio; escravidão
+  - cmd: de territórios quilombolas. @ Suavização da aplicação de normas. @ Regularização das funções remuneradas. @ Constituição de economia de subsistência. mc tro a en po O de dis crí O ap nã qu a sei no O 30 CH - 10 dia I Caderno 1 -X m2021 ional do Ensino Médio do co na os as da lade lime 005. ral Ido).
+  - ini: Escravo fugido No dia 8 de Outubro do anno proximo passado fugio da fazenda do Bom Retiro, pro- priedade do dr. Francisco Antonio de Araújo, o escravo José, pardo claro, de 22 anno
+- **2022 Q53** [texto] gab=A | tema: mulheres letradas; Segundo Reinado; leitura
+  - cmd:  dirigida por e para mulheres. ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado). O registro das atividades descritas associa a inserção da gura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à) A
+  - ini: O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a 
+- **2022 Q63** [texto] gab=B | tema: fome; Itália; jurisdição
+  - cmd:  deriva da natureza das fontes do século VI. SILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set.-dez. 2016 (adaptado). Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição A
+  - ini: Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxí
+- **2022 Q77** [texto] gab=A | tema: medicina; impérios coloniais; doenças
+  - cmd:  ABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das “luzes” e as informações sobre as enfermidades da América portuguesa. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado). De acordo com o texto, a importância da medicina se justica no âmbito dos objetivos A
+  - ini: Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma série de obras dedicadas à ad
+- **2022 Q85** [texto] gab=D | tema: Inquisição; rito; Igreja
+  - cmd:  momentos fortes — durante a preparação, a encenação, o ato e a recepção — que convém seguir em seus pormenores. BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000. O rito mencionado nos textos demonstra a capacidade da Igreja em A
+  - ini: TEXTO I Manda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o cent
+- **2023 Q51** [texto] gab=C | tema: Balfour; Palestina; Inglaterra
+  - cmd: será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.” GATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002 (adaptado). A análise do resultado do processo em questão revela que o governo inglês foi incapaz de garantir seu objetivo de A
+  - ini: Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild
+- **2023 Q63** [texto] gab=B | tema: seda; rotas comerciais; arte
+  - cmd: elo comércio do ouro e pedras preciosas. MARIUZZO, P. Estudos interdisciplinares ampliam conhecimento sobre chinesice no barroco mineiro. Disponível em: http://cienciaecultura.bvs.br. Acesso em: 23 nov. 2021 (adaptado). O desenvolvimento do processo artístico descrito no texto foi possível pelo(a) A
+  - ini: Seda, madeiras aromáticas e têxteis, obras de arte, lã, cristais e muitas, muitas peças de porcelana chegaram ao Brasil ao longo dos séculos XVII e XVIII. A opulência proporcionada
+- **2023 Q77** [texto] gab=E | tema: Iluminismo; 1828; ideia
+  - cmd: a este mal. PEREIRA, J. C. 12 jan. 1828 apud LOPES, M. B.; POLITO, R. Para uma história da vacina no Brasil: um manuscrito inédito de Norberto e Macedo. História, Ciências, Saúde — Manguinhos, n. 2, abr.-jun. 2007 (adaptado). Escrito em 1828, o texto expressa a seguinte ideia de origem iluminista: A
+  - ini: Havia já muito tempo que a Europa desfrutava os benefícios da vacina e arrancava à morte milhares de inocentes, condenados a serem vítimas do terrível flagelo das bexigas, e o gove
+- **2023 Q82** [texto] gab=B | tema: imigrantes; cartas; vapor
+  - cmd:  sensibilidades no epistolário de e/imigrantes portugueses (Portugal-Brasil 1890-1930). Rev. Bras. Hist., n. 70, jul.-dez. 2015. Conforme o texto, as correspondências trocadas entre imigrantes no Brasil com os seus países de procedência constituíam um dispositivo tecnológico que possibilitava o(a) A
+  - ini: Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mala postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano
+- **2023 Q86** [texto] gab=E | tema: Balzac; Revolução Francesa; postura
+  - cmd: ser tanto mais graciosa e modesta quanto seu saber era mais extenso, a senhorita de Nègrepelisse cou com excelente opinião de si mesma. BALZAC, H. Ilusões perdidas. São Paulo: Penguin Classics; Cia. das Letras, 2011 (adaptado). O comportamento desenvolvido pela personagem evidencia uma postura de A
+  - ini: Durante a Revolução Francesa, um certo padre Niollant escondeu-se no pequeno castelo de L’Escarbas. Pagou amplamente a hospitalidade do velho fidalgo ocupando-se da educação de sua
+- **2023 Q87** [texto] gab=B | tema: judeus; imigração; tratamento
+  - cmd: ria a nação. MAIO, M. C.; CALAÇA, C. E. Um balanço da bibliograa sobre o antissemitismo no Brasil. In: GRINBERG, K. (Org.). Os judeus no Brasil. Rio de Janeiro: Civilização Brasileira, 2005 (adaptado). Conforme descrito nos textos, o tratamento dispensado aos grupos mencionados se fundamentava em A
+  - ini: TEXTO I Oriunda da Romênia, Genny Gleizer aportou no Brasil em 1932. Assim como milhares de judeus do Leste Europeu, suavindaparaoBrasilocorreuem um momentodeascensão do antissemit
+- **2024 Q47** [texto] gab=E | tema: sanitarismo; saúde pública; décadas de 1920
+  - cmd:  falarmos no pessoal burocrático, não especializado. PAULA SOUZA, G. H.; VIEIRA, F. B. Centro de saúde “eixo” de organização sanitária. Boletim do Instituto de Higiene de São Paulo, n. 59 (adaptado). O texto dos sanitaristas atuantes nas décadas de 1920 e 1930 veicula uma mensagem caracterizada pela
+  - ini: Tal qual num exército, não se compreende um efetivo composto apenas de oficiais. Também na saúde pública, os funcionários técnicos graduados necessitam ser assistidos por auxiliare
+- **2024 Q51** [texto] gab=E | tema: valsa; Idade Moderna; costumes
+  - cmd: ua estreita relação com a cultura plebeia, retomando-a posteriormente. FRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado). A expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar
+  - ini: A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando os pares davam voltas pelo salão realizando giros em torno de si mesmos em p
+- **2024 Q64** [texto] gab=C | tema: abolicionismo; artistas; Chiquinha Gonzaga
+  - cmd: (um importante crítico brasileiro) armar ter sido Castro Alves, no que diz respeito à poesia antiescravista, um dos primeiros que o Brasil ouviu. Disponível em: www.uol.com.br. Acesso em: 8 out. 2023 (adaptado). Os textos indicam a participação de artistas e intelectuais brasileiros em defesa do(a)
+  - ini: TEXTO I Neta de Tomásia, uma escravizada alforriada, Chiquinha Gonzaga foi uma das primeiras mulheres a se destacar na música popular brasileira. Entre suas obras mais famosas estã
+- **2024 Q84** [texto] gab=D | tema: regatão; Amazônia; século XIX
+  - cmd: ial alternativa ao abastecimento da população. HENRIQUE, M. C.; MORAIS, L. T. Estradas líquidas, comércio sólido: índios e regatões na Amazônia (século XIX). Rev. Hist., n. 171, jul.-dez. 2014 (adaptado). Como parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a
+  - ini: TEXTO I O bufarinheiro, conhecido nas cidades por teque-teque, chama-se, nos recônditos daAmazônia, “regatão”. Em lugar de transportar nas costas o mundo de miudezas, transporta-o 
+- **2025 Q49** [obra] gab=C | tema: Veneza; Idade Moderna; Cosmopolitismo; Comércio mediterrâneo
+  - cmd: Qual elemento da condição cosmopolita de Veneza na Idade Moderna está explícito nos textos?
+  - ini: TEXTO I [obra: La piazzaetta, detalhe, óleo sobre tela, 49 × 41 cm, Ashmolean Museum, Oxford, 1729] CARLEVARIS, L. La piazzaetta (detalhe). Óleo sobre tela, 49 × 41 cm. Ashmolean M
+- **2025 Q69** [texto] gab=C | tema: Idade Média; Igreja; Salvação; Cruzadas
+  - cmd: Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das
+  - ini: A difusão pelos cónegos do ideal apostólico, bem como a influência dos eremitas e dos pregadores errantes que na sua esteira propagavam temas evangélicos, contribuíram para fazer n
+- **2025 Q78** [texto] gab=B | tema: Roda dos Expósitos; Salvador; Brasil Colônia; Caridade e salvação
+  - cmd: A instituição apresentada no texto justificava-se pelo(a)
+  - ini: A Roda dos Expósitos de Salvador (Bahia) data de 1726 e foi uma das instituições implantadas com o objetivo de acolher e prover um encaminhamento para a criança recém-nascida aband
+- **2025 Q83** [texto] gab=D | tema: Impressão Régia; Império português; 1808; Imprensa e poder
+  - cmd: A função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por
+  - ini: A Impressão Régia do Rio de Janeiro foi criada pelo decreto de 13 de maio de 1808 para dar continuidade à nova sede do império português. A nova tipografia é criada em um momento n
+- **2025 Q89** [texto] gab=E | tema: Textos sagrados; Ciência; Antiguidade; Idade Média
+  - cmd: Escritos em temporalidades diferentes (Antiguidade e Idade Média), os textos sagrados aproximam-se ao mostrar o papel da ciência para o(a)
+  - ini: TEXTO I Eu escolhi Bezalel e lhe dei competência e habilidade para fazer todo tipo de trabalho artístico; para fazer desenhos e trabalhar em ouro, prata e bronze; para lapidar e mo
+
+## processo-politico — 20 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q70** [texto] gab=E | tema: Roma; Cartago; Salústio
+  - cmd: e os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho. SALÚSTIO. A conjuração de Catilina/A guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado). O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de
+  - ini: Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o med
+- **2020 Q76** [texto] gab=B | tema: Tocqueville; leis de sucessão; democracia
+  - cmd: stabelecidas por outros princípios, produzem o oposto: dividem, partilham e disseminam os bens e o poder. TOCQUEVILLE, A. A democracia na América. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1977 (adaptado). O texto tematiza o papel desempenhado por uma norma na criação de um ambiente propício ao(à)
+  - ini: A principal característica da situação social dos anglo-americanos é seu caráter eminentemente democrático. Afirmei anteriormente que reinava uma igualdade muito grande entre os em
+- **2020 Q85** [texto] gab=B | tema: Pernambuco; independência; dissensões
+  - cmd: . Viagem Incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado). Os fragmentos das matérias jornalísticas sobre o acontecimento, embora com percepções diversas, relacionam-se a um aspecto do processo de independência da colônia luso-americana expresso em dissensões entre
+  - ini: O movimento sedicioso ocorrido na capitania de Pernambuco, no ano 1817, foi analisado de formas diferentes por dois meios de comunicação daquela época. O Correio Braziliense aponto
+- **2020 Q87** [texto] gab=E | tema: Grécia; democracia; povo
+  - cmd: onta, a forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta. MANDUCO, A. Ciência política. São Paulo: Saraiva, 2011. Naquele contexto, a emergência do sistema de governo mencionado no excerto promoveu o(a)
+  - ini: Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos. Assim é possível perceber que o conceito de povo era muito restritivo. Mesmo tendo isso 
+- **2021 Q69** [texto] gab=C | tema: Vargas; Estado Novo; migração
+  - cmd: r informações para a preservação da paisagem dos sertões. controlar o crescimento exponencial da população brasileira. obter conhecimento científico das diversidades regionais. conter o fluxo migratório do campo para a cidade. propor a criação de novas unidades da federação. - AZUL - 1a Aplicação 21
+  - ini: O governo Vargas, principalmente durante o Estado Novo (1937-1945), pretendeu construir um Estado capaz de criar uma nova sociedade. Uma dimensão-chave desse projeto tinha no terri
+- **2021 Q73** [texto] gab=A | tema: Vargas; suicídio; 1954
+  - cmd: rca a derrota. REIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004. O evento analisado no texto teve como repercussão imediata na política nacional a O O reação popular. intervenção militar. abertura democrática. campanha anticomunista. radicalização oposicionista.
+  - ini: Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de 
+- **2021 Q77** [texto] gab=A | tema: independência; Brasil; América espanhola
+  - cmd: s esferas administrativas. abandono sofrido pelas comunidades de docentes na concepção de coletividades políticas. lugar ocupado pelas associações de acadêmicos no fortalecimento das agremiações estudantis. protagonismo assumido pelos meios de comunicação no desenvolvimento das nações alfabetizadas.
+  - ini: Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países? Para o historiador brasileiro José Murilo de Carvalho, no Brasil, parte da sociedade era 
+- **2021 Q81** [texto] gab=B | tema: Manifesto dos Pioneiros; educação; 1932
+  - cmd:  es O O O ensino técnico e mercado de trabalho. acesso à escola e valorização do mérito. ampliação de vagas e formação de gestores. disponibilidade de financiamento e pesquisa avançada. remuneração de professores e extinção do analfabetismo. 21 CH - 10 dia I Caderno 1 -A, m2021 ional do Ensino Médio
+  - ini: Manifesto dos Pioneiros da Educação Nova — 1932 A Educação Nova, alargando a sua finalidade para além dos limites das classes, assume, com uma feição mais humana, a sua verdadeira 
+- **2022 Q54** [texto] gab=E | tema: caixeiros; Rio de Janeiro; trabalhadores
+  - cmd: licionistas. POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de A
+  - ini: Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes púb
+- **2022 Q81** [texto] gab=D | tema: DIP; Estado Novo; decreto
+  - cmd: seu juízo, a eciência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos. BRASIL apud CARONE, E. A Terceira República (1937-1945). São Paulo: Difel, 1982 (adaptado). Com base nos trechos do decreto, as nalidades do órgão criado permitiram ao governo promover o(a) A
+  - ini: Decreto-Lei n. 1 949, de 27/12/1937 Art. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente subordinado ao presidente da República. Art. 2º O DIP tem por fim
+- **2023 Q70** [texto] gab=C | tema: cemitério; regime militar; 1970
+  - cmd: ei-me Vós, Senhor Deus / Se é mentira, se é verdade, / Tanto horror perante os céus. GASPARI, E. A ditadura encurralada. São Paulo: Cia. das Letras, 2004. O acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a seguinte característica do regime político-institucional vigente: A
+  - ini: No cemitério, a sociedade religiosa encarregada do funeral, aterrorizada, apressou a cerimônia de tal forma que a mãe de Herzog perdeu o momento em que o caixão do filho começou a 
+- **2023 Q73** [texto] gab=A | tema: expansão marítima; século XV
+  - cmd: o naval, além da sua utilização na vida quotidiana de toda a população. DEVY-VARETA, N. Para uma geograa histórica da oresta portuguesa. Revista da Faculdade de Letras — Geograa, n. 1, 1986 (adaptado). Qual acontecimento do período contribuiu diretamente para o agravamento da situação descrita? A
+  - ini: Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história 
+- **2023 Q80** [texto] gab=A | tema: golpe militar; sindicatos rurais
+  - cmd: com base em princípios conservadores e ministrados por membros da Igreja Católica. DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006 (adaptado). Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utilizá-los para A
+  - ini: O Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambí
+- **2024 Q49** [texto] gab=E | tema: Belle Époque; modernização; transportes
+  - cmd: ansportes, o trem a vapor é substituído pelo elétrico, que assiste à entrada do automóvel e até do aeroplano. COSTA, A. M.; SCHWARCZ, L. M. 1890-1914, no tempo das certezas. São Paulo: Cia. das Letras, 2000 (adaptado). No Brasil, os eventos descritos ganharam conotação política ao serem vinculados à
+  - ini: Com a proximidade do final do século XIX, amplificam-se as expectativas com relação ao século seguinte. Se muitas eram as utopias, talvez uma das mais evidentes tenha se concentrad
+- **2024 Q75** [texto] gab=A | tema: Iluminismo; salões; esfera pública
+  - cmd: bases sociais nas quais se assentavam o Alto e o Baixo Iluminismo. HABERMAS, J. Mudança estrutural da esfera pública: investigações quanto a uma categoria da sociedade burguesa. Rio de Janeiro: Tempo Brasileiro, 1984 (adaptado). No período iluminista, os espaços sociais mencionados contribuíram para
+  - ini: Os salões permitiam aos escritores da época do Iluminismo adentrar no universo dos poderosos. Figuras como as de Voltaire e Duclos exortavam seus “irmãos” a aproveitarem da mobilid
+- **2025 Q52** [texto] gab=C | tema: Gripe espanhola; Primeira Guerra Mundial; Censura de imprensa; Origem da pandemia
+  - cmd: De acordo com o texto, a denominação recebida pela pandemia do começo do século XX foi determinada pelo(a)
+  - ini: Não há consenso em torno do nome dado à pandemia, tendo, desde o seu início, sido chamada de gripe espanhola provavelmente por causa da desinformação em torno da notícia sobre sua 
+- **2025 Q58** [texto] gab=D | tema: Reforma de 1881; Eleitorado; Voto; Alfabetização
+  - cmd: De acordo com o texto, a participação no processo eleitoral brasileiro após a Reforma de 1881 sofreu uma variação que se explica pela
+  - ini: Em 1872, havia mais de 1 milhão de votantes, correspondentes a 13% da população livre. Em 1886, votaram nas eleições parlamentares pouco mais de 100 mil eleitores, ou 0,8% da popul
+- **2025 Q64** [texto] gab=A | tema: Getúlio Vargas; Rua Tonelero; Carlos Lacerda; Anos 1950
+  - cmd: Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)
+  - ini: Em toda a sua carreira política, Getúlio Vargas sempre contou com o seu talento pessoal de persuasão e poder de manipulação. Agora, porém, seus amigos começavam a perceber que ele 
+- **2025 Q87** [texto] gab=B | tema: Roma Antiga; Patrícios; Plebeus; Participação política
+  - cmd: A conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos
+  - ini: Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios man
+- **2025 Q90** [texto] gab=A | tema: Expedição russa; Antropologia; Nacionalismo; Império
+  - cmd: Além do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter
+  - ini: Em 1914, uma expedição estudantil saiu da Rússia em direção à América do Sul, sendo considerada a segunda campanha científica da Rússia no continente depois da longa viagem do barã
+
+## comparar-processos — 9 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q79** [texto] gab=D | tema: coolies; escravidão; comparação
+  - cmd: mão de obra de um lugar para outro, foi comparado ao tráfico africano de escravos por muitos periodistas e analistas do século XIX. SANTOS, M. A. Migrações e trabalho sob contrato no século XIX. História, n. 12, 2017. A comparação mencionada no texto foi possível em razão da seguinte característica:
+  - ini: O fenômeno histórico conhecido como “tráfico de coolies” esteve associado diretamente ao período que vai do final da década de 1840 até o ano de 1874, quando milhares de chineses f
+- **2021 Q49** [imagem] gab=C | tema: patrimônio; conservação; dois textos
+  - cmd: rentes sobre a(s) O O ampliação do comércio de imagens sacras. substituição de materiais de valor artístico. políticas de conservação de bens culturais. defesa da privatização de sítios arqueológicos. medidas de salvaguarda de peças museológicas. - AZUL - 1a Aplicação 21 Exame Nacional do E enem202/
+  - ini: TEXTO I enemz,u Portadoras de mensagem espiritual do passado, as obras monumentais de cada povo perduram no presente como o testemunho vivo de suas tradições seculares. A humanidad
+- **2021 Q78** [texto] gab=A | tema: Macaulay; interpretações; história
+  - cmd:  da Revolução Inglesa apresentada no Texto II diferencia-se da do Texto I ao destacar a existência de O pluralidade das demandas sociais. O homogeneidade das lutas religiosas. @ unicidade das abordagens históricas. @ superficialidade dos interesses políticos. @ superioridade dos aspectos econômicos.
+  - ini: TEXTO I Macaulay enfatizou o glorioso acontecimento representado pela luta do Parlamento contra Carlos I em prol da liberdade política e religiosa do povo inglês; significou o prim
+- **2022 Q58** [texto] gab=E | tema: práticas religiosas; 1889; dois textos
+  - cmd: ostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano. NOBRE, E. Incêndios da alma. Rio de Janeiro: Multifoco, 2016 (adaptado). As práticas religiosas mencionadas nos textos estão associadas, respectivamente, à: A
+  - ini: TEXTO I Em março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Cons
+- **2022 Q66** [texto] gab=C | tema: lei educacional de 1827; discursos
+  - cmd: o arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas lhas aprendessem a ler. WESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado). Os discursos expressam pontos de vista divergentes respectivamente pela oposição entre A
+  - ini: TEXTO I A primeira grande lei educacional do Brasil, de 1827, determinava que, nas “escolas de primeiras letras” do Império, meninos e meninas estudassem separados e tivessem currí
+- **2023 Q74** [texto] gab=D | tema: incas; dominação; cultura
+  - cmd: ses locais e também a falar em suas línguas nativas. MARTINS, C. Os incas e os tahuantinsuyu: apresentação. Disponível em: http://antigo.anphlac.org. Acesso em: 6 out. 2021 (adaptado). Ao comparar, no texto, a vertente da dominação territorial com os aspectos culturais, os incas tinham uma postura A
+  - ini: Tahuantinsuyu — nome do Império Inca em quéchua — era dividido em quatro partes ou suyus: Chinchaysuyu (noroeste do Peru e Equador), Antisuyu (parte amazônica do império), Collasuy
+- **2024 Q50** [texto] gab=B | tema: Las Casas; colonização; pontos de vista
+  - cmd: ue o esterco das praças, denunciador de quem por cobiça converte Jesus Cristo no mais cruel dos deuses e o rei em lobo faminto de carne humana. GALEANO, E. Os nascimentos. Porto Alegre: L&PM, 2011 (adaptado). Os diferentes pontos de vista presentes no texto expressam que o bispo era, ao mesmo tempo,
+  - ini: O bispo Bartolomeu de Las Casas é o homem mais odiado da América, o anti-Cristo dos senhores, o açoite destas terras. Por sua culpa, o imperador promulgou novas leis que despojam d
+- **2025 Q73** [texto] gab=A | tema: Canibalismo; Tupis; Europeus; Colonização
+  - cmd: No texto, europeus e ameríndios atribuíram à prática relatada, respectivamente, o significado de
+  - ini: Entre esses preconceitos estava o canibalismo. A prática não era, porém, uma mentira, uma invenção europeia, mas um ritual controlado por regras. Entre os tupis, por exemplo, os gu
+- **2025 Q85** [texto] gab=B | tema: Cinema; Didática escolar; Século XX; Discursos contraditórios
+  - cmd: Publicados na primeira metade do século XX, os textos apresentam
+  - ini: TEXTO I O cinema constituía um encanto indefinível: além do entretenimento delicioso das vidas alheias por meio dos filmes, o pretexto amável para os encontros de olhos, para a mos
+
+## transformacao-permanencia — 5 questões | anos=[2020, 2023, 2024]
+
+- **2020 Q66** [texto] gab=E | tema: dança; comandos franceses; sincretismo
+  - cmd:  — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (en arrière — para trás) e anavã (en avant — para frente). Disponível em: www.ebc.com.br. Acesso em: 6 jul. 2015. A característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico:
+  - ini: Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é anunciar os próximos passos da coreografia. O abrasileiramento de termos fra
+- **2023 Q47** [texto] gab=D | tema: costumes; século XIX; tradições
+  - cmd: 853, apud DONEGÁ, A. L. Publicar cção em meados do século XIX: um estudo das revistas femininas editadas pelos irmãos Laemmert. Campinas: Unicamp, 2013 (adaptado). Na perspectiva do autor, as tradições e os costumes sociofamiliares sofreram alterações, no século XIX, decorrentes de quais fatores? A
+  - ini: Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem
+- **2023 Q84** [texto] gab=D | tema: cozinha; mulheres; 1930
+  - cmd:  habitação, que deveria induzir um novo comportamento social. SILVA, J. L. M. Transformações no espaço doméstico: o fogão a gás e a cozinha paulistana, 1870-1930. Anais do Museu Paulista, n. 2, jul.-dez. 2007 (adaptado). No contexto descrito, as mudanças mencionadas proporcionavam às mulheres o(a) A
+  - ini: A partir da década de 1930, começam a ser discutidos no Brasil os princípios de racionalização do trabalho. As preocupações com a cozinha e o trabalho doméstico foram introduzidas 
+- **2024 Q66** [texto] gab=C | tema: pílula anticoncepcional; gênero; tecnologia
+  - cmd: cêutica multinacional. DIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado). Qual foi o efeito social resultante do avanço tecnológico mencionado no texto?
+  - ini: Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a cheg
+- **2024 Q73** [texto] gab=D | tema: cordel; xilogravura; século XX
+  - cmd: acilidade do talhe e abundância — princesas, dragões, cangaceiros. CARVALHO, G. Xilogravura: os percursos da criação popular. Revista do Instituto de Estudos Brasileiros, n. 39, 1986 (adaptado). No início do século XX, a incorporação da técnica de produção descrita no texto promoveu uma renovação da
+  - ini: As capas dos folhetos de cordel, já então ilustradas por postais fotográficos, desenhos ou fotogramas de filmes, demoravam mais de uma semana para serem transformadas em clichês em
+
+## agrario-trabalho — 4 questões | anos=[2020, 2021, 2022]
+
+- **2020 Q49** [texto] gab=C | tema: reforma agrária; direito à propriedade
+  - cmd: o. JELINEK, R. O princípio da função social da propriedade e sua repercussão sobre o sistema do Código Civil. Disponível em: www.mp.rs.gov.br. Acesso em: 20 fev. 2013. Os movimentos em prol da reforma agrária, que atuam com base no conceito de direito à propriedade apresentado no texto, propõem-se a
+  - ini: A propriedade compreende, em seu conteúdo e alcance, além do tradicional direito de uso, gozo e disposição por parte de seu titular, a obrigatoriedade do atendimento de sua função 
+- **2020 Q71** [texto] gab=C | tema: terra; Cora Coralina; apropriação
+  - cmd: iro materno de meu seio tranquilo dormirás. Plantemos a roça. Lavremos a gleba. CORALINA, C. Textos e contextos: poemas dos becos de Goiás e estórias mais. São Paulo: Global, 1997 (fragmento). No contexto das distintas formas de apropriação da terra, o poema de Cora Coralina valoriza a relação entre
+  - ini: O cântico da terra Eu sou a terra, eu sou a vida. A ti, ó lavrador, tudo quanto é meu. Teu arado, tua foice, teu machado. O berço pequenino de teu filho. O algodão de tua veste e o
+- **2021 Q90** [imagem] gab=B | tema: escravos; Rio de Janeiro; cotidiano
+  - cmd: das as noites, depois das dez horas, os escravos conhecidos xcremento e lixo sobre a cabeça pelas ruas do Rio. H, M. C. A vida dos escravos no Rio de Janeiro, 1808-1850. Rio de Janeiro: Cia. das Letras, 2000. widencia uma prática do cotidiano nas cidades no Brasil nos :rno 1 - AZUL - 1a Aplicação 31
+  - ini: TEXTO I TEXTO II EIGENHEE A repugnante tarefa de carregar lixo e os dejetos da casa único escravo da família ou ao de menor status ou valor. Todas popularmente como 'tigres" levava
+- **2022 Q76** [imagem] gab=D | tema: açude; construção; trabalhadores
+  - cmd: dade da natureza, com as famílias alojadas em pequeninas casas de taipa e telha — embrião de futura cidade — impressionava-nos profundamente. VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado). Na construção do empreendimento descrito, destaca-se a presença de A
+  - ini: Lá embaixo está o Açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param, em longas fi
+
+# GEOGRAFIA
+
+## socioambiental — 39 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q53** [texto] gab=D | tema: Terra; camadas; geologia
+  - cmd: em que estou?” (Alice não tinha a menor ideia do que fosse latitude ou longitude, mas achou que eram palavras muito imponentes). CARROLL, L. Aventuras de Alice: no País das Maravilhas, Através do espelho e outros textos. São Paulo: Summus, 1980. O texto descreve uma confusão da personagem em relação
+  - ini: “Devo estar chegando perto do centro da Terra. Deixe ver: deve ter sido mais de seis mil quilômetros, por aí...” (como se vê, Alice tinha aprendido uma porção de coisas desse tipo 
+- **2020 Q56** [texto] gab=D | tema: alimentos; recurso natural; agricultura
+  - cmd: a consumida na agricultura é de cerca de 70% da disponibilidade total. TUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções. Estudos Avançados, n. 63, 2008 (adaptado). Para que haja a redução da pressão sobre o recurso natural mencionado, a expansão da agricultura demanda melhorias no(a)
+  - ini: A demanda mundial para a produção de alimentos aumenta progressivamente a taxas muito altas. Atualmente, na maioria dos países, continentes e regiões, a água consumida na agricultu
+- **2020 Q67** [mapa] gab=B | tema: vulcões; fenda tectônica
+  - cmd: Vale da Grande Fenda Vulcões Disponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado). Os aspectos físicos apresentados originam-se da atuação da força natural de
+  - ini: Vale da Grande Fenda Vulcões Disponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado). Os aspectos físicos apresentados originam-se da atuação da força natura
+- **2020 Q82** [texto] gab=A | tema: vulcões; risco; Puebla
+  - cmd: ico no mundo. Ao contrário do que seria sensato, continuam ali, indiferentes ao perigo que os espreita. ANGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 24 out. 2015 (adaptado). A característica física que justifica a fixação do homem nos locais apresentados no texto é a ocorrência de
+  - ini: As cidades de Puebla, no México, e Legazpi, nas Filipinas, não têm quase nada em comum. Estão muito longe uma da outra e são habitadas por povos muito diferentes. O que as une é um
+- **2020 Q84** [texto] gab=E | tema: placas tectônicas; feição fisiográfica
+  - cmd: osto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo. TEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000. Qual feição fisiográfica é gerada pelo processo tectônico apresentado?
+  - ini: A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na bo
+- **2020 Q88** [imagem] gab=C | tema: Tietê; poluição; rio
+  - cmd:  Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida. Disponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado). Considerando a análise dos textos, a condição atual desse rio tem como origem a
+  - ini: TEXTO I Rio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar. TEXTO II O Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fu
+- **2020 Q90** [texto] gab=D | tema: febre amarela; Mariana; degradação
+  - cmd: ça estão em uma região onde os rejeitos não chegaram com força para derrubar a floresta”, diz o biólogo. RODRIGUES, L. Especialistas investigam relação entre febre amarela e degradação ambiental. Agência Brasil, 25 jan. 2017. Sobre a tragédia de Mariana, os textos apresentam divergência quanto ao(à)
+  - ini: TEXTO I O aumento de casos suspeitos de febre amarela em Minas pode estar relacionado à tragédia de Mariana, em 2015, segundo a bióloga da Fiocruz Márcia Chame. A hipótese tem como
+- **2021 Q50** [texto] gab=B | tema: resíduos sólidos; cidadania
+  - cmd: o contexto das discussões ambientais, as práticas descritas nos textos refletem um padrão de relações derivado do(a): O Exercício pleno da cidadania. O Divisão internacional do trabalho. @ Gestão empresarial do toyotismo. @ Concepção sustentável da economia. @ Protecionismo alfandegário dos Estados.
+  - ini: TEXTO I Em 2016, foram gerados 44,7 milhões de toneladas de resíduos eletrônicos, um aumento de 8% na comparação com 2014. Especialistas previram um crescimento de mais 17%, para 5
+- **2021 Q51** [texto] gab=A | tema: água; preços; abastecimento
+  - cmd: co, 2015. Considerando o debate sobre segurança hídrica, a proposta apresentada no texto está pautada no(a) O distribuição equitativa do abastecimento. O monitoramento do fornecimento urbano. @ racionamento da capacidade fluvial. @ revitalização gradativa de solos. @ geração de produtos recicláveis.
+  - ini: Preços justos e autorizações de uso da água devem garantir de forma adequada que a retirada de água, bem como o retorno de efluentes, mantenham operações eficientes e ambientalment
+- **2021 Q59** [texto] gab=B | tema: semiárido; clima; saber tradicional
+  - cmd: tempo para a climatologia escolar no ensino fundamental II. GeoTextos, n. 1 , jul. 2010 (adaptado). O texto expõe a produção de um conhecimento que se constitui pela O técnica científica. O experiência perceptiva. @ negação das tradições. @ padronização das culturas. @ uniformização das informações.
+  - ini: No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão 
+- **2021 Q63** [texto] gab=B | tema: mineração; conflitos; extrativismo
+  - cmd:  16, 2017. O texto apresenta uma relação entre atividade econômica e organização social marcada pelo(a) O escassez de incentivo cultural. O rompimento de vínculos locais. @ carência de investimento financeiro. @ estabelecimento de práticas agroecológicas. @ enriquecimento das comunidades autóctones.
+  - ini: As atividades mineradoras têm criado conflitos com extrativistas, quilombolas, pequenos agricultores, ribeirinhos, pescadores artesanais e povos indígenas. Em geral, estes sujeitos
+- **2021 Q70** [texto] gab=C | tema: Xavante; saber tradicional; conservação
+  - cmd: ioespacial dos indígenas evidencia a importância do(a) O prática agrícola para a logística nacional. O cultivo de hortaliças para o consumo urbano. @ saber tradicional para a conservação ambiental. @ criação de gado para o aprimoramento genético. @ reflorestamento comercial para a produção orgânica.
+  - ini: enem202/ Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundam
+- **2021 Q71** [texto] gab=A | tema: crosta terrestre; geomorfologia
+  - cmd: LEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989. As transformações na superfície terrestre, conforme descritas no texto, compõem o seguinte processo geomorfológico: O Ciclo sedimentar. O Instabilidade sísmica. @ Intemperismo biológico. @ Derramamento basáltico. @ Compactação superficial.
+  - ini: Desde os primórdios da formação da crosta terrestre até os dias de hoje, as rochas formadas vêm sendo continuamente destruídas. Os produtos resultantes da destruição das rochas são
+- **2022 Q46** [texto] gab=D | tema: sertanejo; caatinga; paisagem
+  - cmd: , é certa a chuva em janeiro; se a segunda, em fevereiro; se a maioria ou todas, é inevitável o inverno benfazejo. Esta experiência é belíssima. CUNHA, E. Os sertões. São Paulo: Editora Três, 1984. No experimento descrito, a relação com a paisagem e com a religiosidade permite que o sertanejo seja A
+  - ini: Espera, resignado, o dia 13 daquele mês porque, em tal data, usança avoenga lhe faculta sondar o futuro, interrogando a providência. É a experiência tradicional de Santa Luzia. No 
+- **2022 Q49** [grafico] gab=B | tema: impermeabilização; urbano; drenagem
+  - cmd: o infiltração subsuperficial: 25% escoamento superficial:10% percolação profunda: 25% evapotranspiração: 40% 35% - 50% de superfície impermeável PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado). A intensicação da ocupação urbana demonstrada afeta de forma imediata o(a) A
+  - ini: 10% - 20% de superfície impermeável percolação profunda: 21% infiltração subsuperficial: 21% escoamento superficial: 20% evapotranspiração: 38% escoamento superficial: 30% infiltra
+- **2022 Q55** [texto] gab=B | tema: solos salinos; agricultura
+  - cmd: o do solo. Nas últimas décadas, a expansão das atividades agrícolas na região tem ampliado esse processo. LEPSCH, I. F. Solos: formação e conservação. São Paulo: Melhoramentos, 1993 (adaptado). As atividades agrícolas, desenvolvidas na região mencionada, intensicam o problema ambiental exposto ao A
+  - ini: Solos salinos ou alomórficos apresentam como característica comum uma concentração muito alta de sais solúveis e/ou de sódio trocável. Eles ocorrem nos locais mais baixos do relevo
+- **2022 Q64** [texto] gab=A | tema: tectônica; relevo
+  - cmd: calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão. PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006 (adaptado). A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográco, na medida em que provoca a formação de A
+  - ini: As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da
+- **2022 Q74** [mapa] gab=C | tema: radiação solar; clima
+  - cmd: 15 3,50 3,85 4,20 4,55 4,90 5,25 5,60 5,95 6,30 6,65 kWh/m² 0 200 400 600 800 1000 km PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006. Uma característica regional que justica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida A
+  - ini: RADIAÇÃO SOLAR GLOBAL HORIZONTAL MÉDIA ANUAL 3,15 3,50 3,85 4,20 4,55 4,90 5,25 5,60 5,95 6,30 6,65 kWh/m² 0 200 400 600 800 1000 km PEREIRA, E. B. et al. Atlas brasileiro de energ
+- **2023 Q46** [imagem] gab=C | tema: sertão; bordado; regional
+  - cmd: Fotograa da avó bordada SCARELI, G. A máquina de costura e os os da memória. Revista Brasileira de Pesquisa (Auto)Biográca, n. 18, maio-ago. 2021. A denição de Sertão descrita no bordado associa esse recorte espacial a A
+  - ini: Fotografia da avó bordada SCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira de Pesquisa (Auto)Biográfica, n. 18, maio-ago. 2021. A definição de Sertão descr
+- **2023 Q53** [texto] gab=B | tema: Himalaia; tectônica
+  - cmd:  Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano. Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado). Qual dinâmica natural é responsável pelo fenômeno apresentado? A
+  - ini: A Cordilheira do Himalaia tem mais de 50 milhões de anos, sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer diz
+- **2023 Q64** [texto] gab=D | tema: Txai Suruí; COP-26; indígenas
+  - cmd: scem como no passado. A Terra está falando: ela nos diz que não temos mais tempo.” VICK, M. Quais são as conquistas do movimento indígena na COP-26. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado). O discurso da líder indígena explicita um problema global relacionado ao(à) A
+  - ini: Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26 “O clima está esquentando, os animais estão desaparecendo, os rios estão morrendo e nossas p
+- **2023 Q67** [texto] gab=B | tema: agrofloresta; Bahia; conservação
+  - cmd: ulturas de dendê, seringa ou café), agricultura ou pastagens. SOLLBERG, I.; SCHIAVETTI, A.; MORAES, M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una: agroorestas como uma perspectiva de conservação. Revista Árvore, n. 2, 2014 (adaptado). A prática produtiva apresentada é um exemplo de A
+  - ini: No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como 
+- **2023 Q78** [texto] gab=A | tema: agricultura urbana; favela
+  - cmd: GUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no arranjo local da Penha: a mobilização de mulheres a partir das práticas de agricultura urbana na favela. Cidades, Comunidades e Territórios, n. 42, jun. 2021. A prática agrícola destacada no texto apresenta como vantagem no espaço urbano a A
+  - ini: Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próp
+- **2023 Q83** [texto] gab=C | tema: solos; degradação
+  - cmd: possível, a sua recuperação. GUERRA, A. T. Degradação dos solos: conceitos e temas. In: GUERRA, A. T.; JORGE, M. C. O. (Org.). Degradação dos solos no Brasil. Rio de Janeiro: Difel, 2018. A partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a A
+  - ini: Diversos são os fatores causadores da degradação do solo, atuando de forma direta ou indireta, mas quase sempre a grande maioria das terras degradadas inicia esse processo com o de
+- **2023 Q89** [mapa] gab=D | tema: clima; simulações; mitigação
+  - cmd:    Variação () 4 C      1  1    ICC  1 1            PIVETTA, M. O clima no Antropoceno. Revista Pesquisa Fapesp, n. 307, set. 2021. Qual medida é capaz de minimizar as mudanças apresentadas nas simulações? A
+  - ini: Simulação de mudança da temperatura média anual em relação ao período pré-industrial em três cenários de aquecimento global Simulação de mudança da pluviosidade média anual em rela
+- **2024 Q46** [texto] gab=C | tema: terremoto; placas tectônicas; Chile
+  - cmd: que é considerado pequeno e sem previsão de danos. Moradores do interior de SP relatam tremores de terra. Disponível em: https://noticias.r7.com. Acesso em: 6 nov. 2021 (adaptado). As diferenças entre os eventos geológicos relatados decorrem de distintas posições geográcas das cidades em relação a:
+  - ini: TEXTO I Um terremoto de magnitude 5,9 atingiu a cidade de Valparaíso, na costa chilena. O terremoto ocorreu a uma profundidade de 112 quilômetros. Terremoto de magnitude 5,9 atinge
+- **2024 Q48** [texto] gab=C | tema: barragem de Fundão; desastre; espaço vivido
+  - cmd: ram as localidades, deixaram para trás os resquícios da vida que tiveram até o 5 de novembro de 2015. Nada jamais seria igual. SANTOS, P. Histórias soterradas. Curinga, n. 19, nov. 2016 (adaptado). Conforme o texto, o evento gerou o seguinte impacto na relação entre as pessoas e o seu espaço vivido:
+  - ini: O rompimento da barragem de Fundão levou muito consigo. A lama soterrou sonhos e modificou de forma permanente centenas de vidas nascidas e criadas em Bento Rodrigues e Paracatu, e
+- **2024 Q53** [texto] gab=C | tema: inundação; desastre natural; velocidade
+  - cmd: Diferenças entre inundação gradual e brusca TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado). A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela
+  - ini: Diferenças entre inundação gradual e brusca TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: conhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado). A 
+- **2024 Q60** [texto] gab=B | tema: racionalidade produtiva; território; sustentabilidade
+  - cmd: nas economias de autossubsistência mas economias que potencializam a produtividade ecológica de seus territórios. LEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado). O texto expõe a possibilidade de uma nova racionalidade produtiva por meio de uma gestão territorial que se baseia na
+  - ini: Há experiências de lutas sociais de reapropriação cultural da natureza que são movimentos emblemáticos, como a dos seringueiros no Brasil, que da luta sindical para a comercializaç
+- **2024 Q68** [texto] gab=E | tema: Amazônia; desmatamento; ciclo da água
+  - cmd: ), que monitora a oresta por meio de imagens de satélites. FREITAS, A. Desmatamento na Amazônia em setembro foi o maior para o período em 10 anos. Disponível em: www.cnnbrasil.com.br. Acesso em: 6 nov. 2021. Para a região amazônica, a relação entre as informações dos textos indica uma redução do(a)
+  - ini: TEXTO I Uma única árvore joga entre 300 e 1000 litros de água por dia para a atmosfera. Considerando a demanda mínima que uma pessoa consome de água, ou seja, 120 litros por dia, u
+- **2024 Q88** [texto] gab=C | tema: mudança climática; cidades; adaptação
+  - cmd: dos às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas. EVERS, H. et al. Soluções baseadas na natureza para adaptação em cidades. Disponível em: www.wribrasil.org.br. Acesso em: 19 out. 2023 (adaptado). Qual medida atenua os problemas abordados no texto?
+  - ini: A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam 
+- **2025 Q47** [mapa] gab=D | tema: Queimadas; CO₂; Dispersão espacial; Massas de ar
+  - cmd: A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:
+  - ini: Concentração de CO₂ por queimadas entre África e Brasil em 30 de agosto de 2019 [mapa de satélite com escala de cores de 0 a 1200 PPbv sobre América do Sul e África] Disponível em:
+- **2025 Q56** [texto] gab=C | tema: Crise climática; Rio Reno; Navegação fluvial; Logística de transporte
+  - cmd: Qual é o efeito econômico do problema ambiental apresentado no texto?
+  - ini: Por séculos, o Rio Reno tem sido uma rota de navegação confiável, ajudando a criar gigantes fabris ao longo de suas margens. No entanto, esses dias parecem estar no fim, pois o nív
+- **2025 Q59** [texto] gab=B | tema: Energia hidrelétrica; Floresta Amazônica; Água; Matriz energética
+  - cmd: De acordo com o texto, a dificuldade na produção de energia é causada pela alteração da(s)
+  - ini: Pela falta de chuvas, a geração de energia eólica, solar e térmica atingiu níveis recordes em agosto de 2021, quando as hidrelétricas ficaram com cerca de 50% do total. Para um pro
+- **2025 Q70** [texto] gab=B | tema: Flórida; Desmoronamento de solo; Calcário; Intemperismo químico
+  - cmd: A situação de desmoronamento do solo descrita no texto origina-se da
+  - ini: Nos Estados Unidos, um hotel perto de um parque foi engolido por uma enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inte
+- **2025 Q75** [texto] gab=B | tema: Inseticidas; Polinizadores; Agricultura; Biodiversidade
+  - cmd: Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da
+  - ini: A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 19
+- **2025 Q77** [charge] gab=A | tema: Eletromobilidade; Metais raros; Desenvolvimento sustentável; Charge
+  - cmd: No que se refere ao desenvolvimento sustentável, a charge e o texto indicam uma contradição no uso da tecnologia alternativa derivada do seguinte aspecto:
+  - ini: Carro elétrico, uma miragem ecológica [charge: carro elétrico ligado a tomada com fábrica poluente ao fundo] A mudança para a eletromobilidade de fato promove uma alteração no cons
+- **2025 Q80** [texto] gab=C | tema: Cidade sustentável; Equidade socioespacial; Ecologia urbana; Planejamento urbano
+  - cmd: Uma medida pública que contradiz o modelo de cidade exposto no texto é a
+  - ini: Cidade sustentável é o assentamento humano constituído por uma sociedade com consciência de seu papel de agente transformador dos espaços e cuja relação não se dá pela razão nature
+- **2025 Q84** [texto] gab=D | tema: Cerrado; Incêndios florestais; Sensoriamento remoto; Prevenção
+  - cmd: Em relação à causa ambiental, o uso da tecnologia mencionada indica a
+  - ini: Com o objetivo de auxiliar a prevenção e o combate a incêndios no Cerrado, o Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais (UFMG) desenvolveu um modelo com
+
+## producao-espaco — 19 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q51** [mapa] gab=D | tema: agreste; algodão; pecuária
+  - cmd: ENTO- - - - - - - - - - - COLHEITA DE FEIJÃO - - - - - - - - COLHEITA DE MILHO VERDE - - - COLHEITA DE MILHO SECO - - - COLHEITA DE ALGODÃO - - - - - - ANDRADE, M. C. A terra e o homem no Nordeste. São Paulo: Brasiliense, 1963. A dinâmica produtiva apresentada na imagem tem como estratégia central a
+  - ini: Zona de pastoreio e cultura do algodão e cereais do agreste (1963) CONVENÇÕES PASTOREIO - - - - - - - - - - - - - - - PLANTIO E LIMPA - - - - - - - - - - CRESCIMENTO- - - - - - - -
+- **2020 Q58** [texto] gab=E | tema: planejamento urbano; crescimento
+  - cmd: o primeiro e principal objetivo do planejamento devia ser o de azeitar a máquina. HALL, P. Cidades do amanhã: uma história intelectual do planejamento e do projeto urbanos no século XX. São Paulo: Perspectiva, 2016 (adaptado). O modelo de planejamento urbano problematizado no texto é marcado pelo(a)
+  - ini: O planejamento deixou de controlar o crescimento urbano e passou a encorajá-lo por todos os meios possíveis e imagináveis. Cidades, a nova mensagem soou em alto e bom som, eram máq
+- **2020 Q59** [texto] gab=C | tema: escudos cristalinos; mineração
+  - cmd: ões: o Escudo das Guianas (norte da Planície Amazônica) e o Escudo Brasileiro (porção centro-oriental brasileira). Disponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015. As estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem
+  - ini: Escudos antigos ou maciços cristalinos são blocos imensos de rochas antigas. Estes escudos são constituídos por rochas cristalinas (magmático- plutônicas), formadas em eras pré-cam
+- **2020 Q65** [mapa] gab=D | tema: agronegócio; rodovias; Mato Grosso
+  - cmd:  instalação no território de fixos diversos, bem como de uma regulação específica. LIMA, R. C.; PENNA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016. O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)
+  - ini: O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais
+- **2021 Q48** [texto] gab=D | tema: uvas; melhoramento genético; agricultura
+  - cmd: cnicas referidas no texto buscaram adaptar o cultivo aos(às) 31a 10. sua 018. ho de lia , do Ite tal Ido). as no as to, às. as na es pe 1 O O espécies nativas ameaçadas. cadeias econômicas autônomas. estruturas fundiárias tradicionais. elementos ambientais singulares. mercados consumidores internos.
+  - ini: Atualmente, o Programa de Melhoramento "Uvas do Brasil" utiliza métodos clássicos de melhoramento, como seleção massal, seleção clonal e hibridações. Ações de ajuste de manejo de s
+- **2021 Q58** [imagem] gab=E | tema: cidade; paisagem; transformação
+  - cmd: uação apresentada no texto vem ocorrendo como consequência da O manutenção dos modos de convívio social. O preservação da essência do espaço público. @ ampliação das normas de controle ambiental. @ flexibilização das regras de participação política. @ alteração da organização da paisagem geográfica.
+  - ini: A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparecem; o número de brincadeiras infantis nas ruas diminui
+- **2021 Q61** [texto] gab=A | tema: porto; Rio de Janeiro; especulação
+  - cmd: ções urbanas descritas derivam de um processo socioespacial que busca a O intensificação da participação na competitividade global. O contenção da especulação no mercado imobiliário. @ democratização da habitação popular. @ valorização das funções tradicionais. @ priorização da gestão participativa.
+  - ini: enem202/ Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importan
+- **2021 Q72** [texto] gab=E | tema: planejamento urbano; participação
+  - cmd:  SO de OS Ito tar IOS se lar da rnar ntes 019. Qual medida promove a participação social descrita no texto? O Redução dos impostos municipais. O Privatização dos espaços públicos. @ Adensamento das áreas de comércio. @ Valorização dos condomínios fechados. @ Fortalecimento das associações de bairro.
+  - ini: A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos di
+- **2021 Q79** [texto] gab=E | tema: enclave industrial; território
+  - cmd: or empresas reflete a forma de territorialização da produção industrial apresentada no texto? O Criação de vilas operárias. O Promoção de eventos comunitários. @ Recuperação de áreas degradadas. @ Incorporação de saberes tradicionais. @ Importação de mão de obra qualificada. - AZUL - 1a Aplicação 21
+  - ini: As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: p
+- **2022 Q50** [texto] gab=E | tema: ferrovia; Amazônia; ocupação
+  - cmd: em do palco, cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada. FOOT HARDMAN, F. Trem fantasma: modernidade na selva. São Paulo: Cia. das Letras, 1988 (adaptado). No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na A
+  - ini: Na construção da ferrovia Madeira-Mamoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios febris, doses de quinino e corredores da morte? O Hospital da Candelári
+- **2022 Q52** [texto] gab=D | tema: sertão; rural; cidade
+  - cmd: noso balé De pisar no cacau Maria que amanhece o dia Lá no milharal VANDER LEE. Do Brasil. In: Pensei que fosse o céu: ao vivo. Rio de Janeiro: Indie Records, 2006 (fragmento). A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua função de A
+  - ini: Olhar o Brasil e não ver o sertão É como negar o queijo com a faca na mão Esse gigante em movimento Movido a tijolo e cimento Precisa de arroz com feijão Que tenha comida na mesa Q
+- **2022 Q59** [texto] gab=C | tema: PAA; pequenos produtores
+  - cmd:  de PAA: As contribuições e os desaos para o desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015. A ação governamental descrita constitui-se uma importante conquista para os pequenos produtores em virtude da: A
+  - ini: Em 2003, teve início o Programa de Aquisição de Alimentose,comele,váriasmudançasnaperspectivados mercados institucionais. Trata-se do primeiro programa de compras públicas com uma 
+- **2023 Q48** [texto] gab=A | tema: Cerrado; territorialização; produção
+  - cmd:  a violência contra a pessoa. CALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação do campesinato no Cerrado. Élisée, Rev. Geo. UEG, n. 1, jan.-jun. 2021 (adaptado). Os elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um A
+  - ini: No Cerrado, o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio. De um lado, o capital impõe os conhecimentos biotecnológicos, como mecanismo de unive
+- **2023 Q71** [texto] gab=A | tema: logística; soja; produção
+  - cmd: l de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas. OLIVEIRA, A. U. A Amazônia e a nova geograa da produção da soja. Terra Livre, n. 26, jan.-jun. 2006 (adaptado). Na visão do autor, o problema central da situação descrita é desencadeado pela A
+  - ini: Alternativas logísticas estão servindo de instrumentos que ativam os mercados especuladores de terras nas diferentes regiões da Amazônia e constituem em indicadores utilizados por 
+- **2024 Q57** [texto] gab=D | tema: espaço público; cidade; visibilidade
+  - cmd: mpromissos. Por isso, não anulam os conitos, ao contrário, são canais de comunicação e de visibilidade de oposições. GOMES, P. C. C. Espaço público, espaços públicos. Geographia, n. 44, set.-dez. 2018 (adaptado). As características descritas no texto exibem a importância dos espaços públicos para a
+  - ini: Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os prob
+- **2024 Q70** [texto] gab=E | tema: Milton Santos; território; objetos técnicos
+  - cmd: um país e, sobretudo, a rede ferroviária são exemplos de objetos complexos e sistêmicos. SANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção. São Paulo: Hucitec, 1996 (adaptado). De acordo com o texto, o território torna-se cada vez mais dotado de objetos com a nalidade de intensicar a
+  - ini: Cada objeto é, em si mesmo, um sistema funcionando sistemicamente. Um grande supermercado ou shopping center seria incapaz de existir se não fossem servidos por vias rápidas, estac
+- **2024 Q86** [imagem] gab=D | tema: imagens de satélite; processo; território
+  - cmd: TEXTO I Disponível em: https://earth.google.com. Acesso em: 13 out. 2023. TEXTO II Disponível em: https://earth.google.com. Acesso em: 13 out. 2023. A comparação entre as imagens de satélite indica a ocorrência de um processo de
+  - ini: TEXTO I Disponível em: https://earth.google.com. Acesso em: 13 out. 2023. TEXTO II Disponível em: https://earth.google.com. Acesso em: 13 out. 2023. A comparação entre as imagens d
+- **2025 Q63** [tabela] gab=B | tema: Agronegócio; Produção e exportações; Ranking mundial; Soja
+  - cmd: Qual condição favoreceu o cenário produtivo exposto na figura?
+  - ini: Produção e exportações brasileiras no ranking mundial em 2019 [tabela: Açúcar, Café, Suco de laranja, Soja, Carne de frango, Carne bovina, Milho, Carne suína — com Produz, Exporta,
+- **2025 Q86** [texto] gab=C | tema: Energia geotérmica; Usinas hidrelétricas; Matriz elétrica; Edifícios
+  - cmd: Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de
+  - ini: Pesquisa pioneira no Brasil propõe o uso de energia do solo para climatizar edifícios Pela primeira vez na história, o Brasil terá um prédio que usa energia do sol para climatizar 
+
+## redes-globalizacao — 15 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q46** [texto] gab=D | tema: Brasil-China; balança comercial; assimetria
+  - cmd:  In: CINTRA, M. A. M.; SILVA FILHO, E. B.; PINTO, E. C. (Org.). China em transformação: dimensões econômicas e geopolíticas do desenvolvimento. Rio de Janeiro: Ipea, 2015. Uma ação estatal de longo prazo capaz de reduzir a assimetria na balança comercial brasileira, conforme exposto no texto, é o(a)
+  - ini: Embora inegáveis os benefícios que ambas as economias têm auferido do intercâmbio comercial, o Brasil tem reiterado seu objetivo de desenvolver com a China uma relação comercial me
+- **2020 Q57** [texto] gab=B | tema: Estados Unidos; defesa; estratégia
+  - cmd:  pretensões mais abrangentes que se desenvolveu até agora. CECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005 (adaptado). Tomando o texto como parâmetro, qual tendência contemporânea impulsiona a formulação de estratégias mais abrangentes por parte do Estado americano?
+  - ini: No caso do Departamento de Defesa dos Estados Unidos, a ênfase está posta no traçado de uma estratégia geral de desarticulação, não só dos inimigos reais como dos potenciais, inser
+- **2020 Q61** [texto] gab=C | tema: divisão internacional do trabalho; América Latina
+  - cmd: varam os dentes na garganta. Passaram-se os séculos e a América Latina aprimorou suas funções. GALEANO, E. As veias abertas da América Latina. São Paulo: Paz e Terra, 1978. Escrito na década de 1970, o texto considera a participação da América Latina na Divisão Internacional do Trabalho marcada pela
+  - ini: A Divisão Internacional do Trabalho significa que alguns países se especializam em ganhar e outros, em perder. Nossa comarca no mundo, que hoje chamamos América Latina, foi precoce
+- **2021 Q62** [texto] gab=D | tema: indústria; cadeias globais
+  - cmd: el em: www.ipea.gov.br. Acesso em: 16 jul. 2015 (adaptado). Um efeito desse cenário para a sociedade brasileira tem sido o(a) O barateamento da cesta básica. O retorno à estatização econômica. @ ampliação do poder de consumo. @ subordinação aos fluxos globais. @ incentivo à política de modernização.
+  - ini: Constatou-se uma ínfima inserção da indústria brasileira nas novas tecnologias ancoradas na microeletrônica, capazes de acarretar elevação da produtividade nacional de forma susten
+- **2022 Q51** [texto] gab=E | tema: economia global; redes
+  - cmd: . É rede porque é feita em uma rede global de interação entre redes empresariais. CASTELLS, M. A sociedade em rede — a era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 1999 (adaptado). Qual mudança estrutural é resultado da forma de organização econômica descrita no texto? A
+  - ini: Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, global e em rede para identificar suas características fundamentais e diferencia
+- **2022 Q62** [texto] gab=C | tema: Mercosul; tarifas
+  - cmd: alizado. Brasil e Argentina fecham acordo para corte de 10% na tarifa do Mercosul. Disponível em: https://oglobo.globo.com. Acesso em: 8 out. 2021 (adaptado). A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul: A
+  - ini: Brasil e Argentina chegaram a um acordo para a redução em 10% da Tarifa Externa Comum (TEC) do Mercosul. O consenso foi alcançado durante negociação entre o ministro das Relações E
+- **2022 Q68** [mapa] gab=D | tema: EUA; mapa; estratégia
+  - cmd: s. TEXTO II A “brecha” crítica do “Novo Mapa do Pentágono” Petróleo e gás Alta densidade e variedade germoplásmica CECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005. As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para A
+  - ini: TEXTO I A Marinha identifica, na voz de Thomas Barnett, uma amplaregiãopotencialmenteinsubmissaousimplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados
+- **2022 Q69** [texto] gab=A | tema: Crimeia; geopolítica
+  - cmd: ticas mudanças que nosso país atravessou durante todo o século XX. Disponível em: http://g1.globo.com. Acesso em: 28 jul. 2014. Considerando a dinâmica geopolítica subjacente ao texto, a justicativa utilizada por Vladimir Putin, em 2014, para anexação dessa península apela para o argumento de que A
+  - ini: Colegas, na mente e no coração do povo, a Crimeia sempre foi uma porção inseparável da Rússia. Essa firme convicção se baseia na verdade e na justiça e foi passada de geração em ge
+- **2023 Q62** [texto] gab=C | tema: Coreias; fronteira; geopolítica
+  - cmd: onito militar”, diz o analista Ankit Panda. TAN, Y. Disputa de mastros e alto-falantes com K-pop: as pequenas picuinhas do conito entre as Coreias. Disponível em: www.bbc.com. Acesso em: 7 nov. 2021 (adaptado). Os atos de competição citados têm suas origens históricas vinculadas a um contexto de A
+  - ini: Enormes alto-falantes sul-coreanos instalados na fronteira com o Norte costumavam transmitir desde canções em estilo K-pop (como é chamado o pop sul-coreano) até boletins climático
+- **2023 Q72** [charge] gab=B | tema: corrida espacial; geopolítica
+  - cmd: v. 2021 (adaptado). TEXTO II ACREDITE EM MIM. NÃO CONFIE NESSE PESSOAL! BILIONÁRIOS LANÇAM NOVA ERA DE VIAGENS AO ESPAÇO... VIEMOS EM PAZ! CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021. Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente: A
+  - ini: TEXTO I Por hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos des
+- **2023 Q85** [texto] gab=D | tema: Mercosul; produtores rurais
+  - cmd: ncia nos países do Mercosul caso o acordo siga em frente. ROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021. No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a A
+  - ini: Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seg
+- **2024 Q67** [texto] gab=A | tema: internet; comunidades tradicionais; conservação
+  - cmd: ores da comunidade orestal a cadeias de abastecimento maiores. GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021. A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a):
+  - ini: A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criaç
+- **2024 Q71** [texto] gab=D | tema: COP26; Brasil; clima
+  - cmd: eis de 2005 — anteriormente, a meta de redução era de 43%. GROSSI, M. A mais plural das COPs e a lição de casa para o Brasil. Disponível em: www.nexojornal.com.br. Acesso em: 24 nov. 2021 (adaptado). Conforme o texto, o compromisso assumido pelo Brasil foi resultado dos tensionamentos promovidos por
+  - ini: A 26ª Conferência do Clima das Nações Unidas foi realizada com a perspectiva de que os países tornassem ainda mais ambiciosos os compromissos assumidos no enfrentamento das mudança
+- **2024 Q89** [texto] gab=B | tema: Conselho de Segurança; ONU; relações internacionais
+  - cmd: ETTO, N. O funcionamento do Conselho de Segurança das Nações Unidas. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado). A composição e o funcionamento do organismo internacional apresentados revelam a seguinte característica das relações internacionais entre os países-membros:
+  - ini: O Conselho de Segurança da Organização das Nações Unidas (ONU) é, junto com a Assembleia-Geral, um dos principais órgãos de tomada de decisão dentro da entidade. O Conselho lida co
+- **2025 Q46** [texto] gab=E | tema: Macedônia do Norte; Impasse com a Grécia; União Europeia; integração regional
+  - cmd: Para o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para
+  - ini: Macedônia do Norte Acordo entra em vigor e país muda oficialmente de nome Entrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A
+
+## populacao — 12 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q47** [texto] gab=A | tema: rural; emprego agrícola; população
+  - cmd:  do emprego não agrícola no campo. Ao mesmo tempo, aumentou a massa de desempregados, inativos e aposentados que mantêm residência rural. SILVA, J. G. Velhos e novos mitos do rural brasileiro. Estudos Avançados, n. 43, dez. 2001. Sobre o espaço brasileiro, o texto apresenta argumentos que refletem a
+  - ini: As estatísticas mais recentes do Brasil rural revelam um paradoxo que interessa a toda sociedade: o emprego de natureza agrícola definha em praticamente todo o país, mas a populaçã
+- **2020 Q50** [texto] gab=B | tema: urbanização; aglomerações urbanas
+  - cmd: trópoles brasileiras estenderam-se por áreas de ocupação contínua, configurando densas regiões urbanizadas. MOURA, R. Arranjos urbano-regionais no Brasil: especificidades e reprodução de padrões. Disponível em: www.ub.edu. Acesso em: 11 fev. 2015. O resultado do processo geográfico descrito foi o(a)
+  - ini: A expansão das cidades e a formação das aglomerações urbanas no Brasil foram marcadas pela produção industrial e pela consolidação das metrópoles como locais de seu desenvolvimento
+- **2021 Q55** [texto] gab=E | tema: refugiados; fronteiras; migração
+  - cmd:  Brasil, conforme abordada no texto, é provocada pela associação entre O ascensão social e burocracia estatal. O miscigenação étnica e limites fronteiriços. @ desqualificação profissional e ação policial. @ instabilidade financeira e crises econômicas. @ desenraizamento cultural e insegurança legal.
+  - ini: enem202/ A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao
+- **2022 Q72** [grafico] gab=D | tema: deslocamento; trabalho; cidade
+  - cmd:  umas 6 h 50, pego ônibus e chego no trabalho mais ou menos 7 h 10”, conta. Segundo especialista, são os mais pobres os que moram mais longe do emprego. Disponível em: www.portaldotransito.com.br. Acesso em: 23 nov. 2021 (adaptado). A pesquisa desenvolvida retrata a seguinte dinâmica populacional: A
+  - ini: Brasileiros levam mais tempo de casa para o trabalho Pesquisa do IBGE aponta que a situação é mais grave no Sudeste: 13% das pessoas levam mais de uma hora para chegar ao trabalho.
+- **2022 Q87** [texto] gab=B | tema: macrocefalia urbana; concentração
+  - cmd: tização de estratos sociais, que comprometem substancialmente a segurança pública urbana. SANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp, 2004. O processo de concentração espacial apresentado foi estimulado por qual fator geográco? A
+  - ini: Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redir
+- **2023 Q49** [texto] gab=E | tema: China; política demográfica
+  - cmd: nômica e uxo migratório chinês: interpretação de eventos contemporâneos segundo os clássicos do desenvolvimento. Revista de Economia Contemporânea, n. 1, jan.-abr. 2017 (adaptado). A política demográca para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês: A
+  - ini: TEXTO I Com uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fron
+- **2023 Q68** [texto] gab=C | tema: mocambos; Recife; urbanização
+  - cmd:  de um espanhol. Morria peixe envenenado, e quando a maré secava, os urubus enchiam o papo, ciscavam a lama, passeando banzeiros pelas biqueiras dos mocambos no Recife. RÊGO, J. L. O moleque Ricardo. Rio de Janeiro: J. Olympio, 1966 (adaptado). A aglomeração urbana representada no texto resulta em A
+  - ini: O masseiro, a mulher, e quatro filhos, dormindo numa tapera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite e
+- **2023 Q76** [grafico] gab=D | tema: fecundidade; demografia
+  - cmd: 020 nmero de ilos baia de 6,3 para 1,5 0 1 2 3 4 5 6 7 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 6,3 5,8 4,1 2,8 2,4 1,8 1,5 1,5 1,5 1,5 Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado). Qual fator foi determinante para a mudança do indicador apresentado no gráco? A
+  - ini: oneB ilos por muler Dcadas Taxa de fecundidade no Brasil De 1960 a 2020 nmero de ilos baia de 6,3 para 1,5 0 1 2 3 4 5 6 7 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 6,3 5,8
+- **2024 Q79** [texto] gab=E | tema: refugiados; fronteiras; políticas públicas
+  - cmd: eis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indenição e incerteza a esses migrantes internacionais forçados. MOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014. A eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de
+  - ini: O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao
+- **2025 Q54** [texto] gab=E | tema: Êxodo urbano; Deslocamento populacional; Elite; Metrópole
+  - cmd: A crítica apresentada no texto evidencia uma dinâmica socioespacial marcada pela
+  - ini: A ideia de êxodo urbano assume ares caricaturais. Pega a mais reduzida parte da pirâmide social e projeta para todos seus desejos defensivos. Se o êxodo urbano for compreendido com
+- **2025 Q57** [texto] gab=A | tema: Itinerários afetivos; Socioespaço; Memória do lugar; Migração Nordeste-Sudeste
+  - cmd: Os itinerários afetivos e socioespaciais mencionados no texto associam-se à vida dos personagens por apresentarem
+  - ini: Dos 10 aos 15 anos de idade, Virgínia adorava acompanhar seu pai, aos domingos, naquela sinestésica Feira de São Cristóvão (RJ), talvez por ser o maior elo que ela experimentava co
+- **2025 Q68** [foto] gab=E | tema: Salvador; Foto aérea; Verticalização urbana
+  - cmd: A análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?
+  - ini: [imagem aérea de Salvador, capital da Bahia] Salvador, capital do estado da Bahia. Disponível em: https://mundoeducacao.uol.com.br. Acesso em: 20 out. 2023. A análise dos elementos
+
+## leitura-cartografica — 5 questões | anos=[2020, 2021, 2022, 2024]
+
+- **2020 Q75** [imagem] gab=C | tema: cartografia; América; representação
+  - cmd: inham sobre o espaço. OLIVEIRA, T. K. Desconstruindo mapas, revelando espacializações: reflexões sobre o uso da cartografia em estudos sobre o Brasil colonial. Revista Brasileira de História, n. 68, 2014 (adaptado). Na análise contida no texto, a representação cartográfica da América foi marcada por
+  - ini: Afirmar que a cartografia da época moderna integrou o processo de invenção da América por parte dos europeus significa que os conhecimentos dos ameríndios sobre o território foram 
+- **2021 Q89** [grafico] gab=B | tema: solstícios; sombra; orientação
+  - cmd: Movimento de transl EQUINÓCIO 21 de março SOL SOLSTÍCIO 21 de junho EQ 23 Considerando as informações apresentadas, o prédio do Cor 12 horas, projetará sua sombra para a direção O norte. O sul. @ leste. @ oeste. @ nordeste.
+  - ini: Movimento de transl EQUINÓCIO 21 de março SOL SOLSTÍCIO 21 de junho EQ 23 Considerando as informações apresentadas, o prédio do Cor 12 horas, projetará sua sombra para a direção O
+- **2022 Q78** [mapa] gab=E | tema: escala; mapa; MH370
+  - cmd: istados INDONÉSIA MALÁSIA Kuala Lumpur Último contato Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado). Considerando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográca é: A
+  - ini: Possível trajeto do voo MH370 da Malaysia Airlines antes da queda, em 2014 MADAGASCAR 2 500 km OCEANO ÍNDICO AUSTRÁLIA Perth Possível trajeto antes da queda Local onde os destroços
+- **2022 Q82** [mapa] gab=B | tema: rochas ígneas; mapa; Amazônia
+  - cmd:  do Sul Rondônia Rondônia Mato Grosso Acre 0 80 160 320Km Projeção: Albers Datum: SIRGAS 2000 Roraima Roraima aranhão Maranhão Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado). O mapa espacializa um recurso natural com alto potencial para ocorrência de: A
+  - ini: Rochas ígneas Amazônia Legal ROCHAS ÍGNEAS DA AMAZÔNIA LEGAL 70°W 60°W 50°W 70°W 60°W 50°W 5°N 0° 5°S 10°S 15°S 5°N 0° 5°S 10°S 15°S Venezuela Venezuela Colômbia Peru Bolívia Chile
+- **2024 Q83** [mapa] gab=E | tema: cartografia; mapas; poder
+  - cmd: re registraram o que mais interessava a uma minoria, fato este que acabou estimulando o incessante aperfeiçoamento deles. MARTINELLI, M. Mapas da geograa e cartograa temática. São Paulo: Contexto, 2011 (adaptado). No texto, a cartograa é apresentada como um instrumento usado essencialmente para a
+  - ini: A finalidade mais marcante em toda a história dos mapas, desde o seu início, teria sido a de estarem sempre voltados à prática, principalmente a serviço da dominação, do poder. Sem
+
+# FILOSOFIA
+
+## interpretar-fragmento — 26 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q55** [texto] gab=E | tema: Nagel; sonho; ceticismo
+  - cmd: ando sonha, pois significaria que não há mundo “real” no qual despertar. Logo, não seria exatamente igual a um sonho ou alucinação normal. NAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011. O texto confere visibilidade a uma doutrina filosófica contemporânea conhecida como:
+  - ini: Será que as coisas lhe pareceriam diferentes se, de fato, todas elas existissem apenas na sua mente — se tudo o que você julgasse ser o mundo externo real fosse apenas um sonho ou 
+- **2020 Q60** [texto] gab=E | tema: Tolstoi; morte; filosofia
+  - cmd:  não o fazia e não conseguia compreendê-la”. KAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004. O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica
+  - ini: Em A morte de Ivan Ilitch, Tolstoi descreve com detalhes repulsivos o terror de encarar a morte iminente. Ilitch adoece depois de um pequeno acidente e logo compreende que se encam
+- **2020 Q72** [texto] gab=B | tema: Montaigne; ensaio; gênero
+  - cmd: iteratura moderna um espaço privado, o espaço do “eu”, do texto íntimo. Ele cria um novo processo de escrita filosófica, no qual hesitações, autocríticas, correções entram no próprio texto. COELHO, M. Montaigne. São Paulo: Publifolha, 2001 (adaptado). O novo gênero de escrita aludido no texto é o(a)
+  - ini: Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do “eu”, do texto íntimo. Ele cria um novo proce
+- **2020 Q77** [texto] gab=A | tema: Aristóteles; cidade; comunidade
+  - cmd: nte de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens. ARISTÓTELES. Política. Brasília: UnB,1988. No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber:
+  - ini: Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe pa
+- **2021 Q64** [texto] gab=C | tema: Deleuze; minoria; dominação
+  - cmd: , F. Mil platôs. SáO Paulo: Editora 34, 2012 (adaptado). No texto, a caracterização de uma minoria decorre da existência de O ameaças de extinção social. O políticas de incentivos estatais. @ relações de natureza arbitrária. @ valorações de conexões simétricas. @ hierarquizações de origem biológica.
+  - ini: Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de um estado ou de um padrão em relação ao qual tanto as quantidades maiores quanto as menores ser
+- **2021 Q82** [texto] gab=B | tema: Sócrates; Mênon; dialética
+  - cmd: as ser a virtude?". PLATÃO. Mênon. Rio de Janeiro: PUC-Rio; SáO Paulo: Loyola, 2001 (adaptado). A atitude apresentada na interlocução do filósofo com Mênon é um exemplo da utilização do(a) O escrita epistolar. O método dialético. @ linguagem trágica. @ explicação fisicalista. @ suspensão judicativa.
+  - ini: da OS go Ita es es às, na ca ão os Ido). no o os os de OS 52 ao Jia lis, de os 015. se da. :rno 1 Sócrates: "Quem não sabe o que uma coisa é, como poderia saber de que tipo de cois
+- **2021 Q86** [texto] gab=A | tema: Descartes; árvore; metafísica
+  - cmd: trução alegórica de Descartes, acerca da condição epistemológica da filosofia, tem como objetivo O O sustentar a unidade essencial do conhecimento. refutar o elemento fundamental das crenças. impulsionar o pensamento especulativo. recepcionar o método experimental. incentivar a suspensão dos juízos.
+  - ini: A filosofia é como uma árvore, cujas raízes são a metafísica; o tronco, a física, e os ramos que saem do tronco são todas as outras ciências, que se reduzem a três principais: a me
+- **2021 Q87** [texto] gab=E | tema: Nietzsche; amor fati
+  - cmd:  uma crítica à tradição cristã que O combate as práticas sociais de cunho afetivo. O impede o avanço científico no contexto moderno. @ associa os cultos pagãos à sacralização da natureza. @ condena os modelos filosóficos daAntiguidade Clássica. @ consagra a realização humana ao campo transcendental.
+  - ini: Minha fórmula para o que há de grande no indivíduo é amor fati: nada desejar além daquilo que é, nem diante de si, nem atrás de si, nem nos séculos dos séculos. Não se contentar em
+- **2022 Q47** [texto] gab=E | tema: Arendt; linguagem; política
+  - cmd:  se movem e agem neste mundo, só podem experimentar o signicado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos. ARENDT, H. A condição humana. Rio de Janeiro: Forense Universitária, 2004. No trecho, a lósofa Hannah Arendt mostra a importância da linguagem no processo de A
+  - ini: Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem 
+- **2022 Q80** [texto] gab=C | tema: pólis; filosofia; pensadores
+  - cmd: eira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea. VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002. Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber: A
+  - ini: Advento da Polis, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solid
+- **2023 Q81** [texto] gab=A | tema: Foucault; poder punitivo
+  - cmd: s scais, operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc. FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987. O texto apresenta uma relação de cálculo político-econômico que caracteriza o poder punitivo por meio da A
+  - ini: A economia das ilegalidades se reestruturou com o desenvolvimento da sociedade capitalista. A ilegalidade dos bens foi separada da ilegalidade dos direitos. Divisão que corresponde
+- **2024 Q55** [texto] gab=B | tema: Foucault; corpo; metafísica
+  - cmd: a minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão. FOUCAULT, M. O corpo utópico, as heterotopias. São Paulo: Edições N-1, 2013. Esse texto reforça uma concepção metafísica clássica que remete a um(a)
+  - ini: A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para s
+- **2024 Q61** [texto] gab=B | tema: filosofia contemporânea; finitude; tempo
+  - cmd:  são realizados, porque há sempre a sensação de que tudo poderia ter sido feito melhor e ser feito outra vez. GREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012. O texto apresenta uma reexão da personagem acerca de um problema característico da losoa contemporânea, que trata da(s)
+  - ini: Eu sentia falta do futuro. É claro que eu sabia, muito mesmo antes da recorrência dele, que nunca envelheceria. Era muito provável que eu nunca mais fosse ver o oceano de uma altur
+- **2024 Q69** [texto] gab=C | tema: Wollstonecraft; direitos das mulheres; século XVIII
+  - cmd: as exceções, anseiam apenas inspirar amor, quando deveriam nutrir uma ambição mais nobre e exigir respeito por suas capacidades e virtudes. WOLLSTONECRAFT, M. Reivindicação dos direitos da mulher. São Paulo: Boitempo, 2016. Nesse texto, escrito no século XVIII, a autora reivindica para as mulheres a
+  - ini: Atribuo a causa desse florescimento estéril a um sistema de educação falso, extraído de livros sobre o assunto escrito por homens que, ao considerar as mulheres mais como fêmeas do
+- **2024 Q87** [texto] gab=A | tema: democracia; poder; Vargas Llosa
+  - cmd: nos fatos sociais. ORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o indivíduo para além da tribo. Disponível em: www.estadodaarte.estadao.com.br. Acesso em: 10 out. 2021 (adaptado). O que sustenta o exercício do poder, conforme a conguração apresentada no texto escrito na década de 1920?
+  - ini: A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunt
+- **2025 Q48** [texto] gab=E | tema: Eloquência; Século XVIII; David Hume; Persuasão
+  - cmd: No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao
+  - ini: A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade. A eloquência, quando levada a seu patamar mais alto, deixa pouco
+- **2025 Q55** [texto] gab=D | tema: Foucault; Disciplina; Anatomia política; Controle
+  - cmd: O texto indica o seguinte aspecto da disciplina como ferramenta política:
+  - ini: A "invenção" dessa nova anatomia política não deve ser entendida como uma descoberta súbita. Mas como uma multiplicidade de processos muitas vezes mínimos, de origens diferentes, d
+- **2025 Q60** [texto] gab=D | tema: Adam Smith; Capitalismo; Ética; Lucro
+  - cmd: O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à
+  - ini: Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral 
+- **2025 Q61** [texto] gab=E | tema: Aristóteles; Política; Formas de governo; Bem comum
+  - cmd: No excerto encontra-se a base da teoria clássica das três formas de governo representada pela
+  - ini: O corpo de cidadãos é o poder supremo dos Estados. A supremacia pode residir ou num homem, ou na minoria, ou em todos. Sempre que o Um, ou a Minoria, ou Todos governam, tendo em vi
+- **2025 Q62** [texto] gab=B | tema: Zygmunt Bauman; Utopia; Transformação social; Potencial humano
+  - cmd: De acordo com o autor, qual é a função da utopia no contexto das transformações sociais?
+  - ini: Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente e deve ter seus fundamentos revistos para que se 
+- **2025 Q65** [texto] gab=C | tema: Clarice Lispector; Ética; Altruísmo; Justiça
+  - cmd: A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo
+  - ini: O que eu queria ter sido Um nome para o que sou, importa muito pouco. Importa o que eu gostaria de ser. O que eu gostaria de ser era uma lutadora. Quero dizer, uma pessoa que luta 
+- **2025 Q66** [texto] gab=D | tema: Herbert Marcuse; Sociedade industrial; Realidade unidimensional; Conformismo
+  - cmd: Qual é a característica da sociedade industrial do século XX apresentada no texto?
+  - ini: Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidad
+- **2025 Q72** [texto] gab=D | tema: Heráclito; Pré-socráticos; Opostos; Fragmentos
+  - cmd: A característica do pensamento do filósofo Heráclito, registrada nos fragmentos mencionados, é a ênfase na
+  - ini: TEXTO I Em conjunto: todo e não todo, unido e separado, em consonância e em dissensão. De todos um e de um todos. (Fragmento B10) TEXTO II Deus é dia-noite, inverno-verão, guerra-p
+- **2025 Q76** [texto] gab=C | tema: Norio Bobbio; Direitos humanos; Convenções coletivas; Direitos sociais
+  - cmd: Os argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como
+  - ini: Os direitos do homem constituem uma classe variável, como a história destes últimos séculos demonstra suficientemente. O elenco dos direitos do homem se modificou, e continua a se 
+- **2025 Q79** [texto] gab=A | tema: Jeremy Bentham; Utilitarismo; Punição; Felicidade
+  - cmd: Qual perspectiva de justiça emerge da relação, estabelecida no texto, entre punição e felicidade?
+  - ini: A missão dos governantes consiste em promover a felicidade da sociedade, punindo e recompensando. A parte da missão de governo que consiste em punir constitui mais particularmente 
+- **2025 Q82** [texto] gab=E | tema: Platão; Cidade ideal; Ética; Exercício do poder
+  - cmd: O texto apresenta a estrutura de governo da cidade ideal pensada por Platão, que postula uma indissociabilidade entre
+  - ini: A cidade justa é governada pelos filósofos, administrada pelos cientistas, protegida pelos guerreiros e mantida pelos produtores. Cada classe cumprirá sua função para o bem da póli
+
+## aplicar-conceito — 7 questões | anos=[2020, 2021, 2022, 2023, 2024]
+
+- **2020 Q69** [texto] gab=E | tema: Rawls; cooperação; justiça
+  - cmd: são tais que todos os participantes podem razoavelmente aceitar, desde que todos os demais também o aceitem. FERES JR., J.; POGREBINSCHI, T. Teoria política contemporânea: uma introdução. Rio de Janeiro: Elsevier, 2010. No contexto do pensamento político, a ideia apresentada mostra-se consoante o(a)
+  - ini: A sociedade como um sistema justo de cooperação social consiste em uma das ideias familiares fundamentais, que dá estrutura e organização à justiça como equidade. A cooperação soci
+- **2021 Q57** [texto] gab=D | tema: Marcuse; consumo; identificação
+  - cmd: oletivas de organização. @ mecanismos subjetivos de identificação. @ repressões racionalizadas do narcisismo. co qu na os na grÉ urr bri ap O ac ao es co se "sc co O let O 24 CH - 10 dia I Caderno 1 -X m2021 ional do Ensino Médio es os os de de Ido). sil, ao da Del os 'Icas 016. da les ça se 979. os
+  - ini: enenvcyz; Nos setores mais altamente desenvolvidos da sociedade contemporânea, o transplante de necessidades sociais para individuais é de tal modo eficaz que a diferença entre ela
+- **2022 Q57** [texto] gab=A | tema: Foucault; controle; exclusão
+  - cmd: arcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político. FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987. Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a): A
+  - ini: O leproso é visto dentro de uma prática da rejeição, do exílio-cerca; deixa-se que se perca lá dentro como numa massa que não tem muita importância diferenciar; os pestilentos são 
+- **2023 Q52** [texto] gab=A | tema: Paulo Freire; ética pedagógica
+  - cmd: ância de os educandos tomarem consciência da sua realidade para, assim, transformá-la. DEMARCHI, J. L. Paulo Freire. Disponível em: https://diplomatique.org.br. Acesso em: 6 out. 2021 (adaptado). Com base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela A
+  - ini: TEXTO I Como presença consciente no mundo não posso escapar à responsabilidade ética no meu mover-me no mundo. Se sou puro produto da determinação genética ou cultural ou de classe
+- **2024 Q54** [texto] gab=D | tema: injustiça epistêmica; preconceito; identidade
+  - cmd: ocial. Assim, um falante recebe menos credibilidade devido ao preconceito do ouvinte. KUHNEN, T. Resenha de The Power and Ethics of Knowing, de Miranda Fricker. Revista Princípios, n. 33, 2013. Com base na reexão suscitada no texto, o preconceito de identidade é responsável por um tipo de injustiça
+  - ini: Os grupos dominantes são beneficiados em termos de credibilidade e podem, com isso, controlar falas de membros de outros grupos, descredibilizando seus testemunhos com base em conc
+- **2024 Q76** [texto] gab=E | tema: Deleuze; rizoma; cultura contemporânea
+  - cmd: ral, sem memória organizadora ou autômato central, unicamente denido por uma circulação de estados. DELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 1995 (adaptado). Qual elemento da cultura contemporânea se relaciona às características do conceito de rizoma, conforme descrito no texto?
+  - ini: Resumamos os principais caracteres de um rizoma: diferentemente das árvores ou de suas raízes, o rizoma conecta um ponto qualquer com outro ponto qualquer e cada um de seus traços 
+- **2024 Q78** [texto] gab=B | tema: regra de ouro; ética; Kant
+  - cmd: a ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios. DUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016. O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica:
+  - ini: A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela p
+
+## comparar-autores — 7 questões | anos=[2020, 2022, 2023, 2024]
+
+- **2020 Q74** [texto] gab=C | tema: conhecimento; empirismo; percepção
+  - cmd: ão minha ou de uma experiência do mundo sem a qual os símbolos da ciência não poderiam dizer nada. MERLEAU-PONTY, M. Fenomenologia da percepção. São Paulo: Martins Fontes, 1999 (adaptado). Os textos mostram-se alinhados a um entendimento acerca da ideia de conhecimento, numa perspectiva que ampara a
+  - ini: TEXTO I Os meus pensamentos são todos sensações. Penso com os olhos e com os ouvidos E com as mãos e os pés E com o nariz e a boca. PESSOA, F. O guardador de rebanhos – IX. In: GAL
+- **2022 Q84** [texto] gab=C | tema: percepção; sensibilidade; Deleuze
+  - cmd: onfrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos. DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado). De que modo os textos sustentam a existência de um saber ancorado na sensibilidade? A
+  - ini: TEXTO I Uma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro. MERLEAU-PONTY, M. Conversas: 1948. São Paulo: 
+- **2023 Q54** [texto] gab=A | tema: Descartes; corpo; raiva
+  - cmd: ar que ela não estava fora do meu corpo, mas inexplicavelmente nele. MERLEAU-PONTY, M. Quinta conversa: o homem visto de fora. São Paulo: Martins Fontes, 1948 (adaptado). No que se refere ao problema do corpo, a losoa cartesiana apresenta-se como contraponto ao entendimento expresso no texto por A
+  - ini: Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou 
+- **2023 Q79** [texto] gab=B | tema: Sartre; determinismo; existencialismo
+  - cmd: imites que faz com que haja para mim uma facticidade. SARTRE, J.-P. O ser e o nada: ensaio de ontologia fenomenológica. Petrópolis: Vozes, 1997 (adaptado). A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida no pensamento losóco de Sartre porque A
+  - ini: TEXTO I Gerineldo dorme porque já está conformado com o seu mundo. Porque já sabe tudo o que lhe pode acontecer após haver submetido todos os objetos que o rodeiam a um minucioso i
+- **2023 Q90** [texto] gab=B | tema: Machado de Assis; sofistas
+  - cmd: ousas a fraseologia, a casca, a ornamentação. ASSIS, M. Memórias póstumas de Brás Cubas. Belo Horizonte: Autêntica, 1999. A descrição crítica do personagem de Machado de Assis assemelha-se às características dos sostas, contestados pelos lósofos gregos da Antiguidade, porque se mostra alinhada à A
+  - ini: Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o
+- **2024 Q58** [texto] gab=D | tema: Aristóteles; felicidade; virtude
+  - cmd: ualmente em que consiste isto, agir bem, ou, na linguagem aristotélica, o que signica ser feliz. ZINGANO, M. Eudaimonia, razão e contemplação na ética aristotélica. Analytica, n. 1, 2017 (adaptado). Os textos indicam que a prática de ações virtuosas, sempre efetivada na pólis, ocorre por meio do(a)
+  - ini: TEXTO I Aristóteles entendia que a felicidade era diretamente ligada ao respeito pela própria natureza e, de certa maneira, a uma vida que tivesse na natureza de si mesma uma refer
+- **2024 Q62** [texto] gab=A | tema: empirismo; dogmas; Carnap
+  - cmd: ade. 3. A losoa usa um conceito não empírico da realidade. CARNAP, R. Pseudoproblemas na losoa. In: SCHLICK, M.; CARNAP, R.; POPPER, K. Coletânea de textos. São Paulo: Abril Cultural, 1975. Ao comparar os textos, conclui-se que eles apresentam posicionamentos losócos divergentes com relação ao
+  - ini: TEXTO I O empirismo moderno foi, em grande parte, condicionado por dois dogmas. Um deles é a crença em certa divisão fundamental entre verdades analíticas, ou fundadas em significa
+
+## questao-eticamente-julgada — 5 questões | anos=[2021, 2022, 2023, 2024]
+
+- **2021 Q88** [texto] gab=E | tema: ascetismo; corpo; materialidade
+  - cmd: 15. Qual característica do ascetismo medieval é destacada no texto? O O Exaltação do ritualismo litúrgico. Afirmação do pensamento racional. Desqualificação da atividade laboral. Condenação da alimentação impura. Desvalorização da materialidade corpórea. 1 -AZUL - 1a Aplicação 21 Exame Nacional do E
+  - ini: É preciso usar de violência e rebater varonilmente os apetites dos sentidos sem atender ao que a carne quer ou não quer, mas trabalhando por sujeitá-la ao espírito, ainda que se re
+- **2022 Q88** [texto] gab=E | tema: Sêneca; filosofia; bem
+  - cmd: losoa: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça. SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990. O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da losoa promover a A
+  - ini: Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ain
+- **2023 Q57** [texto] gab=E | tema: Ricoeur; perdão
+  - cmd: rdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta. RICOEUR, P. O perdão pode curar. Disponível em: www.lusosoa.net. Acesso em: 14 out. 2019. A reexão sobre o perdão apresentada no texto encontra fundamento na(s) A
+  - ini: Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta 
+- **2023 Q88** [texto] gab=A | tema: competição; moral
+  - cmd: ca um afrouxamento dos valores morais e um convite ao exercício da violência. SANTOS, M. Por uma outra globalização: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006. De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável? A
+  - ini: Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados f
+- **2024 Q72** [texto] gab=A | tema: deficiência; negligência; ética
+  - cmd: or exemplo, se for mulher ou criança. PASIAN, M. S. A negligência parental e a relação com a deciência: o que mostra a pesquisa nacional. Revista Educação Especial, n. 53, set.-dez. 2015 (adaptado). A realidade abordada no texto indica a necessidade de se promover uma ética interpessoal centrada no
+  - ini: A pessoa com deficiência de qualquer modalidade — seja visual, auditiva, física ou mental — encontra-se em uma posição de grande vulnerabilidade em relação às pessoas sem deficiênc
+
+## ciencia-filosofia — 3 questões | anos=[2020, 2022, 2024]
+
+- **2020 Q89** [texto] gab=D | tema: Hume; conhecimento; experiência
+  - cmd: le provirão; e tampouco nossa razão é capaz de extrair, sem auxílio da experiência, qualquer conclusão referente à existência efetiva de coisas ou questões de fato. HUME, D. Uma investigação sobre o entendimento humano. São Paulo: Unesp, 2003. Segundo o autor, qual é a origem do conhecimento humano?
+  - ini: Adão, ainda que supuséssemos que suas faculdades racionais fossem inteiramente perfeitas desde o início, não poderia ter inferido da fluidez e transparência da água que ela o sufoc
+- **2022 Q86** [texto] gab=C | tema: Empédocles; arché
+  - cmd: damente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio. SIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996. O texto propõe uma reexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque A
+  - ini: Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios pro
+- **2024 Q82** [texto] gab=C | tema: Russell; indução; ciência
+  - cmd: de observação à sua lista. Finalmente, sua consciência cou satisfeita e ele concluiu. “Eu sou alimentado sempre às 9 da manhã”. CHALMERS, A. O que é ciência, anal? São Paulo: Brasiliense, 1993 (adaptado). Qual tipo de raciocínio corresponde ao padrão de pensamento exibido pelo personagem do texto?
+  - ini: Bertrand Russell conta a história de um peru que descobrira, em sua primeira manhã na fazenda de perus, que fora alimentado às 9 da manhã. Contudo, ele não tirou conclusões apressa
+
+# SOCIOLOGIA
+
+## identidade-cultura — 17 questões | anos=[2020, 2021, 2022, 2023, 2024, 2025]
+
+- **2020 Q54** [texto] gab=A | tema: arte africana; cultura; identidade
+  - cmd: a imagem e no som, no audiovisual. KI-ZERBO, J. A arte pré-histórica africana. In: KI-ZERBO, J. (Org.) História geral da África, I: metodologia e pré-história da África. Brasília: Unesco, 2010. De acordo com o texto, a arte mencionada é importante para os povos que a cultivam por colaborar para o(a)
+  - ini: A arte pré-histórica africana foi incontestavelmente um veículo de mensagens pedagógicas e sociais. Os San, que constituem hoje o povo mais próximo da realidade das representações 
+- **2021 Q53** [imagem] gab=B | tema: sertão; cultura popular; patrimônio
+  - cmd: regional: O O Alianças afetivas conectadas ao ritual matrimonial. Práticas místicas associadas ao patrimônio cultural. Manifestações teatrais atreladas ao imaginário político. Narrativas fílmicas relacionadas às intempéries climáticas. Argumentações literárias interligadas às catástrofes ambientais.
+  - ini: enemz:y•; Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do Auto da Compadecida. 
+- **2021 Q56** [texto] gab=D | tema: mulheres naturalistas; gênero; ciência
+  - cmd: o do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da O afirmação da igualdade de gênero. O transformação dos espaços de lazer. @ superação do pensamento patriarcal. @ incorporação das estratificações sociais. @ substituição das atividades domésticas.
+  - ini: Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécimes botânicos, 
+- **2021 Q68** [texto] gab=E | tema: protagonismo indígena; mercado global
+  - cmd: icativa adotada pelos indígenas, no contexto em pauta, teve por efeito O enfraquecer as formas de militância política. O abalar a identidade de povos tradicionais. @ inserir as comunidades no mercado global. @ distanciar os grupos de culturas locais. @ angariar o apoio de segmentos étnicos externos.
+  - ini: O protagonismo indígena vem optando por uma estratégia de "des-invisibilização", valendo-se da dinâmica das novas tecnologias. Em outubro de 2012, após receberem uma liminar lhes n
+- **2021 Q83** [texto] gab=A | tema: povos africanos; juventude; casamento
+  - cmd: o, os artefatos culturais mencionados no texto cumprem a função de uma O pedagogia dos costumes sociais. O imposição das formas de comunicação. @ desvalorização dos comportamentos da juventude. @ destituição dos valores do matrimônio. @ etnografia das celebrações religiosas. - AZUL - 1a Aplicação 29
+  - ini: enemz:p: No seio de diversos povos africanos, nomeadamente no antigo Reino do Congo, existem testemunhos gráficos de que a escrita tomava várias formas. Exemplo disso são as tampas
+- **2021 Q84** [texto] gab=B | tema: torém; ritual; coesão social
+  - cmd: aj-Massangana, 2005. O ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do Nordeste brasileiro a função de O celebrar a história oficial. O estimular a coesão social. @ superar a atividade artesanal. @ manipular a memória individual. @ modernizar o comércio tradicional.
+  - ini: enem202/ O torém dependia de organização familiar, sendo brincado por pessoas com vínculos de parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um entrete
+- **2022 Q75** [texto] gab=E | tema: Kambeba; rio; cultura
+  - cmd: i entender mais tarde, com meus estudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio”. Rios amazônicos inuenciam no agro e em reservatórios do Sudeste. Disponível em: www.uol.com.br. Acesso em: 14 out. 2021. Pelo descrito no texto, o povo Kambeba tem o rio como um(a) A
+  - ini: O povo Kambeba é o povo das águas. Os mais velhos costumam contar que o povo nasceu de uma gota-d’água que caiu do céu em uma grande chuva. Nessa gota estavam duas gotículas: o hom
+- **2022 Q90** [texto] gab=A | tema: cerâmica; saberes tradicionais
+  - cmd: ão civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho. TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014. Uma característica de práticas tradicionais como a exemplicada no texto é a vinculação entre os recursos do mundo natural e a A
+  - ini: Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba.
+- **2023 Q50** [texto] gab=E | tema: escravidão; formação cultural; memória
+  - cmd: sta pelos colonizadores da América. FIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado). Em relação ao conhecimento sobre a formação cultural brasileira, iniciativas como a descrita no texto favorecem o(a) A
+  - ini: Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem afro à cultura br
+- **2023 Q58** [texto] gab=A | tema: Cavalgada; devoção; cultura
+  - cmd: valeiros que residem nas zonas rurais, atrai também pessoas que residem em Caicó, cidades vizinhas e amantes das vaquejadas. FESTA DE SANT’ANA. Disponível em: http://portal.iphan.gov.br. Acesso em: 12 out. 2021 (adaptado). As mudanças culturais mencionadas no texto caracterizam-se pela presença de A
+  - ini: A Cavalgada de Sant’Ana é uma expressão da devoção dos vaqueiros à padroeira de Caicó (RN). Nas décadas de 1950 a 1970, esse evento, então denominado Cavalaria, era celebrado pelas
+- **2024 Q56** [texto] gab=A | tema: axexe; rito; religião
+  - cmd:  interior. No entanto, esse corpo era formado por folhas verdes de plantas, que foram derramadas sobre uma pessoa. MANZOCHI, H. M. Axexe, um rito de passagem. Revista do Museu de Arqueologia e Etnologia, n. 5, 1995 (adaptado). O ritual brasileiro apresentado no texto representa, para seus adeptos, a
+  - ini: No primeiro dia, foi colocada uma panela de barro no centro do barracão, a qual representava o espírito do morto presente na sala. Aqueles que dançavam depositavam moedas ao passar
+- **2024 Q65** [texto] gab=D | tema: globalização; identidade; Hall
+  - cmd: novas posições de identicação, e tornando as identidades mais posicionais, mais políticas, mais plurais e diversas; menos xas, unicadas ou trans-históricas. HALL, S. A identidade cultural na pós-modernidade. Rio de Janeiro: DP&A, 2011. De acordo com o texto, o processo apresentado contribuiu para
+  - ini: Como conclusão provisória, parece então que a globalização tem, sim, o efeito de contestar e deslocar as identidades centradas e “fechadas” de uma cultura nacional. Ela tem um efei
+- **2024 Q74** [texto] gab=B | tema: Círio de Nazaré; patrimônio; festa
+  - cmd: lanos e graus de intensidade. ALMEIDA, I. M. A. Revisitando o Círio de Nazaré a partir da lente sociológica de Eidorfe Moreira. Boletim do Museu Paraense Emílio Goeldi, n. 3, set.-dez. 2015 (adaptado). O reconhecimento da festa descrita no texto, como patrimônio histórico, encontra sustentação no(a)
+  - ini: O Círio de Nazaré é uma festa que ocorre, anualmente, na cidade de Belém do Pará, no segundo domingo do mês de outubro. Sua estrutura ritualística tem origem no catolicismo devocio
+- **2024 Q80** [texto] gab=A | tema: telenovela; Rússia; Angola
+  - cmd: rsonagens se transformam em uma verdadeira febre e inuenciam o comportamento. Disponível em: https://tvbrasil.ebc.com.br. Acesso em: 16 out. 2021 (adaptado). Embora situados em continentes diferentes com práticas sociais distintas, Rússia e Angola se aproximam, conforme os textos I e II, no aspecto
+  - ini: TEXTO I “As novelas brasileiras foram as primeiras a aparecer na TV russa ainda na época de Gorbachov, nos anos 1980. Elas causaram sensação. Houve casos anedóticos, como quando o 
+- **2025 Q53** [texto] gab=E | tema: Dança; Cultura corporal; Igreja medieval; Culto gospel
+  - cmd: A percepção sobre a dança e a cultura corporal apresenta aspectos relacionados, respectivamente, a
+  - ini: TEXTO I A partir do século IV, com os imperadores ditos cristãos, o teatro e a dança foram condenados. O batismo era recusado aos que atuavam no circo ou na pantomima. E em 398, no
+- **2025 Q74** [texto] gab=B | tema: Religiões afro-brasileiras; Invisibilidade; Preconceito racial; Alteridade
+  - cmd: No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:
+  - ini: Fragmentada em pequenos grupos, fragilizada pela ausência de algum tipo de organização ampla, tendo que carregar o peso do preconceito racial que se transfere do negro para a cultu
+- **2025 Q88** [texto] gab=C | tema: Povos indígenas; Saberes tradicionais; Direitos culturais; ONU
+  - cmd: Os direitos reconhecidos no texto representam a
+  - ini: Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações d
+
+## desigualdade — 10 questões | anos=[2020, 2021, 2022, 2023, 2025]
+
+- **2020 Q64** [texto] gab=E | tema: anos 1990; governo; questão social
+  - cmd: , na expectativa de que o mercado venha algum dia a dar uma resposta adequada a tudo isso. SORJ, B. A nova sociedade brasileira. Rio de Janeiro: Jorge Zahar, 2000 (adaptado). Nesse contexto, a criticada postura dos governos frente à situação social do país coincidiu com a priorização de que medidas?
+  - ini: É difícil imaginar que nos anos 1990, num país com setores da população na pobreza absoluta e sem uma rede de benefícios sociais em que se apoiar, um governo possa abandonar o pape
+- **2021 Q47** [texto] gab=A | tema: Piketty; capital; herança
+  - cmd: l no século XXI. Rio de Janeiro: Intrínseca, 2014 (adaptado). Considerando os princípios que legitimam as democracias liberais, a lógica econômica descrita no texto enfraquece o(a) O O ideologia do mérito. direito de nascimento. eficácia da legislação. ganho das financeiras. eficiência dos mercados.
+  - ini: enem202:' Quando a taxa de remuneração do capital excede substancialmente a taxa de crescimento da economia, pela lógica, a riqueza herdada aumenta mais rápido do que a renda e a p
+- **2021 Q66** [texto] gab=B | tema: população carcerária; segurança pública
+  - cmd: ília: Presidência da República, 2015. Nesse contexto, as políticas públicas para minimizar a problemática descrita devem privilegiar a O flexibilização do Código Civil. O promoção da inclusão social. @ redução da maioridade penal. @ contenção da corrupção política. @ expansão do período de reclusão.
+  - ini: enem202/ Houve crescimento de 74% da população brasileira encarcerada entre 2005 e 2012. As análises possibilitaram identificar o perfil da população que está nas prisões do país: 
+- **2022 Q48** [texto] gab=A | tema: Quarto de despejo; favela
+  - cmd: ório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. O texto, que guarda a graa original da autora, expõe uma característica da sociedade brasileira, que é o(a): A
+  - ini: Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda 
+- **2022 Q56** [charge] gab=A | tema: educação; pandemia; desigualdade digital
+  - cmd: lares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular? ASSIS, A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado). A crítica contida no texto e na gura evidencia o seguinte aspecto da sociedade contemporânea: A
+  - ini: TEXTO I TÁ ESTUDANDO, JÚNIOR? CALMA, TÔ TENTANDO ACHAR UM SINAL DE WI-FI! CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado). TEXTO II É como se os p
+- **2022 Q70** [grafico] gab=A | tema: interseccionalidade; discriminação
+  - cmd: os Casal com filho(s) Outros Unipessoal Casal sem filho 56,9% 64,4% 41,5% Disponível em: www.agenciadenoticias.ibge.gov.br.Acesso em: 2 dez. 2018. Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensicam o fenômeno da discriminação: A
+  - ini: TEXTO I Interseccionalidade: intercruzamento de desigualdades que gera padrões complexos de discriminação. TEXTO II 30,4% 21,0% 11,6% 10,0% Proporção de pessoas abaixo da linha de 
+- **2023 Q60** [texto] gab=D | tema: Maria da Penha; violência de gênero
+  - cmd: tas na Lei Maria da Penha. LEWGOY, J. Conduta quase invisível destrói a vida de mulheres. Disponível em: https://valorinveste.globo.com. Acesso em: 23 out. 2021 (adaptado). O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque consistem em formas de A
+  - ini: Negar o pedido por dinheiro indispensável para necessidades pessoais ou comprar bens usando o nome da pessoa sem o consentimento dela. Ameaçar o corte de recursos dependendo de ati
+- **2023 Q66** [texto] gab=A | tema: fome; crianças; Brasil
+  - cmd:  nem o leite da minha bebê.” CARRANÇA, T. “Até o feijão nos esqueceu”: o livro de 1960 que poderia ter sido escrito nas favelas de 2021. Disponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado). Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma reexão sobre o(a) A
+  - ini: TEXTO I Como é horrivel ver um filho comer e perguntar: “Tem mais?” Esta palavra “tem mais” fica oscilando dentro do cerebro de uma mãe que olha as panela e não tem mais. JESUS, C.
+- **2023 Q69** [texto] gab=D | tema: Afeganistão; direitos das mulheres
+  - cmd: difíceis e perigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 87% das mulheres e meninas serão vítimas de abuso durante a vida. Disponível em: https://g1.globo.com. Acesso em: 12 out. 2021 (adaptado). O texto evidencia situação representativa de A
+  - ini: Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs e
+- **2025 Q67** [texto] gab=D | tema: Fazenda Cabaceiras; Função social da terra; Trabalho análogo à escravidão; Desapropriação
+  - cmd: O texto considera a promoção da justiça como um mecanismo de
+  - ini: Do ponto de vista administrativo e judicial, a desapropriação da fazenda Cabaceiras, localizada na região sul do estado do Pará, é a primeira da história motivada pelo desrespeito 
+
+## cotidiano — 7 questões | anos=[2021, 2022, 2023, 2025]
+
+- **2021 Q60** [texto] gab=B | tema: massa; passividade; canção
+  - cmd: ono do céu. Rio de Janeiro: Sony, 1979 (fragmento). Qual comportamento coletivo é criticado no trecho da letra da canção lançada em 1979? O Militância política. O Passividade social. @ Altruísmo religioso. @ Autocontrole moral. @ Inconformismo eleitoral. 1 -AZUL - 1a Aplicação 21 Exame Nacional do E
+  - ini: Vocês que fazem parte dessa massa Que passa nos projetos do futuro É duro tanto ter que caminhar E dar muito mais do que receber Ê, ô, ô, vida de gado Povo marcado enenvnp,' Ê, pov
+- **2022 Q60** [texto] gab=B | tema: celular; relações humanas
+  - cmd: caz do que o método de oferecer incentivos individuais. MOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado). Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função A
+  - ini: Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do
+- **2022 Q65** [imagem] gab=B | tema: violência; conduta social
+  - cmd: SÃO TENSÃO TENSÃO TENSÃO TENSÃO TENSÃO TENSÃO LUA DE MEL LUA DE MEL LUA DE MEL LUA DE MEL LUA DE MEL LUA DE MEL MORTE AGRESSÃO AGRESSÃO AGRESSÃO AGRESSÃO AGRESSÃO Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021. O ápice da ilustração se traduz por uma conduta social caracterizada pela A
+  - ini: carinho, paixão, presentes, promessas, reconciliação, liberdade LUA DE MEL insulto, humilhação, intimidação, gritos, ameaça, controle, isolamento, medo, conflitos, descumprimento d
+- **2023 Q56** [charge] gab=C | tema: charge; superpoderes; sociedade contemporânea
+  - cmd: EU QUERIA PODER. FORÇA? VISÃO DE RAIO X? TELECINESE? TELEPATIA? PODER POLÍTICO. LAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado). A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela A
+  - ini: EU QUERIA PODER. FORÇA? VISÃO DE RAIO X? TELECINESE? TELEPATIA? PODER POLÍTICO. LAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado). A charge ilustra um an
+- **2023 Q61** [texto] gab=E | tema: Google Assistant; privacidade
+  - cmd:  incansavelmente até que eles automatizem seus próprios trabalhos. A Inteligência Articial (IA) da economia freelancer está vindo atrás de você. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado). O texto critica a mudança tecnológica em razão da seguinte consequência: A
+  - ini: Por trás da “mágica” do Google Assistant de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados,
+- **2025 Q50** [texto] gab=A | tema: Letra da canção; Vida cotidiana; Vínculos afetivos
+  - cmd: A letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a
+  - ini: O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências 
+- **2025 Q51** [texto] gab=D | tema: Canção de Paulinho da Viola; Vida cotidiana; Memória; Vínculos afetivos
+  - cmd: A letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a
+  - ini: Sinal fechado Olá, como vai? Eu vou indo e você, tudo bem? Tudo bem, eu vou indo, correndo Pegar meu lugar no futuro, e você? Tudo bem, eu vou indo em busca De um sono tranquilo, q
+
+## mundo-trabalho — 7 questões | anos=[2020, 2021, 2022, 2024]
+
+- **2020 Q48** [texto] gab=B | tema: feminização; trabalho; igualdade
+  - cmd:  do telemarketing: uma nova divisão sexual do trabalho? In: ANTUNES, R. et al. Infoproletários: degradação real do trabalho virtual. São Paulo: Boitempo, 2009. A transformação descrita no texto tem sido insuficiente para o estabelecimento de uma condição de igualdade de oportunidade em virtude da(s)
+  - ini: Nas últimas décadas, uma acentuada feminização no mundo do trabalho vem ocorrendo. Se a participação masculina pouco cresceu no período pós-1970, a intensificação da inserção das m
+- **2020 Q63** [texto] gab=B | tema: trabalho; modernidade; mentalidade
+  - cmd:  ANTUNES, R. O século XX e a era da degradação do trabalho. In: SILVA, J. P. (Org.). Por uma sociologia do século XX. São Paulo: Annablume, 2007 (adaptado). O processo de ressignificação do trabalho nas sociedades modernas teve início a partir do surgimento de uma nova mentalidade, influenciada pela
+  - ini: Desde o mundo antigo e sua filosofia, que o trabalho tem sido compreendido como expressão de vida e degradação, criação e infelicidade, atividade vital e escravidão, felicidade soc
+- **2020 Q78** [texto] gab=C | tema: toyotismo; organização do trabalho
+  - cmd: s avançados como uma opção possível para a superação de uma crise de acumulação. ANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. São Paulo: Boitempo, 2009 (adaptado). A característica organizacional do modelo em questão, requerida no contexto de crise, foi o(a)
+  - ini: O toyotismo, a partir dos anos 1970, teve grande impacto no mundo ocidental, quando se mostrou para os países avançados como uma opção possível para a superação de uma crise de acu
+- **2021 Q46** [texto] gab=B | tema: trabalho remoto; saúde; família
+  - cmd:  em: W"ww.bbc.com. Acesso em: 4 dez. 2018. O texto indica práticas nas relações cotidianas do trabalho que causam para o indivíduo a O O proteção da vida privada. ampliação de atividades extras. elevação de etapas burocráticas. diversificação do lazer recreativo. desobrigação de afazeres domésticos.
+  - ini: Seu turno de trabalho acabou, você já está em casa e é hora do jantar da família. Mas, em vez de relaxar, você começa a pensar na possibilidade de ter recebido alguma mensagem impo
+- **2021 Q54** [texto] gab=C | tema: tecnologia; profissões; trabalho
+  - cmd: acionado ao controle empresarial é criticado no texto em razão da O operacionalização da tarefa laboral. O capacitação de profissionais liberais. @ fragilização das relações de trabalho. @ hierarquização dos cargos executivos. @ aplicação dos conhecimentos da ciência. :rno 1 - AZUL - 1a Aplicação 23
+  - ini: O uso de novas tecnologias envolve a assimilação de uma cultura empresarial na qual haja a integração entre as propostas de modernização tecnológica e a racionalização. Nem sempre 
+- **2022 Q61** [texto] gab=E | tema: dublagem; inteligência artificial; trabalho
+  - cmd: encial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso. GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021. A consequência da mudança tecnológica apresentada no texto é a A
+  - ini: A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. 
+- **2024 Q90** [texto] gab=C | tema: capitalismo; trabalho; desumanização
+  - cmd: buição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível. CASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982. O texto apresenta uma contradição interna do capitalismo caracterizada pela
+  - ini: Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só po
+
+## movimentos-sociais — 6 questões | anos=[2020, 2022, 2023, 2024]
+
+- **2020 Q80** [texto] gab=C | tema: seringueiros; Amazônia; visibilidade
+  - cmd: adigma de desenvolvimento sustentável com participação popular. ALMEIDA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. Revista Brasileira de Ciências Sociais, n. 55, 2004. De acordo com o texto, a visibilidade dos seringueiros amazônicos foi estabelecida pela relação entre
+  - ini: Os seringueiros amazônicos eram invisíveis no cenário nacional nos anos 1970. Começaram a se articular como um movimento agrário no início dos anos 1980, e na década seguinte conse
+- **2022 Q67** [texto] gab=D | tema: ocupação; direito à moradia
+  - cmd: ndo o direito de usufruir do espaço para a construção de casas. A Carta Magna, em seu art. 6º, garante a todos os brasileiros o direito à moradia. PUTTI, A. Disponível em: www.cartacapital.com.br. Acesso em: 13 nov. 2021 (adaptado). O texto apresenta uma estratégia usada pelo movimento social para A
+  - ini: Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representant
+- **2023 Q65** [texto] gab=A | tema: museu; mobilizações sociais
+  - cmd: trinchada em biograas. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado). As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela A
+  - ini: Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada n
+- **2023 Q75** [texto] gab=C | tema: Fluminense; torcida; comportamento
+  - cmd: mengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas. Disponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021. Qual mudança no comportamento social a proposta reportada no texto reete? A
+  - ini: A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em 
+- **2024 Q52** [texto] gab=B | tema: Black Lives Matter; identidade; política
+  - cmd: idas de todos os negros de todo o espectro de gêneros. LA BOTZ, D. O movimento Black Lives Matter organiza-se e procura denir-se politicamente. Disponível em: www.ufes.br. Acesso em: 4 out. 2021 (adaptado). A reivindicação do movimento norte-americano apresentada no texto consiste na necessidade de
+  - ini: O Black Lives Matter vai para além do nacionalismo estreito que pode prevalecer no seio das comunidades negras, que se limita a apelar aos negros a amar os negros, viver como os ne
+- **2024 Q85** [texto] gab=A | tema: Madres de Plaza de Mayo; Argentina; violência de Estado
+  - cmd: mar”. Era impossível ignorá-las, estavam lá, sempre em silêncio, mas estavam lá. GONÇALVES, R. De antigas e novas loucas: Madres e Mães de Maio contra a violência de Estado. Lutas Sociais, n. 29, jul.-dez. 2012. Qual problema de âmbito nacional argentino o movimento social mencionado expôs ao mundo?
+  - ini: Era uma vez um país, uma cidade, uma praça, algumas mães... Las Madres de Plaza de Mayo! Silenciosas, com lenços brancos na cabeça, rondavam a Praça de Maio. Incansáveis, caminhara

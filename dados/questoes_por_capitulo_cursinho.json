@@ -1,0 +1,1376 @@
+{
+  "geografia|Capítulo 08 - Demografia I: Conceitos e teorias demográficos": [
+    {
+      "ano": 2020,
+      "q": 47,
+      "temas": [
+        "rural",
+        "emprego agrícola",
+        "população"
+      ],
+      "tipo": "populacao",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2023,
+      "q": 76,
+      "temas": [
+        "fecundidade",
+        "demografia"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D"
+    }
+  ],
+  "sociologia|Capítulo 07 - Cidadania e Direitos": [
+    {
+      "ano": 2020,
+      "q": 48,
+      "temas": [
+        "feminização",
+        "trabalho",
+        "igualdade"
+      ],
+      "tipo": "mundo-trabalho",
+      "gabarito": "B"
+    }
+  ],
+  "geografia|Capítulo 09 - Introdução à geografia urbana": [
+    {
+      "ano": 2020,
+      "q": 50,
+      "temas": [
+        "urbanização",
+        "aglomerações urbanas"
+      ],
+      "tipo": "populacao",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2021,
+      "q": 58,
+      "temas": [
+        "cidade",
+        "paisagem",
+        "transformação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 52,
+      "temas": [
+        "sertão",
+        "rural",
+        "cidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2022,
+      "q": 72,
+      "temas": [
+        "deslocamento",
+        "trabalho",
+        "cidade"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2023,
+      "q": 68,
+      "temas": [
+        "mocambos",
+        "Recife",
+        "urbanização"
+      ],
+      "tipo": "populacao",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2024,
+      "q": 57,
+      "temas": [
+        "espaço público",
+        "cidade",
+        "visibilidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D"
+    }
+  ],
+  "sociologia|Capítulo 01 - Antropologia cultural": [
+    {
+      "ano": 2020,
+      "q": 54,
+      "temas": [
+        "arte africana",
+        "cultura",
+        "identidade"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2022,
+      "q": 75,
+      "temas": [
+        "Kambeba",
+        "rio",
+        "cultura"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2023,
+      "q": 58,
+      "temas": [
+        "Cavalgada",
+        "devoção",
+        "cultura"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 01 - Geomorfologia 1: Unidades de relevo": [
+    {
+      "ano": 2020,
+      "q": 59,
+      "temas": [
+        "escudos cristalinos",
+        "mineração"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2020,
+      "q": 67,
+      "temas": [
+        "vulcões",
+        "fenda tectônica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2020,
+      "q": 82,
+      "temas": [
+        "vulcões",
+        "risco",
+        "Puebla"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2020,
+      "q": 84,
+      "temas": [
+        "placas tectônicas",
+        "feição fisiográfica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2020,
+      "q": 90,
+      "temas": [
+        "febre amarela",
+        "Mariana",
+        "degradação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2021,
+      "q": 63,
+      "temas": [
+        "mineração",
+        "conflitos",
+        "extrativismo"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2021,
+      "q": 71,
+      "temas": [
+        "crosta terrestre",
+        "geomorfologia"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2022,
+      "q": 50,
+      "temas": [
+        "ferrovia",
+        "Amazônia",
+        "ocupação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 64,
+      "temas": [
+        "tectônica",
+        "relevo"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2023,
+      "q": 48,
+      "temas": [
+        "Cerrado",
+        "territorialização",
+        "produção"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2023,
+      "q": 53,
+      "temas": [
+        "Himalaia",
+        "tectônica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2023,
+      "q": 83,
+      "temas": [
+        "solos",
+        "degradação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2024,
+      "q": 46,
+      "temas": [
+        "terremoto",
+        "placas tectônicas",
+        "Chile"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 70,
+      "temas": [
+        "Flórida",
+        "Desmoronamento de solo",
+        "Calcário",
+        "Intemperismo químico"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2025,
+      "q": 84,
+      "temas": [
+        "Cerrado",
+        "Incêndios florestais",
+        "Sensoriamento remoto",
+        "Prevenção"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    }
+  ],
+  "geografia|Capítulo 15 - Nova DIT e Modelo organizacional toyotista": [
+    {
+      "ano": 2020,
+      "q": 61,
+      "temas": [
+        "divisão internacional do trabalho",
+        "América Latina"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "C"
+    }
+  ],
+  "sociologia|Capítulo 05 - Estado e Governo": [
+    {
+      "ano": 2020,
+      "q": 64,
+      "temas": [
+        "anos 1990",
+        "governo",
+        "questão social"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2024,
+      "q": 81,
+      "temas": [
+        "quilombos",
+        "Constituição de 1988",
+        "Estado"
+      ],
+      "tipo": "instituicoes-participacao",
+      "gabarito": ""
+    }
+  ],
+  "historia|Capítulo 02 - Mundo Antigo: Roma": [
+    {
+      "ano": 2020,
+      "q": 70,
+      "temas": [
+        "Roma",
+        "Cartago",
+        "Salústio"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2020,
+      "q": 83,
+      "temas": [
+        "cristianismo",
+        "Império Romano",
+        "Sennett"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D"
+    }
+  ],
+  "filosofia|Capítulo 04 - Empirismo": [
+    {
+      "ano": 2020,
+      "q": 74,
+      "temas": [
+        "conhecimento",
+        "empirismo",
+        "percepção"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2020,
+      "q": 89,
+      "temas": [
+        "Hume",
+        "conhecimento",
+        "experiência"
+      ],
+      "tipo": "ciencia-filosofia",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2024,
+      "q": 62,
+      "temas": [
+        "empirismo",
+        "dogmas",
+        "Carnap"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2024,
+      "q": 82,
+      "temas": [
+        "Russell",
+        "indução",
+        "ciência"
+      ],
+      "tipo": "ciencia-filosofia",
+      "gabarito": "C"
+    }
+  ],
+  "geografia|Capítulo 01 - Cartografia I: Introdução à Cartografia": [
+    {
+      "ano": 2020,
+      "q": 75,
+      "temas": [
+        "cartografia",
+        "América",
+        "representação"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2022,
+      "q": 68,
+      "temas": [
+        "EUA",
+        "mapa",
+        "estratégia"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2022,
+      "q": 78,
+      "temas": [
+        "escala",
+        "mapa",
+        "MH370"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2024,
+      "q": 83,
+      "temas": [
+        "cartografia",
+        "mapas",
+        "poder"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "E"
+    }
+  ],
+  "historia|Capítulo 07 - Ideário político do século XIX": [
+    {
+      "ano": 2020,
+      "q": 76,
+      "temas": [
+        "Tocqueville",
+        "leis de sucessão",
+        "democracia"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2020,
+      "q": 87,
+      "temas": [
+        "Grécia",
+        "democracia",
+        "povo"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 90,
+      "temas": [
+        "Expedição russa",
+        "Antropologia",
+        "Nacionalismo",
+        "Império"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A"
+    }
+  ],
+  "historia|Capítulo 12 - América Portuguesa: sociedade escravocrata e cultura colonial": [
+    {
+      "ano": 2020,
+      "q": 79,
+      "temas": [
+        "coolies",
+        "escravidão",
+        "comparação"
+      ],
+      "tipo": "comparar-processos",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2020,
+      "q": 81,
+      "temas": [
+        "jesuítas",
+        "escravidão",
+        "expansão ultramarina"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2021,
+      "q": 85,
+      "temas": [
+        "escravo fugido",
+        "anúncio",
+        "escravidão"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 04 - Dinámica interna da Terra e agentes endógenos": [
+    {
+      "ano": 2020,
+      "q": 84,
+      "temas": [
+        "placas tectônicas",
+        "feição fisiográfica"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2024,
+      "q": 46,
+      "temas": [
+        "terremoto",
+        "placas tectônicas",
+        "Chile"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    }
+  ],
+  "historia|Capítulo 04 - Revolução Francesa": [
+    {
+      "ano": 2020,
+      "q": 86,
+      "temas": [
+        "Declaração de Direitos",
+        "Revolução Francesa"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2023,
+      "q": 86,
+      "temas": [
+        "Balzac",
+        "Revolução Francesa",
+        "postura"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E"
+    }
+  ],
+  "historia|Capítulo 01 - Revolução Inglesa": [
+    {
+      "ano": 2020,
+      "q": 86,
+      "temas": [
+        "Declaração de Direitos",
+        "Revolução Francesa"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D"
+    }
+  ],
+  "historia|Capítulo 01 - Mundo Antigo: Grécia": [
+    {
+      "ano": 2020,
+      "q": 87,
+      "temas": [
+        "Grécia",
+        "democracia",
+        "povo"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E"
+    }
+  ],
+  "sociologia|Capítulo 02 - Esferas da cultura de massas": [
+    {
+      "ano": 2021,
+      "q": 53,
+      "temas": [
+        "sertão",
+        "cultura popular",
+        "patrimônio"
+      ],
+      "tipo": "identidade-cultura",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2023,
+      "q": 55,
+      "temas": [
+        "Adorno",
+        "tempo livre",
+        "indústria cultural"
+      ],
+      "tipo": "conceito",
+      "gabarito": ""
+    },
+    {
+      "ano": 2024,
+      "q": 63,
+      "temas": [
+        "indústria cultural",
+        "arte",
+        "reflexão"
+      ],
+      "tipo": "conceito",
+      "gabarito": ""
+    }
+  ],
+  "geografia|Capítulo 10 - Migrações internacionais": [
+    {
+      "ano": 2021,
+      "q": 55,
+      "temas": [
+        "refugiados",
+        "fronteiras",
+        "migração"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 72,
+      "temas": [
+        "deslocamento",
+        "trabalho",
+        "cidade"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2024,
+      "q": 79,
+      "temas": [
+        "refugiados",
+        "fronteiras",
+        "políticas públicas"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E"
+    }
+  ],
+  "geografia|Capítulo 06 - Mudanças climáticas locais e regionais": [
+    {
+      "ano": 2021,
+      "q": 58,
+      "temas": [
+        "cidade",
+        "paisagem",
+        "transformação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 52,
+      "temas": [
+        "sertão",
+        "rural",
+        "cidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2022,
+      "q": 72,
+      "temas": [
+        "deslocamento",
+        "trabalho",
+        "cidade"
+      ],
+      "tipo": "populacao",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2024,
+      "q": 57,
+      "temas": [
+        "espaço público",
+        "cidade",
+        "visibilidade"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "D"
+    }
+  ],
+  "geografia|Capítulo 05 - Climatologia II: Classificação climática e climogramas brasileiros": [
+    {
+      "ano": 2021,
+      "q": 59,
+      "temas": [
+        "semiárido",
+        "clima",
+        "saber tradicional"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2022,
+      "q": 46,
+      "temas": [
+        "sertanejo",
+        "caatinga",
+        "paisagem"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2022,
+      "q": 50,
+      "temas": [
+        "ferrovia",
+        "Amazônia",
+        "ocupação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    }
+  ],
+  "geografia|Capítulo 03 - Introdução à climatologia": [
+    {
+      "ano": 2021,
+      "q": 59,
+      "temas": [
+        "semiárido",
+        "clima",
+        "saber tradicional"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2022,
+      "q": 74,
+      "temas": [
+        "radiação solar",
+        "clima"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2023,
+      "q": 89,
+      "temas": [
+        "clima",
+        "simulações",
+        "mitigação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2024,
+      "q": 71,
+      "temas": [
+        "COP26",
+        "Brasil",
+        "clima"
+      ],
+      "tipo": "redes-globalizacao",
+      "gabarito": "D"
+    }
+  ],
+  "geografia|Capítulo 11 - Geografia das redes: transporte, energia e telecomunicações": [
+    {
+      "ano": 2021,
+      "q": 61,
+      "temas": [
+        "porto",
+        "Rio de Janeiro",
+        "especulação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2022,
+      "q": 50,
+      "temas": [
+        "ferrovia",
+        "Amazônia",
+        "ocupação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2023,
+      "q": 71,
+      "temas": [
+        "logística",
+        "soja",
+        "produção"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2025,
+      "q": 56,
+      "temas": [
+        "Crise climática",
+        "Rio Reno",
+        "Navegação fluvial",
+        "Logística de transporte"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    }
+  ],
+  "filosofia|Capítulo 03 - Racionalismo": [
+    {
+      "ano": 2021,
+      "q": 86,
+      "temas": [
+        "Descartes",
+        "árvore",
+        "metafísica"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2023,
+      "q": 54,
+      "temas": [
+        "Descartes",
+        "corpo",
+        "raiva"
+      ],
+      "tipo": "comparar-autores",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 02 - Cartografia II: Movimentos da Terra": [
+    {
+      "ano": 2021,
+      "q": 89,
+      "temas": [
+        "solstícios",
+        "sombra",
+        "orientação"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B"
+    }
+  ],
+  "historia|Capítulo 11 - América Portuguesa: aspectos políticos e econômicos": [
+    {
+      "ano": 2021,
+      "q": 90,
+      "temas": [
+        "escravos",
+        "Rio de Janeiro",
+        "cotidiano"
+      ],
+      "tipo": "agrario-trabalho",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2022,
+      "q": 54,
+      "temas": [
+        "caixeiros",
+        "Rio de Janeiro",
+        "trabalhadores"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 78,
+      "temas": [
+        "Roda dos Expósitos",
+        "Salvador",
+        "Brasil Colônia",
+        "Caridade e salvação"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "B"
+    }
+  ],
+  "geografia|Capítulo 02 - Geomorfologia II: Classificação do relevo brasileiro": [
+    {
+      "ano": 2022,
+      "q": 46,
+      "temas": [
+        "sertanejo",
+        "caatinga",
+        "paisagem"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2022,
+      "q": 50,
+      "temas": [
+        "ferrovia",
+        "Amazônia",
+        "ocupação"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2022,
+      "q": 82,
+      "temas": [
+        "rochas ígneas",
+        "mapa",
+        "Amazônia"
+      ],
+      "tipo": "leitura-cartografica",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2023,
+      "q": 48,
+      "temas": [
+        "Cerrado",
+        "territorialização",
+        "produção"
+      ],
+      "tipo": "producao-espaco",
+      "gabarito": "A"
+    },
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 84,
+      "temas": [
+        "Cerrado",
+        "Incêndios florestais",
+        "Sensoriamento remoto",
+        "Prevenção"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    }
+  ],
+  "historia|Capítulo 16 - Brasil Império: Segundo Reinado (1840-1889)": [
+    {
+      "ano": 2022,
+      "q": 53,
+      "temas": [
+        "mulheres letradas",
+        "Segundo Reinado",
+        "leitura"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "A"
+    }
+  ],
+  "historia|Capítulo 09 - Reforma Protestante e Contrarreforma": [
+    {
+      "ano": 2022,
+      "q": 85,
+      "temas": [
+        "Inquisição",
+        "rito",
+        "Igreja"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "D"
+    }
+  ],
+  "geografia|Capítulo 10 - Urbanização acelerada: problemas urbanos": [
+    {
+      "ano": 2022,
+      "q": 87,
+      "temas": [
+        "macrocefalia urbana",
+        "concentração"
+      ],
+      "tipo": "populacao",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2023,
+      "q": 78,
+      "temas": [
+        "agricultura urbana",
+        "favela"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 14 - Industrialização tardia: economias emergentes": [
+    {
+      "ano": 2023,
+      "q": 49,
+      "temas": [
+        "China",
+        "política demográfica"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E"
+    }
+  ],
+  "sociologia|Capítulo 04 - Sociologia brasileira": [
+    {
+      "ano": 2023,
+      "q": 66,
+      "temas": [
+        "fome",
+        "crianças",
+        "Brasil"
+      ],
+      "tipo": "desigualdade",
+      "gabarito": "A"
+    }
+  ],
+  "historia|Capítulo 07 - Expansão marítima e comercial": [
+    {
+      "ano": 2023,
+      "q": 73,
+      "temas": [
+        "expansão marítima",
+        "século XV"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A"
+    }
+  ],
+  "historia|Capítulo 03 - Iluminismo": [
+    {
+      "ano": 2023,
+      "q": 77,
+      "temas": [
+        "Iluminismo",
+        "1828",
+        "ideia"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2024,
+      "q": 75,
+      "temas": [
+        "Iluminismo",
+        "salões",
+        "esfera pública"
+      ],
+      "tipo": "processo-politico",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 07 - Mudanças climáticas globais": [
+    {
+      "ano": 2023,
+      "q": 89,
+      "temas": [
+        "clima",
+        "simulações",
+        "mitigação"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2024,
+      "q": 60,
+      "temas": [
+        "racionalidade produtiva",
+        "território",
+        "sustentabilidade"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 47,
+      "temas": [
+        "Queimadas",
+        "CO₂",
+        "Dispersão espacial",
+        "Massas de ar"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    },
+    {
+      "ano": 2025,
+      "q": 56,
+      "temas": [
+        "Crise climática",
+        "Rio Reno",
+        "Navegação fluvial",
+        "Logística de transporte"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "C"
+    }
+  ],
+  "historia|Capítulo 04 - Baixa Idade Média": [
+    {
+      "ano": 2024,
+      "q": 59,
+      "temas": [
+        "universidades medievais",
+        "patrimônio",
+        "legado"
+      ],
+      "tipo": "passado-presente",
+      "gabarito": ""
+    }
+  ],
+  "geografia|Capítulo 07 - Técnicas conservativas e degradativas do solo": [
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    }
+  ],
+  "geografia|Capítulo 06 - Pedogénese e processos erosivos": [
+    {
+      "ano": 2024,
+      "q": 68,
+      "temas": [
+        "Amazônia",
+        "desmatamento",
+        "ciclo da água"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "E"
+    }
+  ],
+  "filosofia|Capítulo 05 - Kant: teoria do conhecimento": [
+    {
+      "ano": 2024,
+      "q": 78,
+      "temas": [
+        "regra de ouro",
+        "ética",
+        "Kant"
+      ],
+      "tipo": "aplicar-conceito",
+      "gabarito": "B"
+    }
+  ],
+  "geografia|Capítulo 11 - Migrações brasileiras": [
+    {
+      "ano": 2025,
+      "q": 54,
+      "temas": [
+        "Êxodo urbano",
+        "Deslocamento populacional",
+        "Elite",
+        "Metrópole"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E"
+    },
+    {
+      "ano": 2025,
+      "q": 57,
+      "temas": [
+        "Itinerários afetivos",
+        "Socioespaço",
+        "Memória do lugar",
+        "Migração Nordeste-Sudeste"
+      ],
+      "tipo": "populacao",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 12 - Regiões metropolitanas e megalópoles": [
+    {
+      "ano": 2025,
+      "q": 54,
+      "temas": [
+        "Êxodo urbano",
+        "Deslocamento populacional",
+        "Elite",
+        "Metrópole"
+      ],
+      "tipo": "populacao",
+      "gabarito": "E"
+    }
+  ],
+  "geografia|Capítulo 08 - Desenvolvimento sustentável e acordos ambientais": [
+    {
+      "ano": 2025,
+      "q": 59,
+      "temas": [
+        "Energia hidrelétrica",
+        "Floresta Amazônica",
+        "Água",
+        "Matriz energética"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "B"
+    },
+    {
+      "ano": 2025,
+      "q": 77,
+      "temas": [
+        "Eletromobilidade",
+        "Metais raros",
+        "Desenvolvimento sustentável",
+        "Charge"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "A"
+    }
+  ],
+  "historia|Capítulo 03 - Alta Idade Média": [
+    {
+      "ano": 2025,
+      "q": 69,
+      "temas": [
+        "Idade Média",
+        "Igreja",
+        "Salvação",
+        "Cruzadas"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "C"
+    },
+    {
+      "ano": 2025,
+      "q": 89,
+      "temas": [
+        "Textos sagrados",
+        "Ciência",
+        "Antiguidade",
+        "Idade Média"
+      ],
+      "tipo": "interpretar-fonte",
+      "gabarito": "E"
+    }
+  ],
+  "filosofia|Capítulo 06 - Ética kantiana e utilitarista": [
+    {
+      "ano": 2025,
+      "q": 79,
+      "temas": [
+        "Jeremy Bentham",
+        "Utilitarismo",
+        "Punição",
+        "Felicidade"
+      ],
+      "tipo": "interpretar-fragmento",
+      "gabarito": "A"
+    }
+  ],
+  "geografia|Capítulo 03 - Cartografia III: Representação cartográfica": [
+    {
+      "ano": 2025,
+      "q": 84,
+      "temas": [
+        "Cerrado",
+        "Incêndios florestais",
+        "Sensoriamento remoto",
+        "Prevenção"
+      ],
+      "tipo": "socioambiental",
+      "gabarito": "D"
+    }
+  ]
+}
