@@ -5,7 +5,6 @@ Indo um pouco além dessa ideia inicial, o projeto ainda fez o link entre o mate
 Confira o resultado [aqui](Resultados/Humanas/Guia-de-Estudo.md).
 
 ## Tech
-___
 - Python 3.13
 - JSONL (banco)
 - JSON (saídas detalhadas)
@@ -14,14 +13,12 @@ ___
 - PyMuPDF / pypdf / Word COM / OCR
 
 ## Funcionalidades
-___
 - Extração de texto de questões via Python para economizar tokens
 - Dados armazenados de forma simples em JSONL
 - Separação de questões por Macro-Temas e Sub-Temas por IA
 - Cruzamento de dados entre divisão de questões do ENEM por tema e capítulos do cursinho
 
 ## Próximos passos
-___
 A principal melhoria no projeto seria uma definição padronizada de temas. No projeto atual a IA definiu sub-temas para cada questão e como resultado houveram 684 etiquetas de sub-tema distintas para 270 questões (201 em História, 215 em Geografia, 145 em Sociologia, 123 em Filosofia). Temas como 'terra', 'cultura', 'arte', 'império', 'sociedade', 'costumes' acabam convivendo com 'lei aberdeen', 'Balfour' e 'Chiquinha Gonzaga'.
 
 Depois, quando houve mapeamento de sub-temas em capítulos do cursinho por substring, ocorreram falsos positivos como ("cemitério" → Segundo Reinado).
